@@ -2,7 +2,7 @@
 
 
 # Intro-Web-Dev Site Repo
-Instructor: Justine Evans ([justine.evans@umontana.edu](mailto:justine.evans@umontana.edu))
+Instructor: Michael Cassens ([michael.cassens@umontana.edu](mailto:michael.cassens@umontana.edu))
 
 
 ### License
