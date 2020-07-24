@@ -5,14 +5,14 @@ description: >
   Course content for an introductory look at building and designing for the web.
 lang: en-US
 
-apex: https://media-ed-online.com
+apex: https://montana-media-arts.github.io/341-web-design-Fall2020/
 author:
   name: Justine Evans
   email: justine.evans@umontana.edu
   slack: https://ummediaarts.slack.com/team/U6T476W7Q
 
-baseurl: ""
-url: https://intro-web-dev.media-ed-online.com
+baseurl: "https://montana-media-arts.github.io/341-web-design-Fall2020/"
+url: https://montana-media-arts.github.io/341-web-design-Fall2020/
 git_address: https://github.com/media-ed-online/intro-web-dev
 git_edit_address: https://github.com/media-ed-online/intro-web-dev/blob/gh-pages
 slack: https://ummediaarts.slack.com/team/U6T476W7Q
