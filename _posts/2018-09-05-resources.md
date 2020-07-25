@@ -2,7 +2,6 @@
 layout: post
 title:  "Resources"
 author: Justine
-permalink: /resources
 tags: contact, help
 ---
 
