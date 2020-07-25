@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "Resources"
-author: Justine
-tags: contact, help
+title: Resources
+module: topic-00
+permalink: /topic-00/resources/
+categories: logistics
+tags: grades, resources
 ---
 
 ## Need a hand?
