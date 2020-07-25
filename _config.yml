@@ -1,5 +1,5 @@
 # Site Settings
-title: Intro-Web-Dev
+title: MART 341 Intro-Web-Dev
 email: admin@media-ed-online.com
 description: >
   Course content for an introductory look at building and designing for the web.
@@ -7,15 +7,13 @@ lang: en-US
 
 apex: https://montana-media-arts.github.io/341-web-design-Fall2020/
 author:
-  name: Justine Evans
-  email: justine.evans@umontana.edu
-  slack: https://ummediaarts.slack.com/team/U6T476W7Q
+  name: Michael Cassens
+  email: michael.cassens@umontana.edu
 
 baseurl: "https://montana-media-arts.github.io/341-web-design-Fall2020"
 url: https://montana-media-arts.github.io/341-web-design-Fall2020/
 git_address: https://github.com/Montana-Media-Arts/341-web-design-Fall2020
 git_edit_address: https://github.com/Montana-Media-Arts/341-web-design-Fall2020/blob/gh-pages
-slack: https://ummediaarts.slack.com/team/U6T476W7Q
 
 # Theme options from https://bootswatch.com/
 # Comment out this to use default Bootstrap

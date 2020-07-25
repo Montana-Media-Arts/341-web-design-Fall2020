@@ -13,7 +13,7 @@ The absolute best way to ask for help in this course is to utilize the <a href="
 
 1. Everyone has access to your question, and can help respond.
 2. It is easier for your instructor to reply to Issues than to e-mails.
-3. <span class="label label-success">Neat-O</span> If you push changes to GitHub, your instructor has access to your code and can provide _specific_ solutions, when/where/how directly into your site code.
+3. If you push changes to GitHub, your instructor has access to your code and can provide _specific_ solutions, when/where/how directly into your site code.
 
 
 ## Contributing

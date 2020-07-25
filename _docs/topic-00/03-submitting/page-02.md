@@ -20,11 +20,11 @@ To begin, you need to register with <a href="https://github.com/" target="_blank
 <span class="label label-info">Note</span> Please choose a username that you are comfortable with being part of your publicly-visible URL. For grading purposes, this should be a derivative of your name (make it easy on us, please).
 
 <ul class="pros-and-cons">
-  <li class="icon-pro">JustineEvansMT</li>
-  <li class="icon-pro">JNEvans</li>
-  <li class="icon-pro">J-Evans-Filmographer</li>
-  <li class="icon-con">digitalDJ</li>
-  <li class="icon-con">7sb00-dkns_42</li>
+  <li class="icon-pro">michaelcassens</li>
+  <li class="icon-pro">mcassens</li>
+  <li class="icon-pro">cassens-mt</li>
+  <li class="icon-con">crazyrider456</li>
+  <li class="icon-con">dzjewqs</li>
 </ul>
 
 Your username will be publicly available and used often for many things throughout this course (ie. homework) and your entire time on GitHub.
