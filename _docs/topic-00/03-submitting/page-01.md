@@ -36,7 +36,7 @@ As you saw in the above video, GitHub also provides advanced collaboration tools
 ###  Static Website Hosting:
 GitHub also provides a service known as <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. This service provides **free** static website hosting. This is what you will primarily use this semester to host your web projects.
 
-<span class="label label-success">Neat-o</span> Did I mention it is FREE? This means you do not have to purchase server providers from another company.
+Did I mention it is **FREE**? This means you do not have to purchase server providers from another company.
 
 ### Community Wiki Pages:
 Each repository also contains a community-editable wiki page, which can provide in depth information and how-to tutorials on a specific project.

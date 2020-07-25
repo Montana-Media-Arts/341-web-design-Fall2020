@@ -17,7 +17,7 @@ We will discuss <a href="https://github.com/" target="_blank">GitHub.com</a> mor
 ## Create a GitHub.com Account
 To begin, you need to register with <a href="https://github.com/" target="_blank">GitHub.com</a>.
 
-<span class="label label-info">Note</span> Please choose a username that you are comfortable with being part of your publicly-visible URL. For grading purposes, this should be a derivative of your name (make it easy on us, please).
+<span class="label label-info">Note</span> Please choose a username that you are comfortable with being part of your publicly-visible URL. It's up to you, but I recommend making it something that you are okay sharing with others.  This is a common question from perspective employers.  They want a link to your GitHub repository and if it's something silly, you might not want to share it.  Here are some examples.
 
 <ul class="pros-and-cons">
   <li class="icon-pro">michaelcassens</li>

@@ -22,7 +22,7 @@ Never _ever_ hesitate to be your own instructor. There are many resources and co
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 ### 4. E-mail
-Please feel free to send me a message <a href="mailto:michael.cassens@umontana.edu?subject=MART341">anytime</a> I will get back to you as soon as I can!
+Please feel free to send me a message <a href="mailto:michael.cassens@umontana.edu?subject=MART341">michael.cassens@umontana.edu</a> I will get back to you as soon as I can!
 
 ### 5. The BA Lab (McGill 127), When Available
 <span class="label label-info">Note</span> _The BA Lab is not open Fall 2020.  We are teaching in a remote-only capacity.  I will do my best to help you work through all your questions.
