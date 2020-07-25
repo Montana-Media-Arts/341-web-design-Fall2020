@@ -22,7 +22,7 @@ Never _ever_ hesitate to be your own instructor. There are many resources and co
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 ### 4. E-mail
-Please visit the <a href="{{ site.data.moodle.contact }}" target="_blank">contact area on Moodle<a/> to get current instructor and TA contact information.  I will get back to you as soon as I can!
+Please visit the <a href="mailto:michael.cassens@umontana.edu?subject=MART341">Contact me anytime<a/> I will get back to you as soon as I can!
 
 ### 5. The BA Lab (McGill 127), When Available
 <span class="label label-info">Note</span> _The BA Lab is not Fall 2020.  We are teaching in a remote only capacity.  I will do my best to help with screen sharing, etc.
