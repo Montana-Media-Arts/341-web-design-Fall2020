@@ -9,13 +9,14 @@ tags:
 
 <div class="section-title">
   <img src="../img/assignment-01.svg" alt="" title="Assignment 1: READMEs" />
-  <h2 style="text-align: center;">01://Repositories</h2>
+  <h2 style="text-align: center;">01://The Internet</h2>
 </div>
 
 
 This topic is all about the internet, what it is, and what it _isn’t_. We'll take a wide look at how we approach creating for the web, and begin setting up your development environment.
 
-Our course is broken up into 4 modules, at 3-to-4 topics a piece. These topics will help you create the module's project. Your first project (and its topics, beginning with this one) introduces the class and its tools (GitHub), as well as the (in)tangibility of the internet and world wide web.
+<!--Our course is broken up into 4 modules, at 3-to-4 topics a piece. These topics will help you create the module's project. Your first project (and its topics, beginning with this one) introduces the class and its tools (GitHub), as well as the (in)tangibility of the internet and world wide web.
+-->
 
 By the end of this Topic, we hope you:
 
