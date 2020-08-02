@@ -53,7 +53,7 @@ categories: uncategorized
     <li>Watch and Star the Issues Forum</li>
     <li>Create a new Issue on the Issues Forum</li>
     <li>Take the Syllabus Quiz</li>
-    <li>Create screenshots of each of 1-4 once complete and submit into Moodle.</li>
+    <li>Once you complete steps 1-4, create screen shots, zip them altogether, and submit into Moodle.</li>
     </ol>
   </div>
 </div>
