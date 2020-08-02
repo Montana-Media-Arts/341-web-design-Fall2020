@@ -34,7 +34,7 @@ categories: uncategorized
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <p><iframe src="https://umontanamediaarts.com/MART120/wp-admin/admin-ajax.php?action=h5p_embed&id=1" width="958" height="343" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://umontanamediaarts.com/MART120/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script></p>
+        <a href="https://umontanamediaarts.com/MART120/wp-admin/admin-ajax.php?action=h5p_embed&id=1" target="_blank" class="list-group-item">
           <i class="icon-hw fas fa-question" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">Take the Syllabus Quiz</h4>
           <div class="divider-hw"></div>
