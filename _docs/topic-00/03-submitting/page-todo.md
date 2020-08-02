@@ -44,3 +44,16 @@ categories: uncategorized
     </div>
   </div>
 </div>
+<div class="row text-center">
+  <div class="col-lg-4">
+    <h3>Homework 1</h3>
+    <p>In this homework, we are going to just explore GitHub by creating an account, checking out the Issues forum for the class and taking the Syllabus Quiz.  Create screen shots of all these items when complete, zip them and upload them into Moodle.</p>
+    <ol>
+    <li>Create a GitHub Account.</li>
+    <li>Watch and Star the Issues Forum</li>
+    <li>Create a new Issue on the Issues Forum</li>
+    <li>Take the Syllabus Quiz</li>
+    <li>Create screenshots of each of 1-4 once complete and submit into Moodle.</li>
+
+  </div>
+</div>
