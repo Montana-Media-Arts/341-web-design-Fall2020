@@ -1,10 +1,10 @@
 # Moodle Links to Update Each Semester/Session
 
 # Only the main site and pages need to be updated
-main:       https://moodle.umt.edu #Fall 2020
-syllabus:   https://moodle.umt.edu
-schedule:   https://moodle.umt.edu
-contact:    https://moodle.umt.edu
+main:       https://moodle.umt.edu/course/view.php?id=31759 #Fall 2020
+syllabus:   https://moodle.umt.edu/mod/resource/view.php?id=1606856&redirect=1
+schedule:   
+contact:    https://moodle.umt.edu/user/profile.php?id=3355
 
 # Note: topic-00 is usually called "introduction" on the shell.
 topic-00: '#section-1'
