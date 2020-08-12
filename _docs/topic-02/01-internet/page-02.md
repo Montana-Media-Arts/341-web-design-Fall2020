@@ -1,7 +1,7 @@
 ---
 title: What is the web?
-module: topic-01
-permalink: /topic-01/what-is-the-web/
+module: topic-02
+permalink: /topic-02/what-is-the-web/
 categories: development
 tags: internet, web
 ---

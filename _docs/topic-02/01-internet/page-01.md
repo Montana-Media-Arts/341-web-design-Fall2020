@@ -1,7 +1,7 @@
 ---
 title: What is the internet?
-module: topic-01
-permalink: /topic-01/what-is-the-net/
+module: topic-02
+permalink: /topic-02/what-is-the-net/
 categories: development
 tags: how, internet
 ---

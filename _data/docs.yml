@@ -48,16 +48,9 @@ topic-00:
 ##################################################
 
 topic-01:
-  - title: “The Internet”
+  - title: Files and Directories
     docs:
     - overview
-
-  - title: Q & A with “the Internet”
-    docs:
-    - what-is-the-net
-    - what-is-the-web
-    - how-the-net-works
-    - todo-net
 
   - title: Files
     docs:
@@ -94,10 +87,17 @@ topic-01:
 ##################################################
 
 topic-02:
-  - title: “READMEs”
+  - title: Files and Directories
     docs:
     - overview
 
+- title: Q & A with “the Internet”
+    docs:
+    - what-is-the-net
+    - what-is-the-web
+    - how-the-net-works
+    - todo-net
+    
   - title: The Flow of Information
     docs:
     - net-infrastructure
