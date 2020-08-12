@@ -9,11 +9,11 @@ tags:
 
 <div class="section-title">
   <img src="../img/assignment-03.svg" alt="" title="Assignment 3: Pages" />
-  <h2 style="text-align: center;">03://Pages</h2>
+  <h2 style="text-align: center;">Intro to HTML</h2>
 </div>
 
 
-Now that you're becoming familiar with directories and files, we can start diggining into HTML with the goal of creating and publishing live webpages! Let's start with looking at how we _experience_ these sites via browsers, an often overlooked software that we use everyday.
+Now that you're becoming familiar with directories and files, we can start digging into HTML with the goal of creating and publishing live webpages! Let's start with looking at how we _experience_ these sites via browsers, an often overlooked software that we use everyday.
 
 By the end of this Topic, we hope you:
 <ul class="pros-and-cons">
