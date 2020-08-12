@@ -91,13 +91,13 @@ topic-02:
     docs:
     - overview
 
-- title: Q & A with “the Internet”
+  - title: Q & A with “the Internet”
     docs:
     - what-is-the-net
     - what-is-the-web
     - how-the-net-works
     - todo-net
-    
+
   - title: The Flow of Information
     docs:
     - net-infrastructure
