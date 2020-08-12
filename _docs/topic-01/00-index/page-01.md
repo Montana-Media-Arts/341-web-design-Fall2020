@@ -9,7 +9,7 @@ tags:
 
 <div class="section-title">
   <img src="../img/assignment-01.svg" alt="" title="Assignment 1: READMEs" />
-  <h2 style="text-align: center;">01://The Internet</h2>
+  <h2 style="text-align: center;">The Internet</h2>
 </div>
 
 
