@@ -152,7 +152,7 @@ topic-03:
     - browser-stats
     - todo-browsers
 
-  - title: Document Object Manager
+  - title: Document Object Model
     docs:
     - dom-breakdown
     - dom-markup
