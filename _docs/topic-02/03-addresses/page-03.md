@@ -22,5 +22,5 @@ To continue our analogy, since I'm already inside the same building as "profile.
 
 This will be handy for you as you start to link to your own images within your repo.
 
-<img src="../img/url-door.gif" alt="apartment building" style="width: 400px;" />
+<img src="../img/url-building.gif" alt="apartment building" style="width: 400px;" />
 <div class="img-caption">If I'm on the same floor as “images,” I simply have to enter that apartment to find profile.png.</div>
