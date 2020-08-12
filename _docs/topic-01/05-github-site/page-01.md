@@ -27,11 +27,6 @@ One great thing about working with text files is that their simplicity makes it 
 - **Revert Back** - Version control also allows for a developer/writer to make changes that may or may not work. If they find that the change they made was inappropriate, or did not work, they can simply revert back to a previous version. There is no need for directories full of “save as...” files.
 - **Share and Collaborate** - Version control makes collaboration and sharing easier. Then all associated parties can see all changes made by each other, and manage any conflicts that may occur within a file.
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hKfo0OXc1BI" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
 <div class="divider-pg"></div>
 
 
