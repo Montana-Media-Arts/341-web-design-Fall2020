@@ -44,16 +44,3 @@ categories: uncategorized
     </div>
   </div>
 </div>
-<div class="row">
-  <div class="col-lg-12">
-    <h3>Homework 1</h3>
-    <p>In this homework, we are going to just explore GitHub by creating an account, checking out the Issues forum for the class and taking the Syllabus Quiz.  Create screen shots of all these items when complete, zip them and upload them into Moodle.</p>
-    <ol>
-    <li>Create a GitHub Account.</li>
-    <li>Watch and Star the Issues Forum</li>
-    <li>Create a new Issue on the Issues Forum</li>
-    <li>Take the Syllabus Quiz</li>
-    <li>Once you complete steps 1-4, create screen shots, zip them altogether, and submit into <a href="https://moodle.umt.edu/mod/assign/view.php?id=1607361" target="_new">Moodle</a>.</li>
-    </ol>
-  </div>
-</div>
