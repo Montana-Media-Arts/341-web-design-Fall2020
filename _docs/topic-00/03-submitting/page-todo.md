@@ -24,7 +24,7 @@ categories: uncategorized
       <div class="list-group">
         <a href="{{ site.git_address | append: "-resources/issues/" }}" target="_blank" class="list-group-item">
           <i class="icon-hw fas fa-comments" aria-hidden="true"></i>
-          <h4 class="list-group-item-heading">Explore, Star, Watch, and Post on the Issues Board</h4>
+          <h4 class="list-group-item-heading">Explore, Star, Watch, and Post</h4>
           <div class="divider-hw"></div>
           <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 4 minute activity</p>
         </a>
