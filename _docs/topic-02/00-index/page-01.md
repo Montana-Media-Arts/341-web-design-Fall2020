@@ -9,15 +9,16 @@ tags:
 
 <div class="section-title">
   <img src="../img/assignment-02.svg" alt="" title="Assignment 2: READMEs" />
-  <h2 style="text-align: center;">Files and Directories</h2>
+  <h2 style="text-align: center;">The Internet</h2>
 </div>
 
 
-Last week, we spent time with an overview of this course itself, the internet, the web, and what a web developer is. This week will build on these ideas by further expanding our development environment with more of the tools that you'll use throughout your time here.
+Last week, we spent time with an overview of files and directories. This week will build on these ideas by further expanding our development environment with more of the tools that you'll use throughout your time here as well as what the Internet is and is not.
 
 By the end of this week, we hope you:
 <ul class="pros-and-cons">
-  <li class="icon-pro">Further understand the importance of well-organized and well-labeled files in web development.</li>
-  <li class="icon-pro">Set up a new folder/directory locally, and experimented with how files communicate.</li>
-  <li class="icon-pro">Coded with your first web language - Markdown!</li>
+  <li class="icon-pro">Understand the importance how information flows on the world wide web.</li>
+  <li class="icon-pro">Understand URLs.</li>
+  <li class="icon-pro">ReadMe files and basic Markdown elements</li>
+  <li class="icon-pro">Build a simple file</li>
 </ul>
