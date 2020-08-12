@@ -29,8 +29,8 @@ To begin, you need to register with <a href="https://github.com/" target="_blank
 
 Your username will be publicly available and used often for many things throughout this course (ie. homework) and your entire time on GitHub.
 
-<iframe src="https://h5p.org/h5p/embed/413707" width="1090" height="794" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<a href="https://h5p.org/node/413707" class="btn btn-default btn-xs" target="_blank">View Larger</a>
+<iframe src="https://umontanamediaarts.com/MART341/wp-admin/admin-ajax.php?action=h5p_embed&id=10" width="877" height="745" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://umontanamediaarts.com/MART341/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<a href="https://umontanamediaarts.com/MART341/wp-admin/admin-ajax.php?action=h5p_embed&id=10" class="btn btn-default btn-xs" target="_blank">View Larger</a>
 
 
 <div class="divider-pg"></div>
@@ -39,5 +39,5 @@ Your username will be publicly available and used often for many things througho
 ## Edit Your Profile
 After registering, you need to update your profile to include your **full name** for grading purposes.
 
-<iframe src="https://h5p.org/h5p/embed/416489" width="1090" height="794" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<a href="https://h5p.org/node/416489" class="btn btn-default btn-xs" target="_blank">View Larger</a>
+<iframe src="https://umontanamediaarts.com/MART341/wp-admin/admin-ajax.php?action=h5p_embed&id=11" width="877" height="737" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://umontanamediaarts.com/MART341/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<a href="https://umontanamediaarts.com/MART341/wp-admin/admin-ajax.php?action=h5p_embed&id=11" class="btn btn-default btn-xs" target="_blank">View Larger</a>
