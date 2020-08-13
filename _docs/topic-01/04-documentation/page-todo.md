@@ -37,7 +37,7 @@ There are many types of text editors, each optimized for specific types of tasks
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="http://laptops.reviewed.com/content/how-to-take-a-screenshot-on-mac-and-pc" target="_blank" class="list-group-item">
+        <a href="https://www.theverge.com/2019/11/8/20953522/how-to-take-screenshot-mac-windows-pc-iphone-android" target="_blank" class="list-group-item">
           <i class="icon-hw fas fa-object-group" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">How-To Take Screenshots</h4>
           <div class="divider-hw"></div>
