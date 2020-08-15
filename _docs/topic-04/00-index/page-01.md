@@ -9,7 +9,7 @@ tags:
 
 <div class="section-title">
   <img src="../img/assignment-04.svg" alt="" title="Assignment 4: Pages" />
-  <h2 style="text-align: center;">04://GIT Website</h2>
+  <h2 style="text-align: center;">HTML Elements</h2>
 </div>
 
 
