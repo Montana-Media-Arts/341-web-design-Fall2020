@@ -19,11 +19,10 @@ Starting with a quick review, we'll move into structural markup elements; specif
 
 We'll explore a lot of semantic markup elements that are used to add or change the meaning of text and prose. We'll also look at how to use links for other websites, as well as e-mailing.
 
-Also, we'll begin utilizing our course textbook, <a href="http://www.htmlandcssbook.com/" target="_blank"><i>HTML & CSS</i></a>. Required readings will be posted on <span style="white-space:nowrap">&nbsp;&nbsp;<i class="fas fa-check-square" aria-hidden="true"></i> <b>TODO</b>&nbsp;</span> pages, under the diamond logo (<img src="../img/hw-icon-duckett.svg" style="height: 20px; margin: 0px; display: inline;" />).
+Also, you are welcome to utilize the textbook, <a href="http://www.htmlandcssbook.com/" target="_blank"><i>HTML & CSS</i></a>. Suggested readings will be posted on <span style="white-space:nowrap">&nbsp;&nbsp;<i class="fas fa-check-square" aria-hidden="true"></i> <b>TODO</b>&nbsp;</span> pages, under the diamond logo (<img src="../img/hw-icon-duckett.svg" style="height: 20px; margin: 0px; display: inline;" />).
 
 By the end of this Topic, we hope you:
 <ul class="pros-and-cons">
   <li class="icon-pro">Are comfortable with structuring HTML documents, as well as many types of semantic markup.</li>
   <li class="icon-pro">Have a firm grasp of linking, both internally and externally.</li>
-  <li class="icon-pro">Have purchased and began our course textbook.</li>
 </ul>
