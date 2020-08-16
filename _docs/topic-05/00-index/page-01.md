@@ -25,4 +25,5 @@ By the end of this Topic, we hope you:
 <ul class="pros-and-cons">
   <li class="icon-pro">Are comfortable with structuring HTML documents, as well as many types of semantic markup.</li>
   <li class="icon-pro">Have a firm grasp of linking, both internally and externally.</li>
+  <li class="icon-pro">Understanding ordered and unordered lists.</li>
 </ul>
