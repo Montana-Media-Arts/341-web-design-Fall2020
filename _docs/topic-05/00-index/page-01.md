@@ -9,7 +9,7 @@ tags:
 
 <div class="section-title">
   <img src="../img/assignment-05.svg" alt="" title="Assignment 5: Markup" />
-  <h2 style="text-align: center;">05://Markup</h2>
+  <h2 style="text-align: center;">Additional HTML Elements</h2>
 </div>
 
 
