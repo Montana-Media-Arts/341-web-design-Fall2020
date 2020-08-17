@@ -15,7 +15,7 @@ tags:
 
 HTML is the workhorse of web languages. You've spent several weeks learning about this as structural dialogue, and now you have the opportunity to put everything you've learned so far into practice.
 
-For Project 2, use your knowledge of HTML and GitHub to create a 3-page “Instructable” (illustrated instruction guide). If you've never utilized an Instructable, explore <a href="https://www.instructables.com/" target="_blank">the Instructables website</a> for ideas on both content and layout!
+For Project 1, use your knowledge of HTML and GitHub to create a 3-page “Instructable” (illustrated instruction guide). If you've never utilized an Instructable, explore <a href="https://www.instructables.com/" target="_blank">the Instructables website</a> for ideas on both content and layout!
 
 Think of a topic you know a lot about - an academic study, craft, or favorite recipe, for example - and begin collecting materials. This site will contain:
 1. Structural and semantic markup.

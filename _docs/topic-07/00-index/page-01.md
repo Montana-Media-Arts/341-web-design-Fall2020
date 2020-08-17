@@ -12,7 +12,7 @@ tags:
   <h2 style="text-align: center;">Media</h2>
 </div>
 
-It's time to get into the juicier HTML elements. This topic, you'll begin exploring the basic building blocks of page design, and be continue with multi-part elements, including images, audio/video, and iframes.
+This topic, you'll begin exploring the basic building blocks of page design, and be continue with multi-part elements, including images, audio/video, and iframes.
 
 When thinking about the sites you often visit, images are probably the first memorable element that comes to mind, but there are also other media types used in web development. As designers, we need to consider how and when to add media, what filetypes to use, their file sizes, and what code element works best for each specific situation.
 

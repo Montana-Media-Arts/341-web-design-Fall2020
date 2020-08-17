@@ -2,7 +2,7 @@
 title: TODO
 module: topic-08
 todo: <i class="fas fa-check-square" aria-hidden="true"></i>
-permalink: /topic-08/todo-project2-review/
+permalink: /topic-08/todo-project1-review/
 categories: uncategorized
 ---
 
