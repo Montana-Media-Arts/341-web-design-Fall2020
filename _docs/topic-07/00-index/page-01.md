@@ -9,7 +9,7 @@ tags:
 
 <div class="section-title">
   <img src="../img/assignment-07.svg" alt="" title="Assignment 7: Media" />
-  <h2 style="text-align: center;">07://Media</h2>
+  <h2 style="text-align: center;">Media</h2>
 </div>
 
 It's time to get into the juicier HTML elements. This topic, you'll begin exploring the basic building blocks of page design, and be continue with multi-part elements, including images, audio/video, and iframes.
