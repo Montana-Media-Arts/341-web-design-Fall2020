@@ -9,7 +9,7 @@ tags:
 
 <div class="section-title">
   <img src="../img/assignment-11.svg" alt="" title="Assignment 11: Positioning" />
-  <h2 style="text-align: center;">11://Positioning</h2>
+  <h2 style="text-align: center;">CSS Positioning</h2>
 </div>
 
 This is a significant Topic, as we will start to look at how we can use CSS to adjust the layout of elements within our websites. Specifically, we will be looking at element boxes, block elements, and their positioning on the page. This involves setting height and width amounts (including minimum and maxium values), margins, padding, borders, and visibility.
