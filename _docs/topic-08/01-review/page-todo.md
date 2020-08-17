@@ -28,7 +28,7 @@ categories: uncategorized
 <p>Below is a list of previous sections of the site you should be quite familiar with by now. Feel free to review these portions before and during the making of your site.</p>
 
 
-<h3>Review from Topic-03: “Pages”</h3>
+<h3>Review from Intro to HTML</h3>
 <div class="row text-center">
   <div class="col-lg-4">
     <div class="bs-component">
@@ -48,7 +48,7 @@ categories: uncategorized
 <div class="divider-hw"></div>
 
 
-<h3>Review from Topic-05: “Markup”</h3>
+<h3>Review from Additional HTML Elements</h3>
 <div class="row text-center">
   <div class="col-lg-4">
     <div class="bs-component">
@@ -92,7 +92,7 @@ categories: uncategorized
 <div class="divider-hw"></div>
 
 
-<h3>Review from Topic-06: “Forms”</h3>
+<h3>Review from HTML Forms</h3>
 <div class="row text-center">
   <div class="col-lg-4">
     <div class="bs-component">
@@ -136,7 +136,7 @@ categories: uncategorized
 <div class="divider-hw"></div>
 
 
-<h3>Review from Topic-07: “Media”</h3>
+<h3>Review from Media</h3>
 <div class="row text-center">
   <div class="col-lg-4">
     <div class="bs-component">
