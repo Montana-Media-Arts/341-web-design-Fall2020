@@ -9,7 +9,7 @@ tags:
 
 <div class="section-title">
   <img src="../img/assignment-12.svg" alt="" title="Assignment 12: CSS Website" />
-  <h2 style="text-align: center;">12://CSS Website</h2>
+  <h2 style="text-align: center;">CSS Website</h2>
 </div>
 
 
