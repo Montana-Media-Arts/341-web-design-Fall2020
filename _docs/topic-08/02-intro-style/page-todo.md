@@ -25,7 +25,7 @@ categories: uncategorized
 <div class="divider-hw"></div>
 
 
-<h3>Review from Topic-05: “Markup”</h3>
+<h3>Review from Additional HTML Elements</h3>
 <div class="row text-center">
   <div class="col-lg-4">
     <div class="bs-component">
