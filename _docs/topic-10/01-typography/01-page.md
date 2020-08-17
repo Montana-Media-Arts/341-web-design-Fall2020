@@ -10,6 +10,6 @@ Typography is one of the most important skill-sets for a designer and web develo
 
 <div class="codepen-embed">
   <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/239714928?color=F49626&title=0&byline=0&portrait=0" frameborder="0" allowfullscreen></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sByzHoiYFX0" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
