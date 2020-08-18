@@ -823,13 +823,6 @@ topic-12:
     docs:
     - todo-project2-review
 
-  - title: Placeholder Resources
-    docs:
-    - placeholder-text
-    - placeholder-images
-    - placeholder-icons
-    - todo-placeholder
-
   - title: Interactive Navigation
     docs:
     - nav-menu-about
@@ -837,6 +830,14 @@ topic-12:
     - nav-menu-dropdown
     - nav-menu-sticky
     - todo-nav-menu
+    
+  - title: Responsive Web Design
+    docs:
+    - rwd-intro
+    - rwd-viewport
+    - rwd-targets
+    - rwd-mobile-first
+    - todo-rwd
 
 ##################################################
 
