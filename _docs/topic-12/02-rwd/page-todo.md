@@ -2,7 +2,7 @@
 title: TODO
 module: topic-12
 todo: <i class="fas fa-check-square" aria-hidden="true"></i>
-permalink: /topic-13/todo-rwd/
+permalink: /topic-12/todo-rwd/
 categories: uncategorized
 ---
 
