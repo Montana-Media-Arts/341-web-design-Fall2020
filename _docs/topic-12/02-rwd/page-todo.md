@@ -11,7 +11,7 @@ categories: uncategorized
     <div class="bs-component">
       <div class="list-group">
         <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag" target="_blank" class="list-group-item hw-item">
-          <img class="icon-hw" src="../img/hw-icon-mdn.svg" />
+          <i class="icon-hw fab fa-codepen" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">Mozilla Information on View Port</h4>
           <div class="divider-hw"></div>
           <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 6 minute reading</p>
