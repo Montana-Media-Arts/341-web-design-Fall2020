@@ -38,7 +38,7 @@ As you expand your design, you can provide them with other elements, but you kno
 It’s a matter of numbers: There are projected to be more than 3.5 billion mobile users in 2020, according to Statista. That means the majority of people are using their phones to find the content they need. There’s a big need for mobile-friendly websites out there, and so it’s your job to supply it for your users.
 
 
-<img src="statista-mobile-first.png" alt="mobile first statistics" />
+<img src="../img/statista-mobile-first.png" alt="mobile first statistics" />
 
 And, hot tip if you’re keeping your eyes on traffic: Google’s algorithm favors mobile-friendly websites.
 
