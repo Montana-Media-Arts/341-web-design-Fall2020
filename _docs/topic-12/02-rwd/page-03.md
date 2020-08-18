@@ -14,7 +14,7 @@ Tap targets are vital when it comes to using our mobile devices.  Creating respo
 
 ## Tap Targets
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://youtu.be/sFzdU8Z1Wd8" frameborder="0" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sFzdU8Z1Wd8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
