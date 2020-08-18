@@ -9,7 +9,7 @@ categories: uncategorized
 <p>Below is a list of previous sections of the site you should be quite familiar with by now. Feel free to review these portions before and during the making of your site.</p>
 
 
-<h3>Review from Topic-09: “Color”</h3>
+<h3>Review from CSS Fundamentals</h3>
 <div class="row text-center">
   <div class="col-lg-4">
     <div class="bs-component">
@@ -53,7 +53,7 @@ categories: uncategorized
 <div class="divider-hw"></div>
 
 
-<h3>Review from Topic-10: “Typography”</h3>
+<h3>Review from CSS Fonts, Decorating and Alignment</h3>
 <div class="row text-center">
   <div class="col-lg-4">
     <div class="bs-component">
@@ -111,7 +111,7 @@ categories: uncategorized
 <div class="divider-hw"></div>
 
 
-<h3>Review from Topic-11: “Positioning”</h3>
+<h3>Review from CSS Positioning</h3>
 <div class="row text-center">
   <div class="col-lg-4">
     <div class="bs-component">
