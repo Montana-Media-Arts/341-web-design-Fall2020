@@ -23,5 +23,5 @@ By the end of this Topic, we hope you:
 <ul class="pros-and-cons">
   <li class="icon-pro">Understand different file types and directory structure.</li>
   <li class="icon-pro">Explored the distinction between text editors and word processors, and why we use the former for web development.</li>
-  <li class="icon-pro">Make your first-ever web file!</li>
+  <li class="icon-pro">Create and upload a file</li>
 </ul>
