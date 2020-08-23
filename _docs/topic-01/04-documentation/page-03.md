@@ -22,7 +22,7 @@ If a `README.md` file is put in a repository's root directory, GitHub will recog
 </div>
 <pre id="bash">
 .
-└── <i class="far fa-folder-open"></i> assignment-01/
+└── <i class="far fa-folder-open"></i> assignment-02/
     └── <i class="far fa-file-alt"></i> README.md
 
 </pre>

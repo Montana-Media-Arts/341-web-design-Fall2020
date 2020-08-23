@@ -9,11 +9,11 @@ tags: document, file, processor, text
 <div class="divider-heading"></div>
 
 
-As you just read in “<a href="../web-files-text">Text Documents</a>”, said **text documents** are files that store an [ASCII character set](https://en.wikipedia.org/wiki/ASCII) (as opposed to binary data), which is the most common format for the English language. These text files can include text documents of prose, code, or some combination of both.
+As you just read in “<a href="../web-files-text">Text Documents</a>”, said **text documents** are files that store an [ASCII character set](https://en.wikipedia.org/wiki/ASCII) (as opposed to binary data), which is the most common format for the English language.
 
 
 ## Creating plain text files
-Text files can be created and edited using a **“text editor,”** which is any application for editing ASCII text documents. This includes both prose or code documents. <a href="https://atom.io/" target="_blank">Atom</a>, <a href="https://code.visualstudio.com/download">VS Code</a> <a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a>, and <a href="http://brackets.io/" target="_blank">Brackets</a> are popular options among web developers.
+Text files can be created and edited using a **“text editor,”** which is any application for editing ASCII text documents. <a href="https://atom.io/" target="_blank">Atom</a>, <a href="https://code.visualstudio.com/download">VS Code</a>, <a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a>, and <a href="http://brackets.io/" target="_blank">Brackets</a> are popular options among web developers.
 
 The default application on Mac and Windows are the following:
 
@@ -54,4 +54,4 @@ In this class, we will be using the following text file types;
 - HyperText Markup Language (HTML); `.html`
 - Cascading Style Sheet (CSS); `.css`
 
-In the Git module, we'll look at the first type; Markdown or `.md` files, using a text editor.
+We'll look at the first type; Markdown or `.md` files, using a text editor.

@@ -37,14 +37,3 @@ For example, this page that you're reading right now is the file `markdown-files
 ```
 
 You can see that in other to make words **bold**, for example, I need to wrap them in double asterisks:  `**bold**`.
-
-
-<div class="divider-pg"></div>
-
-
-## What's the difference between Microsoft Word and Markdown files?
-As mentioned previously, one of the main differences between a a Markdown (or more generally, “text document”) and a Microsoft Word file is that the former is stored as **text**, and the latter is stored as **binary code**. Microsoft does this for a number of reasons, one of these is to keep their product proprietary ($$). This binary file also allows for syntax and structure to be stored within the document file, without the user having to see it in the text itself.
-
-In the image below, see how “style” is created in a text file (.md) versus using Word’s (.docx) “styles” selectors.
-
-<img src="../img/txt-vs-word-styles.jpg" alt="Comparing Markdown and word heading styles" title="Heading Styles in Markdown and MS Word" />
