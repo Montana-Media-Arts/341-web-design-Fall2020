@@ -19,14 +19,16 @@ categories: uncategorized
       </div>
     </div>
   </div>
-    <div class="col-lg-4">
+    
+</div>
+<div class="row text-center">
+ <div class="col-lg-12">
     <div class="bs-component">
       <div class="list-group">
-        <h4>Directory Review</h4>
+          <h4>Directory Review - this might take a few seconds to load</h4>
         <iframe src="https://umontanamediaarts.com/MART341/wp-admin/admin-ajax.php?action=h5p_embed&id=28" width="958" height="204" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://umontanamediaarts.com/MART341/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
           <div class="divider-hw"></div>
           <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 2 minute activity</p>
-        </a>
       </div>
     </div>
   </div>

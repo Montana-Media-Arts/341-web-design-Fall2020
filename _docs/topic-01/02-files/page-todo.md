@@ -21,7 +21,7 @@ categories: uncategorized
   </div>
 </div>
 <div class="row text-center">
- <div class="col-lg-8">
+ <div class="col-lg-12">
     <div class="bs-component">
       <div class="list-group">
           <h4>Pages Review - this might take a few seconds to load</h4>
