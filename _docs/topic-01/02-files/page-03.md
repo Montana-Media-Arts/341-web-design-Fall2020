@@ -9,7 +9,7 @@ tags: audio, design, file, video
 <div class="divider-heading"></div>
 
 
-You will come across _many_ types of **media** files in websites. Below are just some common variables, but by no means the only file types available. This list also excludes streaming media, which is the prevailing method of using media on the web.
+You will come across _many_ types of **media** files in websites. Below are just some common types, however, there are many different kinds available. This list also excludes streaming media, which is used extensively on the web.
 
 
 <div class="divider-pg"></div>
@@ -22,7 +22,7 @@ You will come across _many_ types of **media** files in websites. Below are just
   </div>
   <div class="col-lg-10">
     <h3>MPEG-1 Audio Layer 3 (<b>MP3</b>)</h3>
-    <p>MP3 technology has been around for decades, and revolutionized how music was stored and shared during the 1990's. MP3s offer an accessible ratio of playback quality to file size, although it is still subject to patents, meaning users must have MP3-ready software in order to play the file.</p>
+    <p>MP3 technology has been around for decades, and revolutionized how music was stored and shared during the 1990's. MP3s offer an accessible ratio of playback quality to file size, but it is still subject to patents, meaning users must have MP3-ready software in order to play the file.</p>
 
     <ul class="pros-and-cons">
       <li class="icon-pro">Small file size.</li>
@@ -57,7 +57,7 @@ You will come across _many_ types of **media** files in websites. Below are just
   </div>
   <div class="col-lg-10">
     <h3>MPEG-4 Part 14 (<b>MP4</b>)</h3>
-    <p>Like MP3, MP4 is a granddaddy file type with a rich history. A multimedia container used to store video and audio, MP4 supports a variety of video coding formats, like H.264. MP4s are usable on most devices, platforms, and browsers.</p>
+    <p>Like MP3, MP4 is a multimedia container used to store video and audio, and supports a variety of video coding formats, like H.264. MP4s are usable on most devices, platforms, and browsers.</p>
 
     <ul class="pros-and-cons">
       <li class="icon-pro">Good video quality.</li>
@@ -75,13 +75,13 @@ You will come across _many_ types of **media** files in websites. Below are just
   </div>
   <div class="col-lg-10">
     <h3>Web Media (<b>WebM</b>)</h3>
-    <p>A relatively new format, WebM is a container created especially for internet streaming by Google as a standard supported format in HTML5. It is less high-quality than MP4, but this allows for quicker access and download speeds. Unlike MP4, WebM is open-source and free-to-all.</p>
+    <p>A relatively new format (2010), WebM is a container created by Google as a standard supported format in HTML5. It has a lower quality and smaller files sizes than MP4, but it results in quicker access and download speeds. Unlike MP4, WebM is open-source and free-to-all.</p>
 
     <ul class="pros-and-cons">
       <li class="icon-pro">Designed for internet streaming.</li>
       <li class="icon-pro">Open-source, free-for-use.</li>
       <li class="icon-con">Poor compatibility with mobile devices and players.</li>
-      <li class="icon-con">Not widely supported by Windows or Apple.</li>
+      <li class="icon-con">Not widely supported.</li>
     </ul>
   </div>
 </div>

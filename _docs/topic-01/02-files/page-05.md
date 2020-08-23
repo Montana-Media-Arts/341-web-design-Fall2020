@@ -9,7 +9,7 @@ tags: design, file, text
 <div class="divider-heading"></div>
 
 
-**Text documents** include many file types and can be described as any file that stores an ASCII character set (as opposed to binary data), which is the most common format for the English language.
+**Text documents** can be described as any file that stores an ASCII character set (letters and numbers) (as opposed to binary data - zeroes and ones).
 
 
 <div class="divider-pg"></div>
@@ -40,7 +40,7 @@ tags: design, file, text
   </div>
   <div class="col-lg-10">
     <h3>Markdown (<b>MD</b>)</h3>
-    <p>Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML). This means that Markdown files write quickly, and render stylistically with no additional directions from the writer.</p>
+    <p>Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to valid XHTML (or HTML).  However, you do have to learn more syntax.</p>
 
     <ul class="pros-and-cons">
       <li class="icon-pro">Has simply syntax; easy-to-learn and implement.</li>

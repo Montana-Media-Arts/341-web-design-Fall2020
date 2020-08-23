@@ -9,7 +9,7 @@ tags: design, file, image
 <div class="divider-heading"></div>
 
 
-**Images** are the media lifeblood of web design. Sites can contain many images in different file types, and how that image will be used dictates what file type it should be, and vice versa.
+In web design, **Images** bring web pages to life. Sites can contain many different types of images. Different files types server different purposes.
 
 
 <div class="divider-pg"></div>
@@ -21,8 +21,10 @@ tags: design, file, image
     <span>image.jpg</span>
   </div>
   <div class="col-lg-10">
-    <h3>Joint Photographic Experts Group (<b>JPEG</b> or <b>JPG</b>)</h3>
-    <p>The JPEG is the most-utilized image format in digital publishing. JPEGs can be compressed to low-, medium, and high-quality and, because of this, can showcase images on screens at relatively small file sizes without sacrificing the integrity of the image. File types like JPG, PNG, and GIF are “rastered” and have defined dimensions. This means the image will lose quality when resized, and should not be manipulated beyond its original dimensions (width and height).</p>
+    <h3><b>J</b>oint <b>P</b>hotographic <b>E</b>xperts <b>G</b>roup (<b>JPEG</b> or <b>JPG</b>)</h3>
+    <p>The JPEG is the most-utilized image format in digital publishing. JPEGs can be compressed to low-, medium, and high-quality.  This means that smaller JPEG files can be displayed on mobile screens without sacrificing the integrity of the image. 
+    
+    Keep in mind that file types like JPG, PNG, and GIF are “rastered” and have defined dimensions. This means the image will lose quality when resized, and should not be manipulated beyond its original dimensions (width and height).</p>
 
     <ul class="pros-and-cons">
       <li class="icon-pro">Good for photographs, artwork, or other detailed images.</li>
@@ -57,8 +59,8 @@ tags: design, file, image
     <span>image.gif</span>
   </div>
   <div class="col-lg-10">
-    <h3>Graphics Interchange Format (<b>GIF</b>)</h3>
-    <p>Similar to PNGs, GIFs have certain properties that allow for image effects. This format is most-often attributed to animated files, as it allows for several consecutive frames to be included in a single image file. Due to this, GIFs can be quite large, and may require heavy compression to be feasible in site design.</p>
+    <h3><b>G</b>raphics <b>I</b>nterchange <b>F</b>ormat (<b>GIF</b>)</h3>
+    <p>Similar to PNGs, GIFs have certain properties allowing for image effects. Often, GIFs are used to animated files since several consecutive frames can be included in a single image file. However, GIFs can be quite large, and may require heavy compression to be feasible in site design.</p>
 
     <ul class="pros-and-cons">
       <li class="icon-pro">Required for animated images.</li>
@@ -75,15 +77,15 @@ tags: design, file, image
     <span>image.svg</span>
   </div>
   <div class="col-lg-10">
-    <h3>Scalable Vector Graphics (<b>SVG</b>)</h3>
-    <p>SVGs are an integral component of web design. SVGs, as stated in their name, are scaleable and can be manipulated and styled without sacrificing quality or file size. SVGs are, in effect, “drawn” by the browser in that they are actually packets of coordinates written in a markup language (XML, or Extensible Markup Language). This code is editable, and SVGs can have colors, effects, and animations applied to them.</p>
+    <h3><b>S</b>calable <b>V</b>ector <b>G</b>raphics (<b>SVG</b>)</h3>
+    <p>SVGs are an integral part of web design. SVGs are scaleable and can be manipulated and styled without sacrificing quality or file size. SVGs are “drawn” by the browser using packets of editable coordinates written in a markup language (XML, or Extensible Markup Language). SVGs can have colors, effects, and animations applied to them.</p>
 
     <ul class="pros-and-cons">
       <li class="icon-pro">Good for vector graphics like logos and icons.</li>
       <li class="icon-pro">Resolution-independent.</li>
       <li class="icon-pro">Manipulating does not change file size.</li>
       <li class="icon-con">Not good for detailed images, or beyond 2D needs.</li>
-      <li class="icon-con">Requires an understanding on how to properly use and implement the code.</li>
+      <li class="icon-con">Requires an understanding on how to properly use and implement the markup language.</li>
     </ul>
   </div>
 </div>
