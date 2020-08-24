@@ -9,11 +9,11 @@ tags: directory, file, folder, name
 <div class="divider-heading"></div>
 
 
-Directories are hierarchical - that is, they are organized in a structure resembling a tree, with a single root which branches off into related groups of content.
+Directories are hierarchical - directory structural organization resembles a tree, with a single root that branches off into related groups of content.
 
 
 ## Hierarchy
-The top-most directory is considered the **root directory**. Whatever current “folder” you are in can be considered the **active directory**, and any directories inside that current directory are called **subdirectories.**
+The top-most directory is considered the **root directory**. Whatever current “folder” you are in can be viewed as the **active directory**, and any directories inside that current directory are called **subdirectories.**
 
 <div class="code-heading">
   <span>Directory Tree</span>
@@ -47,11 +47,11 @@ The web also use familial terms to describe content relationships, such as “gr
             └── <i class="far fa-image"></i> logo.png
 </pre>
 
-In this example, `content/` is a subdirectory of the `my-site/` directory, also referred to as a “child” of that directory (i.e. **child directory**).
+In this example, `content/` is a subdirectory of the `my-site/` directory, also referred to as a “child” of that directory (i.e., **child directory**).
 
-The reverse also applies; in reference to `content/`, `my-site/` would be considered its **parent directory**.
+The reverse also applies; `content/`, `my-site/` is the **parent directory** to `content/`.
 
-This can also describe the location of files. The file `logo.png` is found in its parent directory, `images/`.
+This hierarchy also describes the location of the files. The file `logo.png` is located in its parent directory, `images/`.
 
 <div class="code-heading">
   <span>Directory Tree</span>

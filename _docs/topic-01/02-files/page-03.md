@@ -9,7 +9,7 @@ tags: audio, design, file, video
 <div class="divider-heading"></div>
 
 
-You will come across _many_ types of **media** files in websites. Below are just some common types, however, there are many different kinds available. This list also excludes streaming media, which is used extensively on the web.
+You will come across _many_ types of **media** files on websites. Below are just some common types. However, there are many different kinds available. This list also excludes streaming media, which is used extensively on the web.
 
 
 <div class="divider-pg"></div>

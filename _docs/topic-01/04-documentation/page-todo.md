@@ -6,7 +6,7 @@ permalink: /topic-01/todo-editors/
 categories: uncategorized
 ---
 
-There are many types of text editors, each optimized for specific types of tasks. Familiarize yourself with the the specifics and differences in the applications you already have on your computer.
+There are many types of text editors, each optimized for specific kinds of tasks. Familiarize yourself with the specifics and differences in the applications you already have on your computer.
 
 <div class="row text-center">
 

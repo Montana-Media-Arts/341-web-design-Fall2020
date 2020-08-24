@@ -22,7 +22,7 @@ The default application on Mac and Windows are the following:
 
 
 ## What types of files are text documents?
-The simplest and most common text document is a "text file", which will bare the `.txt` extension. This generic document type contains only ASCII characters. These are the common characters you use for writing and reading (A-Z, a-z, 0-9), and special characters (such as #, %, !, ., etc.). These files also include carriage returns (new line), tabs, spaces, and an end-of-file (eof) designation that let's a program know where the file finishes. This last group, of course, contains characters that are there but that are not displayed in basic text editors.
+The simplest and most common text document is a "text file", which will bare the `.txt` extension. This generic document type contains only ASCII characters. These are the familiar characters used when writing and reading (A-Z, a-z, 0-9) and special characters (such as #, %, !, etc.). These files also include carriage returns (new line), tabs, spaces, and an end-of-file (EOF) designation that lets a program know where the file finishes. This last group contains characters that are there but not displayed in basic text editors.
 
 <img src="../img/txt-file.png" alt="A .txt file open in textEdit.app" title="A .txt File" style="width: 400px;" />
 
@@ -32,11 +32,11 @@ The simplest and most common text document is a "text file", which will bare the
 
 ## “Well, I have Microsoft Word, so...”
 
-You might be tempted to say Microsoft Word Document files (`.doc` or `.docx`) are text files. However, these are actually containers of many smaller files that are ZIP-compressed together into the `.docx` file. This complex file that Microsoft uses allows them to store images, objects, text, and complex formatting instructions all in a single file, which can then be easily saved, shared, or sent between users of the Microsoft productivity applications.
+There is a temptation to equate Microsoft Word Document files (`.doc` or `.docx`) to text files. However, these are containers of many smaller files that are ZIP-compressed together into the `.docx` file. This complex file stores images, objects, text, and formatting instructions in a single file, which can then be easily saved, shared, or sent between users of the Microsoft productivity applications.
 
 <img src="../img/txt-vs-word-files.jpg" alt="A .docx file loaded into a simple text editor" title="A .docx file viewed in Atom" />
 
-The downside to this format though is that you cannot open this file in a basic text editor to change it. The image below shows a Microsoft Word Document (`.docx`) opened in the Atom text editor. As you can see, this file does not present itself in a way that offers you much understanding of its contents.
+The downside to this format is that you cannot open this file in a basic text editor to change it. The image below shows a Microsoft Word Document (`.docx`) opened in the Atom text editor. As you can see, this file does not present itself in a way that offers you much understanding of its contents.
 
 <img src="../img/txt-vs-word-files-atom.jpg" alt="A .docx file loaded into a simple text editor" title="A .docx file viewed in Atom" />
 
@@ -46,7 +46,7 @@ The downside to this format though is that you cannot open this file in a basic 
 
 ## What are other types of plain text-based files?
 
-Well, as you might guess, most computer languages are saved as plain text or ASCII files. However, they often have different extensions. These extensions provide information to the computer, as well as to the user as to ‘how’ the file may be used or _compiled_.
+Well, as you might guess, most computer languages are saved as plain text or ASCII files. However, they often have different extensions. These extensions provide information to the computer and the user as to ‘how’ the file may be used or _compiled_.
 
 In this class, we will be using the following text file types;
 
@@ -54,4 +54,4 @@ In this class, we will be using the following text file types;
 - HyperText Markup Language (HTML); `.html`
 - Cascading Style Sheet (CSS); `.css`
 
-We'll look at the first type; Markdown or `.md` files, using a text editor.
+We'll look at the first type; Markdown or `.md` files using a text editor.

@@ -7,9 +7,7 @@ tags: design, file, image
 ---
 
 <div class="divider-heading"></div>
-
-
-In web design, **Images** bring web pages to life. Sites can contain many different types of images. Different files types server different purposes.
+In web design, **Images** bring web pages to life. Sites can contain many different types of images. Different file types serve different purposes.
 
 
 <div class="divider-pg"></div>
@@ -24,7 +22,7 @@ In web design, **Images** bring web pages to life. Sites can contain many differ
     <h3><b>J</b>oint <b>P</b>hotographic <b>E</b>xperts <b>G</b>roup (<b>JPEG</b> or <b>JPG</b>)</h3>
     <p>The JPEG is the most-utilized image format in digital publishing. JPEGs can be compressed to low-, medium, and high-quality.  This means that smaller JPEG files can be displayed on mobile screens without sacrificing the integrity of the image. 
     
-    Keep in mind that file types like JPG, PNG, and GIF are “rastered” and have defined dimensions. This means the image will lose quality when resized, and should not be manipulated beyond its original dimensions (width and height).</p>
+    Keep in mind that file types like JPG, PNG, and GIF are “raster” images and have defined dimensions. Being a raster image means the image loses quality when resized or changing the original dimensions (width and height).</p>
 
     <ul class="pros-and-cons">
       <li class="icon-pro">Good for photographs, artwork, or other detailed images.</li>

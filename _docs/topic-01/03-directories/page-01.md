@@ -9,7 +9,7 @@ tags: directory, file, folder, organize, path
 <div class="divider-heading"></div>
 
 
-We organize these different files into groups, just like you do with your other non-web-based files. We commonly refer to the containers of these files as "folders," because that's how they function. Most operating systems represent these folders with graphic icons (folders), to make visual associations.
+We organize these different files into groups, just like you do with your other non-web-based files. We commonly refer to the containers of these files as "folders" because that's how they function. Most operating systems represent these folders with graphic icons (folders) to make visual associations.
 
 <div style="padding: 20px 0px 80px 0px;">
   <p align="center">
