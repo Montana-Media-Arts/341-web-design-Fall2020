@@ -26,7 +26,7 @@ categories: uncategorized
           <i class="icon-hw fas fa-exclamation-circle" aria-hidden="true"></i>
           <h4 class="list-group-item-heading"View DNS</h4>
           <div class="divider-hw"></div>
-          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 5 minute activity/p>
+          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 5 minute activity</p>
         </a>
       </div>
     </div>
