@@ -9,17 +9,17 @@ tags: file, folder, path, url
 <div class="divider-heading"></div>
 
 
-Generally, we can think about “finding” a web location in one of two ways: via its _relative_ or _absolute_ address (or **URL**).
+Generally, we can think about "finding" a web location in two ways: via its _relative_ or _absolute_ address (or **URL**).
 
 
 ## What U. R. L(ooking for)
-You invite an old friend to come visit you, but they don't know where you currently live. When they ask for your address, you give them your country, state, city, street, and house number.
+You invite an old friend to visit you, but they don't know where you currently live. When they ask for your address, you give them your country, state, city, street, and house number.
 
-We find sites and files on the web in pretty much the same way, but instead of looking for houses, we're looking for other computers, servers, files, or even queries on a network. A “web address” or **uniform resource locator** (URL) is assigned to every website so that users and servers can find that site quickly and easily.
+We find sites and files on the web in the same way, but instead of looking for houses, we're looking for other computers, servers, files, or even queries on a network. A "web address" or **uniform resource locator** (URL) is assigned to every website so that users and servers can find that site quickly and easily.
 
-Directions for a site or file can be broken down similarly (in the most basic sense) to directions to a house, but more applicably into _protocol, domain, path_ and _file_.
+Directions for a site or file can be broken down similarly (in the most basic sense) to directions to a house, but more applicably into _protocol, domain, path_, and _file_.
 
-Continue to the next page to find out how this is done for the web.
+Continue to the next page to find out how the web does this.
 
 <img src="../img/url-city.gif" alt="car driving to a city, with map tags floating above the buildings" />
 <div class="img-caption">
