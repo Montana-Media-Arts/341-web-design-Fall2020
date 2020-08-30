@@ -30,3 +30,6 @@ This might take a few seconds to load...
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XE_FPEFpHt4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
+
+
+<a href="https://www.explainthatstuff.com/internet.html" target="_new">More resources about the Internet</a>
