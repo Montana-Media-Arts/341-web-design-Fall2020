@@ -15,16 +15,16 @@ Using Markdown, **images** or other graphics are written similarly to links, exc
   <span class="md">Markdown</span>
 </div>
 ```markdown
-![GitHub logo with absolute URL](https://media-ed-online.github.io/intro-web-dev-resources/graphics/icons/github-icon.png)
+![GitHub logo with absolute URL](https://montana-media-arts.github.io/341-web-design-Fall2020-resources/grapics/icons/github-icon.png)
 
-![GitHub logo with relative URL](./images/github-icon.png)
+![GitHub logo with relative URL](./img/github-icon.png)
 ```
 
 <div class="code-heading">
   <span class="preview">Preview</span>
 </div>
 <div class="preview">
-<img src="https://media-ed-online.github.io/intro-web-dev-resources/graphics/icons/github-icon.png" alt="github logo" title="Absolute URL" />
+<img src="https://montana-media-arts.github.io/341-web-design-Fall2020-resources/grapics/icons/github-icon.png" alt="github logo" title="Absolute URL" />
 
 <img src="../img/github-icon.png" alt="github logo" title ="Relative URL" />
 </div>
