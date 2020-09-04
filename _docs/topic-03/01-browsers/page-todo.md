@@ -10,9 +10,9 @@ categories: uncategorized
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="https://media-ed-online.github.io/intro-web-dev-resources/readings/20-things-learned-about-browsers-and-web.pdf#page=20" target="_blank" class="list-group-item hw-item">
+        <a href="https://www.digitaltrends.com/computing/best-browser-chrome-vs-firefox-vs-safari-vs-edge/" target="_blank" class="list-group-item hw-item">
           <img class="icon-hw" src="../img/hw-icon-browser-versions.png" />
-          <h4 class="list-group-item-heading">Old vs. Modern Browsers</h4>
+          <h4 class="list-group-item-heading">Which browser is the best?</h4>
           <div class="divider-hw"></div>
           <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 5 minute reading</p>
         </a>
@@ -22,7 +22,7 @@ categories: uncategorized
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="https://media-ed-online.github.io/intro-web-dev-resources/readings/20-things-learned-about-browsers-and-web.pdf#page=26" target="_blank" class="list-group-item hw-item">
+        <a href="https://whatis.techtarget.com/definition/browser-extension" target="_blank" class="list-group-item hw-item">
           <img class="icon-hw" src="../img/hw-icon-browser-extensions.png" />
           <h4 class="list-group-item-heading">Browser<br />Extensions</h4>
           <div class="divider-hw"></div>
@@ -34,11 +34,11 @@ categories: uncategorized
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="https://media-ed-online.github.io/intro-web-dev-resources/readings/20-things-learned-about-browsers-and-web.pdf#page=37" target="_blank" class="list-group-item hw-item">
+        <a href="https://blog.netwrix.com/2018/05/15/top-10-most-common-types-of-cyber-attacks/" target="_blank" class="list-group-item hw-item">
           <img class="icon-hw" src="../img/hw-icon-browser-malware.png" />
-          <h4 class="list-group-item-heading">Malware, Phishing, and Security Risks</h4>
+          <h4 class="list-group-item-heading">Common Cyber Attacks</h4>
           <div class="divider-hw"></div>
-          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 3 minute reading</p>
+          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 5 minute reading</p>
         </a>
       </div>
     </div>
