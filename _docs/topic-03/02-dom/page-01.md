@@ -9,9 +9,9 @@ tags: dom, processor
 <div class="divider-heading"></div>
 
 
-This topic we begin looking at “pages,” or the actual visualization of the content in your directories. Before we make anything, however, we need to talk about how data gets from your keystrokes to a browser, and how that browser renders information for viewing.
+In this topic, we begin looking at “pages,” or the actual visualization of the content in your directories. However, before we make anything, we need to talk about how data gets from your keystrokes to a browser and how that browser renders information for viewing.
 
-For example, HTML is a language that describes the structure of a document intended for viewing through a browser. The browser’s processor identifies _elements_ of the document by looking for _tags_ embedded directly in the text. These elements are then parsed into the **Document Object Model** (DOM).
+For example, HTML is a language that describes the structure of a document intended for viewing through a browser. The browser’s processor identifies _elements_ of the document by looking for _tags_ embedded directly in the text. Then, the **Document Object Model** (DOM) parses these elements.
 
 ## What is the DOM?
 <div class="row img-text-columns">

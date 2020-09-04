@@ -13,7 +13,7 @@ tags:
 </div>
 
 
-Now that you're becoming familiar with directories and files, we can start digging into HTML with the goal of creating and publishing live webpages! Let's start with looking at how we _experience_ these sites via browsers, an often overlooked software that we use everyday.
+Now that you're becoming familiar with directories and files, we can start digging into HTML to create and publish live webpages! Let's start by looking at how we _experience_ these sites via browsers and often overlooked software that we use every day.
 
 By the end of this Topic, we hope you:
 <ul class="pros-and-cons">

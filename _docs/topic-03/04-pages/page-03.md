@@ -21,7 +21,7 @@ Once you become familiar with the notion that HTML elements are comprised of HTM
 </body>
 ```
 
-Fortunately, structure is fairly universal between text documents. Let's look at  **headings** and **paragraphs** as examples.
+Fortunately, the structure is fairly universal between text documents. Let's look at  **headings** and **paragraphs** as examples.
 
 
 ## Headings in HTML
@@ -48,7 +48,7 @@ Compare this to Markdown:
 
 
 ## Paragraphs
-Almost all non-heading text will be placed within a paragraph element in a web document. Paragraphs are defined with the `<p>` tags, and the element is written as `<p>...</p>`.
+Place almost all non-heading text within a paragraph element in a web document. Define paragraphs with the `<p>` tags, and the element written as `<p>...</p>`.
 
 <div class="code-heading">
   <span class="html">HTML</span>
@@ -65,5 +65,5 @@ Compare this to Markdown:
 ```markdown
 This is a paragraph.
 
-In markdown, a paragraph requires no extra markup to signify it as such. An empty line between text blocks signifies a new paragraph.
+In markdown, a paragraph requires no extra markup to signify it as such. An empty line between text blocks represents a new paragraph.
 ```

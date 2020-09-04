@@ -8,7 +8,7 @@ tags: markup
 
 <div class="divider-heading"></div>
 
-Everything you see on a browser is a combination of _markup_ (text), _style_ (design), and _scripts_ (interactivity). The markup language dictates the architecture of page, with a focus on its text content (although not exclusively).
+Everything you see on a browser is a combination of _markup_ (text), _style_ (design), and _scripts_ (interactivity). The markup language dictates the page's architecture, with a focus on its text content (although not exclusively).
 
 
 <div class="divider-pg"></div>

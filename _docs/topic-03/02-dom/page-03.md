@@ -9,13 +9,13 @@ tags: elements, markdown, paragraph, tags
 <div class="divider-heading"></div>
 
 
-This course teaches HTML as its primary markup language because is widely-used and easy to learn. This does not mean you cannot implement XHTML standards, like those we provide throughout the course.
+This course teaches HTML as its primary markup language because it is widely-used and easy to learn. Using HTML does not mean you cannot implement XHTML standards, like those we provide throughout the course.
 
 These include:
 - **Mandatory Structure** - Elements like the `!DOCTYPE` declaration and `<head>` and `<body>` elements are required.
 - **Properly Nested Tags** - Tag order is maintained when nesting elements within other elements.
 - **Closed Elements** - Elements must always be closed, i.e. `<p>...</p>`. This includes empty elements, i.e. `<br />`.
-- **Lowercase Elements and Attributes** - All elements and their attributes must be in lowercase, i.e. `<body>` not `<BODY>`.
+- **Lowercase Elements and Attributes** - All elements and their attributes must be lowercase, i.e., `<body>` not `<BODY>`.
 
 Don't worry if this doesn't make much (or any) sense right now. Just know that we are teaching HTML with the intent that your sites work at the highest-performance possible without having to learn XHTML to its fullest.
 
@@ -44,7 +44,7 @@ Don't worry if this doesn't make much (or any) sense right now. Just know that w
 
 
 ## Elements and Tags
-HTML is written in **elements**, small blocks whose beginnings and endings are set by **tags**.
+HTML **elements** are small blocks whose beginnings and endings are set by **tags**.
 
 
 ### Elements
@@ -56,7 +56,7 @@ An HTML document is composed of a tree of HTML elements. An **element** is an in
 ```html
 <p>This is a paragraph element.</p>
 <p>This is another paragraph element.</p>
-```
+`"
 
 Compare this to Markdown:
 
@@ -67,11 +67,11 @@ Compare this to Markdown:
 This is a paragraph.
 
 This is another paragraph.
-```
+`"
 
 
 ### Tags
-Elements are identified in a document through tags. A **tag** is code that is syntactically unique from the text content of the document. In HTML, all tags include a less-than (**<**) and greater-than (**>**) sign, with the tag typed between.
+Tags identify elements in a document. A **tag** is code that is syntactically unique from the text content of the document. In HTML, all tags include a less-than (**<**) and greater-than (**>**) sign, with the tag typed between the two.
 
 <div class="row callout-columns status-info">
   <div class="col-lg-3">
@@ -97,7 +97,7 @@ Elements are identified in a document through tags. A **tag** is code that is sy
   </div>
 </div>
 
-Most elements include an “opening” and “closing” tag that the processor uses to identify the beginning and end of that element. Closing tags are identical to opening tags, except that they contain a forward-slash (**/**) between the less-than (**>**) sign and the tag text.
+Most elements include an "opening" and "closing" tag that the processor uses to identify that element's beginning and end. Closing tags are identical to opening tags, except that they contain a forward-slash (**/**) between the less-than (**>**) sign and the tag text.
 
 
 <div class="code-heading">
@@ -106,7 +106,7 @@ Most elements include an “opening” and “closing” tag that the processor 
 ```html
 <p>This is a paragraph element.</p>
 <p>This element is created with an opening "<p>" tag and a closing "</p>" tag. We call this "wrapping."</p>
-```
+`"
 
 Compare this to Markdown:
 
@@ -116,5 +116,5 @@ Compare this to Markdown:
 ```markdown
 This is a paragraph.
 
-In markdown, paragraphs require no extra markup to signify it as such. An empty line between text blocks signifies a new paragraph.
-```
+In markdown, paragraphs require no extra markup to signify it as such. An empty line between text blocks represents a new paragraph.
+`"

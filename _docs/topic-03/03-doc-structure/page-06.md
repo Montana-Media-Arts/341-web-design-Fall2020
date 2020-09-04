@@ -17,7 +17,7 @@ Can you see how a single page is similar to how you're structured? **You only ha
 <div class="divider-pg"></div>
 
 
-This is the basic layout of an HTML document.
+The following is the basic layout of an HTML document.
 
 <div class="code-heading">
   <span class="html">HTML</span>

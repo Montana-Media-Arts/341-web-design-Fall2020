@@ -8,19 +8,19 @@ tags: directory, organize, page, root
 
 <div class="divider-heading"></div>
 
-There are several ways we can control how our `HTML` where our files are stored, retrieved by browsers, and how they appear in the address bar of a those browsers.
+There are several ways we can control how our `HTML` where our files are stored, retrieved by browsers, and how they appear in the address bar of those browsers.
 
 Consider the file “**about.html**,” found on your website:
 
 <img src="../img/about-page.png" alt="simple about page" style="width: 200px;" />
 
-We need to decide where to place this file in our directory, and how the site should locate it. This will also affect its URL.
+We need to decide where to place this file in our directory and how the site should locate it. The location of the file will also affect its URL.
 
 
 ## Pages In and Outside Directories:
 Browsers treat pages differently from other files. They have _expectations_ of what pages will be titled, what languages they'll use, and where they'll live in the site directory.
 
-This means browsers have some default behaviors they do automatically with pages when the site is accessed by a visitor. Where we put pages is a conscious decision on our part, mostly regarding keeping the site files organized and URLs clean. If you'll remember, anything inside of a directory needs that directory added to its **path** in order to be accessed; too few or too many directories can clutter up your site and its pages' URLs.
+Browsers have some default behaviors they do automatically with pages when a visitor accesses the site. Where we put pages is a conscious decision on our part, mostly regarding keeping the site files organized and URLs clean. If you'll remember, anything inside a directory needs that directory added to its **path** to be accessed; too few or too many directories can clutter your site and its pages' URLs.
 
 
 <div id="code-heading">Directory Tree</div>
@@ -42,11 +42,11 @@ This means browsers have some default behaviors they do automatically with pages
 </p>
 
 
-One way to avoid longer URLs is to place the page in the root of the site (in our case, **web-dev-hw/**). No additional pathing is needed, as the page are not in any other directories.
+One way to avoid long URLs is to place the page in the root of the site (in our case, **MART361-WebDesign/**). No additional pathing is needed, as the page is not in any other directories.
 
-This is not to say that we could not have additional pages that we explicitly address. For example we could have additional HTML pages at the same directory level, such as an `contact.html`.
+We can still have additional pages that we explicitly address. For example, we could have other HTML pages at the same directory level, such as a `contact.html`.
 
-This method is fine for sites will few pages. But for sites with many, using child directories is preferable, as it helps with site organization.
+This method is sufficient for sites with few pages. But for sites with many, using child directories is preferable, as it helps with site organization.
 
 
 <div id="code-heading">Directory Tree</div>
@@ -71,9 +71,9 @@ This method is fine for sites will few pages. But for sites with many, using chi
 </p>
 
 
-If you wished to have a “cleaner” looking URL, you could create an additional child directory labeled `about/` and place a file saved as `index.html` within that directory.
+If you wished to have a "cleaner" looking URL, you could create an additional child directory labeled `about/` and place a file saved as `index.html` within that directory.
 
-In the next sub-topic, you'll see how an `index.html` is one of those files browsers expect to find. Because of this, if an `index.html` file is in a directory, you usually do not have to include it in the file path; the browser will request it automatically.
+You'll see how an `index.html` is one of those files browsers expect to find in the next sub-topic. Because of this, if an `index.html` file is in a directory, you usually do not have to include it in the file path; the browser will request it automatically.
 
 <span class="label label-info">Note</span> Notice how we do not add `/index.html` at the end of the URL above; instead the URL simply ends with a directory slash (**/**).
 
@@ -106,7 +106,7 @@ In the next sub-topic, you'll see how an `index.html` is one of those files brow
 
 For our class, we will create some of our **assignment/** and **project/** directories with a sub-directory called **pages/**. It will contain all of our additional `.html` pages, not <u>any</u> of which will be called `index.html`.
 
-This is good for those of us learning directory structure for the first time, but because these sub-directories will not have an `index.html` file to request, `https://www.baseurl.com/pages/` will likely return a 404 error.
+This structure is suitable for learning directory structure for the first time, but because these sub-directories will not have an `index.html` file to request, `https://www.baseurl.com/pages/` will likely return a 404 error.
 
 
 <div id="code-heading">Directory Tree</div>
@@ -125,4 +125,4 @@ This is good for those of us learning directory structure for the first time, bu
 </pre>
 
 
-<span class="label label-success">Neat-O</span> This site has over 100 child and grandchild directories to keep its many pages organized!
+<span class= "label label-success">Neat-O</span> This site has over 100 child and grandchild directories to keep its many pages organized!

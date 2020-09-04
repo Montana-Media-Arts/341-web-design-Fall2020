@@ -10,7 +10,7 @@ tags: github, hosting, new, page, website
 
 <span class="label label-warning">Load Time</span> This page contains embedded interactive content. In may take 3-10 seconds to completely load.
 
-In order for our repo to be served, we need to tell GitHub that this is a “GitHub pages project site."
+To serve our repository, we need to tell GitHub that this is a "GitHub pages project site."
 
 <div class="row callout-columns status-warning">
   <div class="col-lg-3">

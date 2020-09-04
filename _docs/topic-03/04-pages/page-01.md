@@ -34,4 +34,4 @@ tags: directory, index, request, url
 </pre>
 
 
-<span class="label label-success">Neat-O</span> Essentially, this means something like `http://baseurl.com` and `http://baseurl.com/index.html` are the same! (This is not true for all websites, but for many.)
+<span class="label label-success">Neat-O</span> Essentially, this means something like `http://baseurl.com` and `http://baseurl.com/index.html` are the same! (This is not true for all websites, but many of them.)

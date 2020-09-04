@@ -11,7 +11,7 @@ tags: browser, how, internet, web
 
 One of the tools you will use extensively as a web designer is, of course, the web browser.
 
-A **web browser**, internet browser, or simply “browser,” is a software program used to access the internet from a device. Web designers use web languages like _HTML_, _CSS_, and _JavaScript_ to write the instructions that browsers translate and render into the intended layouts of text, graphics, and other content.
+A **web browser**, internet browser, or simply “browser” is a software program used to access the internet from a device. Web designers use web languages like _HTML_, _CSS_, and _JavaScript_ to write the instructions that browsers translate and render into the intended layouts of text, graphics, and other content.
 
 Browsers have come a long way. Originally utilitarian and only able to render text, they can now handle multiple forms of media, tabbed browsing, and even secure financial transfers.
 

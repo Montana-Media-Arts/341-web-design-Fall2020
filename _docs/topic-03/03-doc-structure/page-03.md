@@ -9,7 +9,7 @@ tags: document, root
 <div class="divider-heading"></div>
 
 
-The **root element** of an HTML document contains all other elements and text. Whereas the `!DOCTYPE` declares the document's HTML version, the root defines all the HTML elements for that page. This element is necessary and should always be placed outside of all content.
+The **root element** of an HTML document contains all other elements and text. Whereas the `!DOCTYPE` declares the document's HTML version, the root defines all the HTML elements for that page. This element is necessary and placed outside of all content.
 
 <div class="code-heading">
   <span class="html">HTML</span>
