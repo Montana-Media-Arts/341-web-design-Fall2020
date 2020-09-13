@@ -8,7 +8,7 @@ tags: break, elements, empty, image
 
 <div class="divider-heading"></div>
 
-Now that you know that most elements are made up of an opening-closing pair of tags, it's worth noting that there are a handful of important single-tag instances known as **empty elements**.
+Now that you know that most elements are two-tag elements consisting of opening-closing pairs of tags, it's worth noting that there are a handful of useful single-tag instances known as **empty elements**.
 
 <div class="row callout-columns status-info">
   <div class="col-lg-3">
@@ -34,7 +34,7 @@ Now that you know that most elements are made up of an opening-closing pair of t
   </div>
 </div>
 
-An “empty element” only has one tag. Before the closing bracket of an empty element there will often be a space and a forward-slash ( **/** ) character. It is a good habit to get into writing these tags in this way.
+An "empty element" only has one tag. Before the closing bracket of an empty element, there will often be a space and a forward-slash ( **/** ) character. It is an excellent habit to get into writing these tags in this way.
 
 
 <div class="code-heading">
@@ -46,4 +46,4 @@ An “empty element” only has one tag. Before the closing bracket of an empty 
 <br />
 
 <p>This is another paragraph, further down the page.</p>
-```
+`"

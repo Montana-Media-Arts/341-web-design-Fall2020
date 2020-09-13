@@ -8,7 +8,7 @@ tags: break, elements, markdown, paragraphs, preformatted, tags
 
 <div class="divider-heading"></div>
 
-Almost all non-heading text will be placed within a paragraph element in a web document. Paragraphs are defined with the `<p>` tags, and the element is written as `<p>...</p>`.
+Developers place almost all non-heading text within a paragraph element in a web document. The `<p>` tags define paragraph elements.  Remember paragraph elements are two-tag elements written as `<p>...</p>`.
 
 
 <div class="code-heading">
@@ -28,7 +28,7 @@ Compare this to Markdown:
 ```markdown
 This is a paragraph.
 
-In markdown, a paragraph requires no extra markup to signify it as such. An empty line between text blocks signifies a new paragraph.
+In Markdown, a paragraph requires no extra markup to signify it as such. An empty line between text blocks represents a new paragraph.
 ```
 
 
@@ -37,11 +37,11 @@ In markdown, a paragraph requires no extra markup to signify it as such. An empt
 
 <div class="divider-heading"></div>
 
-Any text between the paragraph tags `<p>...</p>` belongs to the same paragraph. This is the most common way of writing paragraphs in HTML pages.
+Any text between the paragraph tags `<p>...</p>` belongs to the same paragraph.  Putting text between paragraph tags is the most common way of writing paragraphs in HTML pages.
 
-You'll notice that when using Markdown, empty lines create paragraphs and provide cushion between one paragraph and the next. This is not true of HTML.
+You'll notice that when using Markdown, empty lines create paragraphs and provide a cushion between one paragraph and the next. HTML does not do this.
 
-With HTML, paragraphs are made with tags, and browsers automatically add cushion above and below paragraph elements.
+With HTML, paragraphs tags create paragraphs, and browsers automatically add cushion above and below paragraph elements.
 
 
 <div class="external-embed">
@@ -54,10 +54,9 @@ With HTML, paragraphs are made with tags, and browsers automatically add cushion
 
 <div class="divider-heading"></div>
 
-By default, browsers will remove empty spaces from paragraph element blocks. This is true of spaces and extra empty lines. You need to be aware that you cannot change the output of your rendered HTML code by adding extra spaces or lines unless you code for them; simply pressing space bar or return won't cut it.
+By default, browsers remove empty spaces from paragraph element blocks. Browsers mimic this behavior with spaces and extra blank lines too. You need to be aware that you cannot change the output of your rendered HTML code by adding additional spaces or lines unless you code for them; merely pressing the space bar or return does not result in a new space or newline.
 
-You can see this below, where the first several paragraphs display as single lines. One way we can combat this is to use a **line break**, or the `<br />` tag. This will drop create a new line within a paragraph element.
-
+You can see this below, where the first several paragraphs display as single lines. Using the **line break**, or the `<br />` tag moves the cursor to the next line within the paragraph element.
 
 <div class="external-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="qXwEbW" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="HTML Paragraphs and Line Breaks" class="codepen"></p>
@@ -71,7 +70,7 @@ You can see this below, where the first several paragraphs display as single lin
 
 You can use the **preformatted text** element (`<pre>...</pre>`) to tell a browser to render spaces and text exactly as you've typed.
 
-This tag usually displays the contents of the element in a fixed-width font, as it is primarily used for preformatted code. However, it can also be used for preformatted text.
+The `<pre>` tag usually displays the contents between the element in a fixed-width font, typically used for preformatted code or text.
 
 
 <div class="external-embed">

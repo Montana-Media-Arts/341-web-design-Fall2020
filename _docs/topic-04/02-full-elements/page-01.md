@@ -8,7 +8,7 @@ tags: elements, tags
 
 <div class="divider-heading"></div>
 
-The majority of HTML elements are made of two tags: and **opening tag** and **closing tag**, with related content wrapped in-between.
+Most HTML elements consist of two tags: and **opening tag** and **closing tag**, with related content wrapped in-between.
 
 <div class="row callout-columns status-info">
   <div class="col-lg-3">
@@ -39,4 +39,4 @@ Your job then becomes a three-step process:
 2. Wrap the content in the appropriate element tags: headings, paragraphs, list items, etc.
 3. Decide where on the page each element will lie: titling the page, third paragraph down, etc.
 
-This is part of the _page structuring_ process.
+This process is part of the _page structuring_ process.

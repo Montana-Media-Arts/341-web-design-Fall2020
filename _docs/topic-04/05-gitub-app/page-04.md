@@ -11,7 +11,7 @@ tags: app, guide, push, track, vcs
 
 <span class="label label-warning">Load Time</span> This page contains embedded interactive content. In may take 3-10 seconds to completely load.
 
-Your workflow will now consist of creating new files and folders on your local computer, saving files, “pushing” changes, and viewing updates on <a href="" target="_blank">GitHub.com</a>.
+Your workflow will now consist of creating new files and folders on your local computer, saving files, "pushing" changes, and viewing updates on <a href="" target=" _blank ">GitHub.com</a>.
 
 <div class="row callout-columns status-danger">
   <div class="col-lg-3">

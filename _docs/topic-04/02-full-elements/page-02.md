@@ -1,13 +1,3 @@
----
-title: Headings
-module: topic-04
-permalink: /topic-04/two-tags-headings/
-categories: html
-tags: elements, markdown, headings, tags
----
-
-<div class="divider-heading"></div>
-
 Headings are defined with the `<h1>` to `<h6>` tags, and their elements are written as `<h1>...</h1>`.
 
 
@@ -34,9 +24,9 @@ Compare this to Markdown:
 
 `<h1>` defines the most important heading. `<h6>` defines the least important heading.
 
-`<h1>` headings are considered to be _main headings_, while `<h2>` headings are usually considered _sub-headings_ and so forth, through `<h6>`.
+`<h1>` headings typically are the _main headings_, while `<h2>` headings are usually considered _sub-headings_ and so forth, through `<h6>`.
 
-<span class="label label-info">Note</span> By default, browsers will display headings with decreasing font size, although headings should instead be explicitly styled using CSS rules and definitions. This prevents any un-expected rendering of the web document content.
+<span class="label label-info">Note</span> By default, browsers will display headings with decreasing font size, although later, we will style headings explicitly using CSS rules and definitions. CSS styling prevents any un-expected rendering of the web document content.
 
 
 <div class="external-embed">

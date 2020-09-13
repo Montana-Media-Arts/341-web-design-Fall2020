@@ -22,7 +22,7 @@ You've done some linking in **markdown** already, using outside sources and _abs
 
 <br />
 
-But I can also link to pages in this website using _relative_ URLs, as long as I stay within my  `/MART341-WebDesign` repository. As the administrator of this site, I can link to the same page like so:
+But I can also link to pages on this website using _relative_ URLs, as long as I stay within my  `/MART341-WebDesign` repository. As the administrator of this site, I can link to the same page like so:
 
 
 <div id="code-heading">Markdown</div>
@@ -33,4 +33,4 @@ But I can also link to pages in this website using _relative_ URLs, as long as I
 
 <br />
 
-If within our _MART341-WebDesign_ repo, I can use either of these methods to link back to the same page. But one is much more efficient for me to type, and doesn't require me to have pushed all of (or anything) to GitHub's servers yet.
+Within our _MART341-WebDesign_ repo, I can use either of these methods to link back to the same page. One is much more efficient for me to type and doesn't require anything to be sent to GitHub's servers yet.
