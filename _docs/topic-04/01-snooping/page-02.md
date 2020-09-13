@@ -96,9 +96,7 @@ To inspect code in Safari, you first need to turn on the developer tools:
 To inspect code in Edge:
 1. Select the text, images, or links in the browser
 2. Right-click and select Inspect.
-3. The developer tools should appear, showing the HTML of those elements.
-<img src="../img/safari-inspect.png" alt="using the inspect code feature in Safari" title="Inspect Element in Safari" />
-
+3. The developer tools should appear, showing the HTML of those elements
 
 <div class="divider-pg"></div>
 
