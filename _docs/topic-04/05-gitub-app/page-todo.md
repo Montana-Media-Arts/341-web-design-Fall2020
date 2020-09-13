@@ -22,7 +22,7 @@ categories: uncategorized
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="https://youtu.be/RgOGOJ4p0uk" class="list-group-item">
+        <a href="https://youtu.be/RgOGOJ4p0uk" target="_new" class="list-group-item">
           <i class="icon-hw fas fa-upload" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">Practice Making and Pushing Changes</h4>
           <p class="list-group-item-text">Add some text to a file and put it in your local direction. Push your changes and view on GitHub.com.</p>
