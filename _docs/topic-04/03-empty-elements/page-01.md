@@ -40,10 +40,11 @@ An "empty element" only has one tag. Before the closing bracket of an empty elem
 <div class="code-heading">
   <span class="html">HTML</span>
 </div>
+
 ```html
 <p>This is a paragraph. If I want additional spacing between this and the next paragraph, I can add a LINE BREAK.</p>
 
 <br />
 
 <p>This is another paragraph, further down the page.</p>
-`"
+```
