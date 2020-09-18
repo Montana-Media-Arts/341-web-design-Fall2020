@@ -10,11 +10,13 @@ categories: uncategorized
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <div class="list-group-item hw-item-disabled">
-          <img class="icon-hw" src="../img/hw-icon-duckett.svg" />
-          <h4 class="list-group-item-heading">Duckett<br />Ch 01: pgs 12-26</h4>
+        <div class="list-group-item">
+         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html#:~:text=The%20HTML%20element%20represents,be%20descendants%20of%20this%20element.&text=None.&text=One%20element%2C%20followed,by%20one%20element." target="_blank" class="list-group-item">
+           <i class="icon-hw fas fa-hand-paper" aria-hidden="true"></i>
+          <h4 class="list-group-item-heading">Root Element</h4>
           <div class="divider-hw"></div>
-          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 11 minute reading</p>
+          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 5 minute reading</p>
+          </a>
         </div>
       </div>
     </div>
