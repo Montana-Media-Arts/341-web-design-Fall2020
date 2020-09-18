@@ -7,14 +7,16 @@ categories: uncategorized
 ---
 
 <div class="row text-center">
-  <div class="col-lg-4">
+   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
         <div class="list-group-item hw-item-disabled">
-          <img class="icon-hw" src="../img/hw-icon-duckett.svg" />
-          <h4 class="list-group-item-heading">Duckett<br />Ch 02: pgs 40-44</h4>
+           <i class="icon-hw fas fa-book" aria-hidden="true"></i>
+           <a href="https://www.w3schools.com/tags/tag_body.asp" target="_blank" class="list-group-item">
+          <h4 class="list-group-item-heading">Body Element Information</h4>
           <div class="divider-hw"></div>
-          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 3 minute reading</p>
+          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 2 minute reading</p>
+          </a>
         </div>
       </div>
     </div>
