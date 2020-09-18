@@ -11,10 +11,26 @@ categories: uncategorized
     <div class="bs-component">
       <div class="list-group">
         <div class="list-group-item hw-item-disabled">
-          <img class="icon-hw" src="../img/hw-icon-duckett.svg" />
-          <h4 class="list-group-item-heading">Duckett<br />Ch 08: pgs 181</h4>
+           <i class="icon-hw fas fa-hand-paper" aria-hidden="true"></i>
+           <a href="https://www.w3schools.com/tags/tag_doctype.asp" target="_blank" class="list-group-item">
+          <h4 class="list-group-item-heading">DOCTYPE Information</h4>
           <div class="divider-hw"></div>
-          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 1 minute reading</p>
+          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 2 minute reading</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-4">
+    <div class="bs-component">
+      <div class="list-group">
+        <div class="list-group-item hw-item-disabled">
+           <i class="icon-hw fas fa-hand-paper" aria-hidden="true"></i>
+           <a href="https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_doctype" target="_blank" class="list-group-item">
+          <h4 class="list-group-item-heading">Experiment with DOCTYPE</h4>
+          <div class="divider-hw"></div>
+          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 2 minute activity</p>
+          </a>
         </div>
       </div>
     </div>
