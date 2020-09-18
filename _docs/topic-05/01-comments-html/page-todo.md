@@ -15,6 +15,7 @@ categories: uncategorized
           <h4 class="list-group-item-heading">HTML Comments</h4>
           <div class="divider-hw"></div>
           <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 3 minute reading</p>
+          </a>
         </div>
       </div>
     </div>
