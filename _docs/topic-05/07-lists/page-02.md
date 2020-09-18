@@ -8,7 +8,7 @@ tags: list, ordered
 
 <div class="divider-heading"></div>
 
-**Ordered lists** are those where each entry is prepend with an ascending identifier such as numbers, letters, or Roman numerals.
+**Ordered lists** are where an ascending identifier, such as numbers, letters, or Roman numerals, prepends each entry.
 
 <table style="width: 75%; margin: auto;">
 <tbody>
@@ -38,7 +38,8 @@ tags: list, ordered
 </tbody>
 </table>
 
-To identify a list, the content must be surrounded by the ordered list tags. ( `<ol>...</ol>` )
+Surrounding content by ordered list tags identifies a list.
+( `<ol>...</ol>` )
 
 Each “list item” must be surrounded by the list item tags. ( `<li>...</li>` ).
 

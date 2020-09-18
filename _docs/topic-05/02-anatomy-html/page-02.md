@@ -8,11 +8,11 @@ tags: attribute, paragraphs, tags
 
 <div class="divider-heading"></div>
 
-**Attributes** provide additional information about an HTML element. This may include information such as languages (US-English vs. French), URL links for text, the size to display a picture, or ways of identifying specific elements.
+**Attributes** provide additional information about an HTML element. Attributes may include languages (US-English vs. French), URL links for text, the size to display a picture, or ways of identifying specific elements.
 
-Attributes are always placed inside the opening tag for the element they refer to. Attributes are always provided in a **key=“value”** pair. The **key** is an identifier the the browser processor will recognize. These keys are defined by the W3 Consortium that defined HTML5 specification. The **value** provides information about the attribute.
+Place Attributes inside the opening tag for which the element they refer. Attributes always provide a **key= "value"** pair with the **key** as the identifier that the browser processor will recognize. The W3 Consortium defines these keys based on the HTML5 specification. The **value** provides information about the attribute.
 
-The value is always surrounded by double quotations. One reason for this is that it allows for spaces to be used within the value for an attribute. Furthermore, the attribute will have one space placed between the tag label and the attribute, as well as between any subsequent attributes.
+Double quotations always surround the value. One reason for this is that it allows for spaces to be used within an attribute's value. Furthermore, the attribute will have one space between the tag label and the attribute, as well as between any subsequent attributes.
 
 <div class="code-heading">
   <span class="html">HTML</span>
@@ -21,4 +21,4 @@ The value is always surrounded by double quotations. One reason for this is that
 <p align="left">This is a paragraph element, made with "<p>" tags.
 <br/>
 It will align to the left of its container.</p>
-```
+`"

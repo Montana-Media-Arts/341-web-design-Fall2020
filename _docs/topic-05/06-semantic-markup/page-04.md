@@ -12,7 +12,7 @@ There are two common ways of marking up quotations in HTML: quote (`<q>...</q>`)
 
 The **quote** tag defines a short quotation. Browsers normally _insert quotation marks_ around the quotation.
 
-The **blockquote** tag specifies a section that is quoted from another source. Browsers usually _indent_ blockquote elements.
+The **blockquote** tag specifies a section quoted from another source. Browsers usually _indent_ blockquote elements.
 
 
 <div class="code-heading">

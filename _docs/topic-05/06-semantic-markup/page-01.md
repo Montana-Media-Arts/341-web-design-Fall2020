@@ -10,7 +10,7 @@ tags: bold, elements, strong
 
 One of the most common types of semantic markup is to “bold” some text via the **bold element**. The element used for identifying bold text is `<b>...</b>`.
 
-However, it is important to recognize that the use of bold text does not imply any extra meaning. For this reason, you are encouraged to use the **strong element**. The use of a strong element ( `<strong>...</strong>` ) indicates that its content has strong importance. By default, browsers will show the contents of strong elements in bold.
+However, it is important to recognize that bold text does not imply any extra meaning. For this reason, you are encouraged to use the **strong element**. The use of a strong element ( `<strong>...</strong>` ) indicates that its content has strong importance. By default, browsers will show the contents of strong elements in bold.
 
 
 <div class="code-heading">

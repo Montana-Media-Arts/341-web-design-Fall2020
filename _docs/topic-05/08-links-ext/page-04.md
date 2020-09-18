@@ -18,9 +18,9 @@ Links that include the “<code>http/https</code>” as part of the entire URL a
 ```
 
 
-Notice in the above link that it includes “`https`”. The “`https`” is required to signify to the browser that this is an ‘external’ link outside of the current document’s directory/server. **You must include either “`http`” or “`https`”.**
+Notice in the above link that it includes “`https`”. The “`https`” is required to signify to the browser that this is an ‘external’ link outside the current document’s directory/server. **You must include either “`http`” or “`https`”.**
 
-<span class="label label-success">Neat-O</span> The former is a older, established, version of the “hypertext transfer protocol”, which specified how data was sent between clients. The latter, is a “secure” version of this protocol. Whenever possible, you should provide “`https`” links (just check that they work first), as it provides a safer browsing experience.
+The former is an older, established, version of the “hypertext transfer protocol”, which specifies data transfer between clients. The latter is a “secure” version of this protocol. Whenever possible, you should provide “`https`” links (check that they work first), as it allows for a safer browsing experience.
 
 
 <div class="external-embed">

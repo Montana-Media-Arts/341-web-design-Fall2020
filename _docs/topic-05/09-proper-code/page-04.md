@@ -8,9 +8,9 @@ tags: best-practice, code, elements, indent
 
 <div class="divider-heading"></div>
 
-There isn't total protocol for indent depth, although standard procedure is to indent one tab (or 2 spaces) for each new element that is a child of the one above it.
+There isn't a total protocol for indent depth, although the standard procedure is to indent one tab (or two spaces) for each new element that is a child of the one above it.
 
-Indentation doesn't effect how the page renders, but makes a **huge** difference in the readability of the code.
+Indentation doesn't affect how the page renders but makes a **huge** difference in the code's readability.
 
 
 <div class="code-heading">

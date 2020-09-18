@@ -8,7 +8,7 @@ tags: doctype, history
 
 <div class="divider-heading"></div>
 
-In older versions of HTML and XHTML, the DOCTYPE included additional information on the page, as well as a reference link to the specification.
+In older versions of HTML and XHTML, the DOCTYPE included additional information on the page and a reference link to the specification.
 
 
 <div class="code-heading">
@@ -24,4 +24,4 @@ In older versions of HTML and XHTML, the DOCTYPE included additional information
 ```
 
 
-They’re not very human-readable, but, in their own way, they are simply saying “this document is written in HTML 4.01,” or “this document is written in XHTML 1.0.”
+They're not very human-readable, but, in their way, they are merely saying “this document is written in HTML 4.01,” or “this document is written in XHTML 1.0.”

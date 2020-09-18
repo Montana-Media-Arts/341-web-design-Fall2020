@@ -10,9 +10,9 @@ tags: elements, subscript, superscript
 
 The **superscript element** ( `<sup>...</sup>` ) and **subscript element** ( `<sub>...</sub>` ) are used to raise or lower text relative to normal text.
 
-The superscript element is used to denote characters that should appear as 'superscript', such as date suffixes or mathematical powers.
+The superscript element denotes characters that should appear as 'superscript', such as date suffixes or mathematical powers.
 
-The subscript element is commonly used with footnotes or chemical and mathematical formulas, especially regarding fractions such as <sup>1</sup>/<sub>3</sub>.
+Footnotes or chemical and mathematical formulas, especially regarding fractions such as <sup>1</sup>/<sub>3</sub> commonly use the subscript element.
 
 
 <div class="code-heading">

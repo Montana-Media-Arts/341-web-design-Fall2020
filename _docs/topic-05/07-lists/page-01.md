@@ -8,7 +8,7 @@ tags: definition, list, ordered, unordered
 
 <div class="divider-heading"></div>
 
-Lists are a typical part of structured documents. Lists can be used to convey information like sets of instructions, elements in a set, definitions, and outlines.
+Lists are a typical part of structured documents. Lists convey information like sets of instructions, elements in a set, definitions, and outlines.
 
 The three types of lists structured in HTML are:
 

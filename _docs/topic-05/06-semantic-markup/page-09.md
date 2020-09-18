@@ -8,7 +8,7 @@ tags: delete, elements, insert
 
 <div class="divider-heading"></div>
 
-The **delete** tag (`<del>`) defines text that has been deleted from a document, and the **insert** tag (`<ins>`)defines a text that has been inserted,
+The **delete** tag (`<del>`) defines the text deleted from a document, and the **insert** tag (`<ins>`) defines the text inserted.
 
 Use `<del>` and `<ins>` to markup updates and modifications in a document. Browsers will normally strike a line through deleted text and underline inserted text.
 

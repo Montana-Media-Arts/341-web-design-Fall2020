@@ -8,7 +8,7 @@ tags: list, unordered
 
 <div class="divider-heading"></div>
 
-**Unordered lists** are those that which begin with dots, bullets, dashes, or other visual signifiers. These lists are great for things like ingredients in a recipe. Unordered lists, by default, get a dot in most browsers.
+**Unordered lists** begin with dots, bullets, dashes, or other visual signifiers. These lists are great for things like ingredients in a recipe. Unordered lists, by default, get a dot in most browsers.
 
 <table style="width: 75%; margin: auto;">
 <tbody>
@@ -41,7 +41,7 @@ tags: list, unordered
 
 To identify an unordered list, the content is contained within the unordered list tags ( `<ul>...</ul>` ).
 
-As with the ordered list, each list item is contained within a list item element ( `<li>...</li>` ).
+As with the ordered list, contain each list item within a list item element ( `<li>...</li>` ).
 
 
 <div class="code-heading">

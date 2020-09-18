@@ -8,7 +8,7 @@ tags: elements, link, target
 
 <div class="divider-heading"></div>
 
-The **target** attribute provides us a way of specifying to a browser how a link will open in the browser. The default behavior is to open the linked document in the same window/tab from which is was clicked. If manually included, the attribute's value would be set to `"_self".`
+The **target** attribute provides a way of specifying to a browser how a link will open in the browser. The default behavior is to open the linked document in the same window/tab. By manually setting the attribute to `"_self"`, the page also remains in the same window/tab. 
 
 Other values include:
 - `"_blank"` - Opens the linked document in a new window or tab

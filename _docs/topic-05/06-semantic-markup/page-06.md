@@ -8,7 +8,7 @@ tags: cite, elements
 
 <div class="divider-heading"></div>
 
-The **cite** element (`<cite>...</cite>`) defines the title of a work (e.g. a book, a song, a movie, a TV show, a painting, a sculpture, etc.).
+The **cite** element (`<cite>...</cite>`) defines the title of a work (e.g., a book, a song, a movie, a TV show, a painting, a sculpture, etc.).
 
 <span class="label label-info">Note</span> A person's name is not the title of a work.
 

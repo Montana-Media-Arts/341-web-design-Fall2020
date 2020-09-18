@@ -25,4 +25,4 @@ For example, I may want my site indexed as containing content written in "US-sty
 ```
 
 
-The HTML lang attribute can be used to declare the language of a Web page or a portion of a Web page. This is meant to assist search engines and browsers.
+The HTML lang attribute declares the language of a Web page or a portion of a Web page. This attribute assists search engines and browsers.

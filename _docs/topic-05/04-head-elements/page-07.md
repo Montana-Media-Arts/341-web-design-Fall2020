@@ -8,7 +8,7 @@ tags: document, elements, head, page, structure
 
 <div class="divider-heading"></div>
 
-This is the good head set-up for an HTML document.
+ The code below shows an excellent example of the head tag in an HTML document.
 
 
 <div class="code-heading">
@@ -34,4 +34,4 @@ This is the good head set-up for an HTML document.
 ```
 
 
-<span class="label label-success">Neat-O</span> You can use code blocks like these in your own HTML documents; just be aware of the placeholder text that you'll need to change!
+<span class="label label-success">Neat-O</span> You can use code blocks like these in your HTML documents; be aware of the placeholder text that you'll need to change!

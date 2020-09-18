@@ -8,7 +8,7 @@ tags: best-practice, code, organize
 
 <div class="divider-heading"></div>
 
-Most languages read and process top-to-bottom, so its important to list these elements linearly and/or logically down the page.
+Most languages read and process top-to-bottom, so it's vital to list them linearly or logically down the page.
 
 
 <div class="code-heading">

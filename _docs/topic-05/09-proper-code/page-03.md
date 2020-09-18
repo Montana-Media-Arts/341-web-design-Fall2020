@@ -9,7 +9,7 @@ tags: code, elements, best-practice
 <div class="divider-heading"></div>
 
 ## The Tag Burrito
-We "wrap" elements in opening and closing tags, as you know. You're now familiar with single-tag element sets like `<p>...</p>`, but elements can actually have multiple sets of tags. It's considered proper to layer these sets in concentric orbits around the element.
+We "wrap" elements in opening and closing tags, as you know. You're now familiar with single-tag element sets like `<p>...</p>`, but elements can have multiple tags. It's best practice to layer these sets in concentric orbits around the element.
 
 This basically looks like `<tag3><tag2><tag1>...</tag1></tag2></tag3>`
 
@@ -38,4 +38,4 @@ This basically looks like `<tag3><tag2><tag1>...</tag1></tag2></tag3>`
 ```
 
 
-<p class="img-caption"><a href="https://youtu.be/jyaLZHiJJnE" target="_blank">True story<a/>.<p>
+<p class="img-caption"><a href="https://youtu.be/jyaLZHiJJnE" target="_blank">True story</a>.<p>

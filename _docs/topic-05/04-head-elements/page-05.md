@@ -10,9 +10,9 @@ tags: elements, head, link
 
 The _link_ element tells a browser about other resources that the page may need to load. Typically, these are the **CSS** or “stylesheets” which dictate how a page will appear in a browser.
 
-We will not use this element for the first few weeks, but will rely upon it for the remainder of the semester after we start with CSS.
+We will not use this element for the first few weeks but will rely upon it for the remainder of the semester after starting with CSS.
 
-<span class="label label-info">Note</span> This element only requires an opening tag, as all information for the element is contained as attributes within the opening tag. This is another example of an **empty element.**
+<span class="label label-info">Note</span> This element only requires an opening tag, as the element contains all the attributes within the opening tag. `link` is another example of an **empty element.**
 
 
 <div class="code-heading">

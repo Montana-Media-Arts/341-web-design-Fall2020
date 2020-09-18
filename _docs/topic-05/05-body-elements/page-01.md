@@ -30,7 +30,7 @@ The <b>body element</b> is where all of the “meat & potatoes” (if you will) 
 ```
 
 
-Within the body there will generally be 2 types of markup used:
+Within the body, there will generally be two types of markup used:
 
 1. Structural markup
 2. Semantic markup
