@@ -25,7 +25,7 @@ categories: uncategorized
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="https://codepen.io/Media-Ed-Online/pen/XZaKaP" target="_blank" class="list-group-item">
+        <a href="https://codepen.io/retrog4m3r/pen/bGpmBwv" target="_blank" class="list-group-item">
           <i class="icon-hw fab fa-codepen" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">Code-Play: “HTML Head Elements”</h4>
           <div class="divider-hw"></div>
