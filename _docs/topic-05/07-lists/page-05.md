@@ -28,5 +28,5 @@ You can combine list types as well as use multiple **nested list** elements to c
 
 
 <div class="external-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="NyvMRY" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="HTML Nested Lists" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="RwaeoYj" data-default-tab="html,result" data-user="michaelcassens" data-pen-title="HTML Nested Lists" class="codepen"></p>
 </div>

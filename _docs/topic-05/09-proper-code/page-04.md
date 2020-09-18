@@ -47,5 +47,5 @@ Here's an example with nested lists:
 
 
 <div class="external-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="ZXbPar" data-default-tab="html" data-user="Media-Ed-Online" data-pen-title="HTML Nested Lists 2" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="BaKqQMq" data-default-tab="html" data-user="michaelcassens" data-pen-title="HTML Nested Lists 2" class="codepen"></p>
 </div>

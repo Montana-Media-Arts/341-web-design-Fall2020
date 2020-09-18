@@ -23,12 +23,13 @@ Most languages read and process top-to-bottom, so its important to list these el
     <!-- This is improper ordering of blocks! -->
     <!-- The footer should come after the main content. -->
     <footer>
-      <p>(C) Justine Evans</p>
+      <p>(C) School of Media Arts</p>
     </footer>
 
     <main>
-      <h1>"Debt"</h1>
-      <h2>A sonnet about student loans.</h2>
+      <h1>"Old Town Road"</h1>
+      <h2>Yeah, I'm gonna take my horse to the old town road.</h2>
+      <i>Lil Nas X</i>
     </main>
 
   </body>

@@ -24,5 +24,5 @@ Notice in the above link that it includes “`https`”. The “`https`” is re
 
 
 <div class="external-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="zEwMLb" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="External HTML Links" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="Rwaeoqx" data-default-tab="html,result" data-user="michaelcassens" data-pen-title="External HTML Links" class="codepen"></p>
 </div>

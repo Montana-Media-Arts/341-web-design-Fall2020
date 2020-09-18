@@ -26,5 +26,5 @@ Other values include:
 
 
 <div class="external-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="yzbMvB" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="HTML Links (With Target)" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="bGpmBmQ" data-default-tab="html,result" data-user="michaelcassens" data-pen-title="HTML Links (With Target)" class="codepen"></p>
 </div>

@@ -31,5 +31,5 @@ The terms definition is then encapsulated in the "definition" tags (`<dd>...</dd
 
 
 <div class="external-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="ZrJoYm" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="HTML Definition Lists" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="MWyPbBN" data-default-tab="html,result" data-user="michaelcassens" data-pen-title="HTML Definition Lists" class="codepen"></p>
 </div>

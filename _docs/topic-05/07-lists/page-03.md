@@ -57,5 +57,5 @@ As with the ordered list, each list item is contained within a list item element
 
 
 <div class="external-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="rJzvWg" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="HTML Unordered Lists" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="dyMgOjW" data-default-tab="html,result" data-user="michaelcassens" data-pen-title="HTML Unordered Lists" class="codepen"></p>
 </div>
