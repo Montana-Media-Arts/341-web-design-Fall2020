@@ -17,8 +17,9 @@ Double quotations always surround the value. One reason for this is that it allo
 <div class="code-heading">
   <span class="html">HTML</span>
 </div>
+
 ```html
 <p align="left">This is a paragraph element, made with "<p>" tags.
 <br/>
 It will align to the left of its container.</p>
-`"
+```
