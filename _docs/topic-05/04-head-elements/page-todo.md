@@ -11,14 +11,17 @@ categories: uncategorized
     <div class="bs-component">
       <div class="list-group">
         <div class="list-group-item hw-item-disabled">
-          <img class="icon-hw" src="../img/hw-icon-duckett.svg" />
-          <h4 class="list-group-item-heading">Duckett<br />Ch 01: pgs 27-39</h4>
+           <i class="icon-hw fas fa-hand-paper" aria-hidden="true"></i>
+           <a href="https://www.w3schools.com/html/html_head.asp" target="_blank" class="list-group-item">
+          <h4 class="list-group-item-heading">Head Element Information</h4>
           <div class="divider-hw"></div>
-          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 10 minute reading</p>
+          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 2 minute reading</p>
+          </a>
         </div>
       </div>
     </div>
   </div>
+  
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
