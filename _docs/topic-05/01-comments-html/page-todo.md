@@ -12,6 +12,7 @@ categories: uncategorized
       <div class="list-group">
         <div class="list-group-item hw-item-disabled">
           <a href="https://html.com/tags/comment-tag/" target="_blank" class="list-group-item">
+           <i class="icon-hw fas fa-file-medical-alt" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">HTML Comments</h4>
           <div class="divider-hw"></div>
           <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 3 minute reading</p>
