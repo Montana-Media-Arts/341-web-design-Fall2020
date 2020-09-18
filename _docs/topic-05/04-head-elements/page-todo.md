@@ -11,7 +11,7 @@ categories: uncategorized
     <div class="bs-component">
       <div class="list-group">
         <div class="list-group-item hw-item-disabled">
-           <i class="icon-hw fas fa-hand-paper" aria-hidden="true"></i>
+           <i class="icon-hw fas fa-book" aria-hidden="true"></i>
            <a href="https://www.w3schools.com/html/html_head.asp" target="_blank" class="list-group-item">
           <h4 class="list-group-item-heading">Head Element Information</h4>
           <div class="divider-hw"></div>
@@ -21,7 +21,7 @@ categories: uncategorized
       </div>
     </div>
   </div>
-  
+
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">

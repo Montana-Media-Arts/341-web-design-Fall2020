@@ -11,7 +11,7 @@ categories: uncategorized
     <div class="bs-component">
       <div class="list-group">
         <div class="list-group-item hw-item-disabled">
-           <i class="icon-hw fas fa-hand-paper" aria-hidden="true"></i>
+           <i class="icon-hw fas fa-book" aria-hidden="true"></i>
            <a href="https://www.w3schools.com/tags/tag_doctype.asp" target="_blank" class="list-group-item">
           <h4 class="list-group-item-heading">DOCTYPE Information</h4>
           <div class="divider-hw"></div>
