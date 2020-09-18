@@ -22,5 +22,5 @@ Use `<del>` and `<ins>` to markup updates and modifications in a document. Brows
 
 
 <div class="external-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="JpyMzb" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Semantic HTML, Insert and Delete" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="WNwaoMY" data-default-tab="html,result" data-user="michaelcassens" data-pen-title="Semantic HTML, Insert and Delete" class="codepen"></p>
 </div>

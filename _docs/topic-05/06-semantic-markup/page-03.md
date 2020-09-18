@@ -26,5 +26,5 @@ The subscript element is commonly used with footnotes or chemical and mathematic
 
 
 <div class="external-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="BYdWLJ" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Semantic HTML, Superscript and Subscript" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="abNRBLv" data-default-tab="html,result" data-user="michaelcassens" data-pen-title="Semantic HTML, Superscript and Subscript" class="codepen"></p>
 </div>

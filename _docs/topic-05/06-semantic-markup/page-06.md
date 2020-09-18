@@ -22,5 +22,5 @@ The **cite** element (`<cite>...</cite>`) defines the title of a work (e.g. a bo
 
 
 <div class="external-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="aqyVbG" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Semantic HTML, Cite" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="xxVyRpZ" data-default-tab="html,result" data-user="michaelcassens" data-pen-title="Semantic HTML, Cite" class="codepen"></p>
 </div>

@@ -22,7 +22,7 @@ The nearest parent of the `<dfn>` tag must also contain the definition/explanati
 
 
 <div class="external-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="VQzrEY" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Semantic HTML, Definition" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="gOrBLoo" data-default-tab="html,result" data-user="michaelcassens" data-pen-title="Semantic HTML, Definition" class="codepen"></p>
 </div>
 
 

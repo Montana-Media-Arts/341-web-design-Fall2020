@@ -20,5 +20,5 @@ The **strikethrough** tag (`<s>`) specifies text that is no longer correct, accu
 
 
 <div class="external-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="NyvyRV" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Semantic HTML, Licensing" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="vYGVyRJ" data-default-tab="html,result" data-user="michaelcassens" data-pen-title="Semantic HTML, Licensing" class="codepen"></p>
 </div>

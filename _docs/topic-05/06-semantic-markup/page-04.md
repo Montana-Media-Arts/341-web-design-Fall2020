@@ -29,5 +29,5 @@ The **blockquote** tag specifies a section that is quoted from another source. B
 
 
 <div class="external-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="gvxRqL" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Semantic HTML, Quotes and Blockquotes" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="GRZYNMO" data-default-tab="html,result" data-user="michaelcassens" data-pen-title="Semantic HTML, Quotes and Blockquotes" class="codepen"></p>
 </div>
