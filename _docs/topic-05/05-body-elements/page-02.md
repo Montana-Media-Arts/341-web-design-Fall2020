@@ -31,5 +31,5 @@ Any text between the **paragraph** tags `<p>...</p>` belongs to the same paragra
 
 
 <div class="external-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="qxXaxa" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="HTML Structural Body Elements" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="MWyPbbx" data-default-tab="html,result" data-user="michaelcassens" data-pen-title="HTML Structural Body Elements" class="codepen"></p>
 </div>
