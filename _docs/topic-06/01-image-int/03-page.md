@@ -19,8 +19,8 @@ permalink: /topic-06/img-tag/
 </div>
 
 
-As stated in the introduction, the **image element** is a multi-part element comprised of several "commands" over how the image will render.
+As stated in the introduction, the **image element** is a multi-part element comprised of several "attributes" determining how the image will render.
 
 As with the break (`<br />`) and horizontal ruler (`<hr />`) elements, the image element is an _empty element_ that only requires a single tag. This tag is `<img />`.
 
-As with hyperlinks, this element is reliant on _attributes_ within the tag to allow it to be useful. Visit the next pages to learn these attributes.
+As with hyperlinks, the `<img>` element relies on its _attributes_ within the tag to make it useful. The following pages describe these attributes.

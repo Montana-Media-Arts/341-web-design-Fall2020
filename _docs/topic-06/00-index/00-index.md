@@ -13,7 +13,7 @@ tags:
 </div>
 
 
-In this topic, we will look further into HTML images, you'll be introduced to some multi-part elements such as tables and one of the foundations of web development - forms.
+In this topic, we will look further into HTML images, you'll be introduced to some additional elements such as images, tables, and one of the foundations of web development - forms.
 
 As we saw earlier, we can add images in by using the `<img>` tag along with the `src=` attribute, but there are more attributes that we should consider particularly when it comes to accessibility.
 
