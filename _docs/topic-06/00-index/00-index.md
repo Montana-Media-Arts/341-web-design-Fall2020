@@ -9,17 +9,22 @@ tags:
 
 <div class="section-title">
   <img src="../img/assignment-06.svg" alt="" title="Assignment 6: Forms" />
-  <h2 style="text-align: center;">HTML Forms</h2>
+  <h2 style="text-align: center;">HTML Images, Tables, and Forms
 </div>
 
 
-This Topic, you'll be introduced to some multi-part elements, including tables and one of the foundations of web development - forms.
+In this topic, we will look further into HTML images, you'll be introduced to some multi-part elements such as tables and one of the foundations of web development - forms.
 
-Although they appear antiquated by today's visual standards, HTML tables are still used quite often to present data in structured formats. One way to collect data from visitors is through forms, or question-response collections where users enter data that is then sent to a server for processing. A common form you encounter daily is the _user login_.
+As we saw earlier, we can add images in by using the `<img>` tag along with the `src=` attribute, but there are more attributes that we should consider particularly when it comes to accessibility.
+
+Although tables may appear antiquated by today's visual standards, HTML tables are still used quite often when presenting data in a structured format. 
+
+Forms allow us to collect data from visitors where users enter data which is then sent to a server for processing. One of the most common forms you encounter daily is the _user login_.
 
 
-By the end of this Topic, we hope you:
+By the end of this Topic, you will understand:
 <ul class="pros-and-cons">
-  <li class="icon-pro">Understand how elements can be stringed together to better describe, present, and gather information</li>
-  <li class="icon-pro">Played around with form elements, and explored how data is presented and collected on websites.</li>
+<li class="icon-pro">Some of the additional attributes of images</li>
+  <li class="icon-pro">How to combine elements to better describe, present, and gather information</li>
+  <li class="icon-pro">Experiment with form elements, and explore how data is presented and collected on websites.</li>
 </ul>

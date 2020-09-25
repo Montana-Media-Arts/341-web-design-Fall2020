@@ -323,18 +323,17 @@ topic-06:
     docs:
     - overview
 
-  #- title: Image Integration
-    #docs:
-    #- img-about
-    #- img-save
-    #- img-tag
-    #- img-src
-    #- img-alt
-    #- img-title
-    #- img-size
-    #- img-element
-    #- todo-img-int
-
+  - title: Image Integration
+    docs:
+    - img-about
+    - img-save
+    - img-tag
+    - img-src
+    - img-alt
+    - img-title
+    - img-size
+    - img-element
+    - todo-img-int
   - title: Table Structure
     docs:
     - table-about
