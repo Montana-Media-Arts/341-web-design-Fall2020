@@ -14,5 +14,5 @@ The **legend element** (`<legend>...</legend>`) comes directly after the fieldse
 Most browsers display these groups with a line around the edge. This presentation of this grouping can be altered with CSS and also help clarify data groups to users.
 
 <div class="codepen-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="RLjaPK" data-default-tab="html,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="Topic-05: Grouping Form Elements" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="oNxVePE" data-default-tab="html,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Grouping Form Elements" class="codepen"></p>
 </div>

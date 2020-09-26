@@ -27,7 +27,7 @@ This style element effectively states _"a border 1 pixel wide, drawn as a solid 
 
 
 <div class="codepen-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="zEPPro" data-default-tab="html,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="Topic-05: Tables, Pt. 1" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="JjXzypy" data-default-tab="html,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Tables - Borders" class="codepen"></p>
 </div>
 
 
