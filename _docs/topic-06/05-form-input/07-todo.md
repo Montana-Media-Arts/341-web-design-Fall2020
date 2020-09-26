@@ -20,8 +20,7 @@ categories: uncategorized
             </div>
         </div>
     </div>
-    <div class="row text-center">
-  <div class="col-lg-4">
+    <div class="col-lg-4">
       <div class="bs-component">
         <div class="list-group">
             <div class="list-group-item" style="background-color: #F5F5F5">
