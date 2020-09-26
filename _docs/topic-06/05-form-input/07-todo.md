@@ -20,18 +20,19 @@ categories: uncategorized
             </div>
         </div>
     </div>
-    <div class="col-lg-4">
-        <div class="bs-component">
-          <div class="list-group">
+    <div class="row text-center">
+  <div class="col-lg-4">
+      <div class="bs-component">
+        <div class="list-group">
+            <div class="list-group-item" style="background-color: #F5F5F5">
               <a href="https://www.tutorialspoint.com/html/html_input_tag.htm" target="_blank" class="list-group-item">
-              <div class="list-group-item" style="background-color: #F5F5F5">
-               <i class="icon-hw fas fa-form" aria-hidden="true"></i>
+              <i class="icon-hw fas fa-form" aria-hidden="true"></i>
                 <h4 class="list-group-item-heading">More on HTML Input Tags</h4>
                 <hr>
-                <p class="list-group-item-text"><i class="fa fa-clock-o" aria-hidden="true"></i> 5 minute reading</p>
-              </a>
-              </div>
+                <p class="list-group-item-text" style="color: #777;"><i class="fa fa-clock-o" aria-hidden="true"></i> 5 minute reading</p>
+                </a>
             </div>
-        </div>
-    </div>
+          </div>
+      </div>
+  </div>
 </div>
