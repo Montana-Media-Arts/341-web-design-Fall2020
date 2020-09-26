@@ -26,7 +26,7 @@ categories: uncategorized
         <div class="bs-component">
           <div class="list-group">
               <a href="https://codepen.io/retrog4m3r/pen/PoNLaLN" target="_blank" class="list-group-item">
-                <i class="icon-hw fas fa-form" aria-hidden="true"></i>
+                <img src="../img/hw-icon-codepen.png" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
                   <h4 class="list-group-item-heading">Code-Play: "Using Text-Type Inputs"</h4>
                   <hr>
                   <p class="list-group-item-text"><i class="fa fa-clock-o" aria-hidden="true"></i> 5 minute activity</p>
@@ -35,5 +35,3 @@ categories: uncategorized
         </div>
     </div>
 </div>
-
-
