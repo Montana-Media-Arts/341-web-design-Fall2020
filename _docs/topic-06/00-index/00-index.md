@@ -9,7 +9,7 @@ tags:
 
 <div class="section-title">
   <img src="../img/assignment-06.svg" alt="" title="Assignment 6: Forms" />
-  <h2 style="text-align: center;">HTML Images, Tables, and Forms
+  <h2 style="text-align: center;">HTML Images, Tables, and Forms</h2>
 </div>
 
 
