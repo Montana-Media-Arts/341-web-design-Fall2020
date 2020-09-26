@@ -34,7 +34,7 @@ categories: uncategorized
   <div class="col-lg-4">
       <div class="bs-component">
         <div class="list-group">
-            <a href="https://codepen.io/Media-Ed-Online/pen/wrPqNe" target="_blank" class="list-group-item">
+            <a href="https://codepen.io/retrog4m3r/pen/wvGOXYz" target="_blank" class="list-group-item">
               <img src="../img/hw-icon-codepen.png" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
                 <h4 class="list-group-item-heading">Code-Play: "Styling Tables"</h4>
                 <hr>
