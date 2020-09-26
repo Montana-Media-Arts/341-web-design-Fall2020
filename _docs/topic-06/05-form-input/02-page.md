@@ -21,4 +21,4 @@ permalink: /topic-06/input-tag/
 
 The "input" element is an **empty element**. Therefore, the element only requires a single tag (`<input />`).
 
-As with forms, this element is reliant on attributes within the tag to allow it to be useful. Visit the next pages to learn these attributes.
+As with forms, this element is reliant on attributes within the tag to allow it to be useful.

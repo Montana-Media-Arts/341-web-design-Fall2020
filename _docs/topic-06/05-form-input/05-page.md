@@ -19,6 +19,6 @@ permalink: /topic-06/input-id/
 </div>
 
 
-As with many other elements in HTML, you should assign a unique element **id** that can be used by other languages to refer to the specific form.
+As with other HTML elements, assign a unique **id** so languages like JavaScript can refer to the element.
 
-This `id` attribute allows JavaScript to use data from a form element. (This is of course in addition to the use of the `id` attribute by the styling engine, discussed later in the course.)
+The `id` attribute allows JavaScript to access data from the element. (The `id` attribute is also used when applying styles to elements.  We will discuss this later in the course.)

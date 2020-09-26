@@ -8,9 +8,9 @@ permalink: /topic-06/html5-validation/
 
 It is possible to use HTML5 to inform users if they have entered information correctly. This is known as “**form validation**”.
 
-Traditionally, form validation occurred with JavaScript, but HTML5 has added this feature.
+Traditionally, form validation occurs with JavaScript, but HTML5 includes these features.
 
-Validation helps ensure the user enters information correctly and with the correct "types" of data. Validation before submitting a form to a server reduces server load and enables users to more quickly see if there are errors in their form.
+Validation helps ensure the user enters information correctly and with the correct "types" of data. Validation before submitting a form helps reduce resource usage on a server and enables users to more quickly see if there are errors in their form.
 
 An example of form validation is the `required` attribute. Try pressing the 'Submit' button before entering any text:
 
@@ -20,4 +20,4 @@ An example of form validation is the `required` attribute. Try pressing the 'Sub
 </div>
 
 
-<span class="label label-info">NOTE:</span> This is not yet supported on all browsers (i.e. Safari), so it may be necessary to also include other types of form validation (Such as with JavaScript).
+<span class="label label-info">NOTE:</span> This type of validation may not be supported on all browsers (i.e. Safari), so it may be necessary to include other types of form validation (for example - JavaScript).

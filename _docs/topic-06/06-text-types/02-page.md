@@ -12,6 +12,7 @@ This following code demonstrates how to create an input element of `type="text"`
 <div class="code-heading">
   <span class="html">HTML</span>
 </div>
+
 ```html
 <p>
   Net ID:
@@ -45,4 +46,4 @@ This following code demonstrates how to create an input element of `type="text"`
 </div>
 
 
-<span class="label label-info">NOTE:</span> Technically, you can omit the "type" from the input element if you want a text box. But good style dictates that you should be explicit in your code so as to prevent errors. So don't.
+<span class="label label-info">NOTE:</span> Technically, you can omit the "type" from the input element if you want a text box. However, best practices suggest that one is explicit in their code to prevent errors.

@@ -19,4 +19,4 @@ permalink: /topic-06/form-id-class/
 </div>
 
 
-As with many other elements in HTML, you should assign a unique element **id** and **class** that can be used by other languages to refer to the specific form.
+As with many other elements in HTML, you should assign a unique element **id** and **class** the form element.

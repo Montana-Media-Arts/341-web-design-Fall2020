@@ -20,8 +20,10 @@ permalink: /topic-06/img-size/
 
 
 
-Another set of attributes you should add every time is `width=""` & `height=""`. The values passed to these attributes are a string with an integer, representing the **width and height** that the image is to be displayed at.
+Another set of attributes you should add every time is `width=""` & `height=""`. The values passed to these attributes are numbers, representing the **width and height** that the image is to be displayed at.
 
-In most situations, _the width and height of the image file should be the same width and height that you enter as attributes_ and want used in your web page. In the case that these differ, these attributes will scale the image file to the specified size passed to the attributes.
+In most situations, _the width and height of the image file should be the same width and height that you enter as attributes_ and want used in your web page. In the case that these differ, these attributes will scale the image file to the specified size passed to the attributes. 
 
 Another reason for including these attributes is that the web browser uses these to reserve the correct amount of space for the image on the page when rendering, even in the case where the page is rendered before the image file is delivered to the browser. This means that the page will not have to ‘re-render’ to accommodate an image that loads after the rest of the page.
+
+**Note:** If you change the height and width of an image to a smaller size than the original, the browser still has to load the entire images before it renders.  If you want a smaller image, resize the image in an editor and then display the resized image in your browser.

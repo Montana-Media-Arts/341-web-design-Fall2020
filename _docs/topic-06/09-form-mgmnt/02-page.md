@@ -7,7 +7,7 @@ permalink: /topic-06/form-labels-ids/
 
 <div class="divider-heading"></div>
 
-Each form control should have its own **label element**. _This makes the form accessible to vision impaired users._
+Each form control should have its own **label element**. _This makes the form accessible to visually impaired users._
 
 As a rule of thumb, labels should be placed 'above or to the left' of the input area for text, select boxes, and file uploads (this is the same idea presented earlier with `<p>...</p>`).
 

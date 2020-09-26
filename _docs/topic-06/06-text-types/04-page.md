@@ -6,12 +6,13 @@ permalink: /topic-06/text-textarea/
 
 <div class="divider-heading"></div>
 
-The `textarea` input type can be used to create an input field element where users can enter longer responses.
+The `textarea` input type is used to create an input field element where users can enter longer responses.
 
 
 <div class="code-heading">
   <span class="html">HTML</span>
 </div>
+
 ```html
 <p>
   Comments or Concerns:
@@ -53,4 +54,4 @@ The `textarea` input type can be used to create an input field element where use
 </div>
 
 
-<span class="label label-info">NOTE:</span> This field uses an opening and closing tag pair. Any text between these tags will initially inhabit the box.
+<span class="label label-info">NOTE:</span> This field uses an opening and closing tag pair. Any text between these tags pre-populate the textarea.

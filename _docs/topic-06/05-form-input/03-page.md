@@ -19,4 +19,4 @@ permalink: /topic-06/input-type/
 </div>
 
 
-By itself, the input element will not do anything. The input element requires the `type=""` to define the **type** of data it will collect, as well as how it will be displayed.
+By itself, the input element does nothing. The input element requires the `type=""` to define the **type** of data it will collect, as well as how it will be displayed.

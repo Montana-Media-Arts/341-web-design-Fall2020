@@ -6,14 +6,15 @@ permalink: /topic-06/text-placeholder/
 
 <div class="divider-heading"></div>
 
-The `placeholder` attribute can be used to place grey text in a text field. This text will disappear when the user focuses the element by clicking in it.
+The `placeholder` attribute places grey text in a text field. This text disappears when the user focuses on the element when clicking in it.
 
-This text can be used to offer hints about the _type of text that is expected_ or to _encourage the user to type in the field_.
+This text offer hints about the _type of text that is expected_ or to _encourage the user to type in the field_.
 
 
 <div class="code-heading">
   <span class="html">HTML</span>
 </div>
+
 ```html
 <p>
   Net ID:
@@ -55,4 +56,4 @@ This text can be used to offer hints about the _type of text that is expected_ o
 </div>
 
 
-<span class="label label-info">NOTE:</span> Notice how the text box has grey text (should work in most browsers), and that when you click in there or begin typing it goes away.
+<span class="label label-info">NOTE:</span>Try clicking in the textbox with the grey text. This should work in most browsers. When you click in there or begin typing, the grey text disappears.

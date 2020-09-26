@@ -21,4 +21,4 @@ permalink: /topic-06/input-name/
 
 Each form control requires a `name=""` attribute. This information is sent as part of a "name:value" pair to the server.
 
-For example, an input element with the **name** attribute set to "username" (i.e. `name="username"`) might collect the data "Justine", which would then be sent to the server as `username:Justine`.
+For example, an input element with the **name** attribute set to "username" (i.e. `name="username"`) might collect the data "Mary", which would then be sent to the server as `username:Mary`.

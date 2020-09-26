@@ -6,7 +6,7 @@ permalink: /topic-06/text-cols-rows/
 
 <div class="divider-heading"></div>
 
-You can specify the number of `cols` and `rows` through the appropriate attributes. This changes the size of the displayed element, as well as how text will look when typed.
+In a textarea, one can specify the number of columns and rows, but using the following attributes `cols` and `rows`. These attributes change the size of the displayed element, as well as how text looks when typed.
 
 - `cols` is the width of the textarea in character widths (i.e. this is the number of characters that will fit from left to right).
 - `rows` is the number of visible lines.
@@ -15,6 +15,7 @@ You can specify the number of `cols` and `rows` through the appropriate attribut
 <div class="code-heading">
   <span class="html">HTML</span>
 </div>
+
 ```html
 <p>
   Comments or Concerns:
@@ -56,4 +57,4 @@ You can specify the number of `cols` and `rows` through the appropriate attribut
 </div>
 
 
-<span class="label label-info">NOTE:</span> Typically, and as is the case with many size parameters that you can set in HTML, you should override these parameters with CSS.
+<span class="label label-info">NOTE:</span> These attributes can also be overridden in CSS.

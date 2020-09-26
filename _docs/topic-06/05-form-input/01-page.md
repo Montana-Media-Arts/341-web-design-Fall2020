@@ -6,4 +6,4 @@ permalink: /topic-06/input-about/
 
 <div class="divider-heading"></div>
 
-The **input element** is used to collect data from users. This is an element that you will likely use often as a web developer. The data collected by this element can be sent as part of a bunch of data in a form element to a server. This element can also be accessed through client-side JavaScript, allowing developers to create ways of getting data they can process on the client-computer.
+The **input element** is used to collect data from users. This is an element that you use often as a web developer. Data collected by this element is sent the server as a collection in the form element. This element can also be accessed through client-side JavaScript, which is performed on the user's computer which helps with performance.

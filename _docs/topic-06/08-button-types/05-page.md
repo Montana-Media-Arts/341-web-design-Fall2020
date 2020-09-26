@@ -8,7 +8,7 @@ permalink: /topic-06/button-element/
 
 The **button element** (`<button>...</button>`) was introduced to allow users more control over how their buttons appear.
 
-This element also allows other elements to appear inside the button (between the tags). This means you can combine text and images between the button tags.
+This element allows other elements to appear inside the button (between the tags), which means one can combine text and images between the button tags.
 
 
 <div class="codepen-embed">

@@ -12,7 +12,7 @@ _Remember?_ [Last topic](../../topic-04/head-style), we looked at adding _style_
 
 We can reference the individual elements of the table as a group for easier styling. We do this by separating the elements by commas in the same line of code. Everything in this string will be affected by the styling described between `{}`.
 
-<span class="label label-info">NOTE:</span> Ideally, this is something you'll do in a stylesheet when we get to CSS.
+<span class="label label-info">NOTE:</span> This is something you'll do in much greater detail in a stylesheet when we get to CSS.
 
 
 <div class="code-heading">

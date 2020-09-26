@@ -24,4 +24,4 @@ Proper style and accessibility standards dictate that you should always include 
 Therefore it is critical that you provide a detailed description, especially in the case where the image is necessary to understand the content of the page.
 
 - Poor: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`alt="Me getting help."`
-- Better: &nbsp;`alt="Justine receiving help from an instructor while at a computer."`
+- Better: &nbsp;`alt="Mary receiving help from an instructor while at a computer."`

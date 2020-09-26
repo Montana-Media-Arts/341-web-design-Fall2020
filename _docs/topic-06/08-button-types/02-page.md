@@ -12,7 +12,7 @@ The **file upload element** (`type="file"`), is used to allow a user to;
 2. Select a file
 3. Upload it to the URL specified in the "`action=""`" attribute.
 
-Most of the visual appearance for this type of box, as well as the subsequent 'file browser' will be dictated by the users browser & OS
+Most of the visual appearance for this type of box, as well as the subsequent 'file browser' will be dictated by the user's browser & OS
 
 
 <div class="codepen-embed">
@@ -20,4 +20,4 @@ Most of the visual appearance for this type of box, as well as the subsequent 'f
 </div>
 
 
-<span class="label label-info">NOTE:</span> With this element, due to the nature of the data, you need to set the "method" attribute to "post" (`method="post"`).
+<span class="label label-info">NOTE:</span> When using this element, because of the data type, one needs to set the "method" attribute to "post" (`method="post"`).

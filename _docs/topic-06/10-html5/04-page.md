@@ -8,7 +8,7 @@ permalink: /topic-06/html5-email/
 
 HTML5 also now includes an e-mail input type.
 
-Try the e-mail example in Firefox, Chrome, or Opera. It will not accept your entry without it being a valid e-mail.
+Try the email example in Firefox, Chrome, or Opera. It will not accept your entry without it being a valid email.
 
 
 <div class="codepen-embed">

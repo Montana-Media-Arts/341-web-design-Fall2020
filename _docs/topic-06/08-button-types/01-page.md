@@ -6,7 +6,7 @@ permalink: /topic-06/button-intro/
 
 <div class="divider-heading"></div>
 
-**Buttons** are common interactive features in web design, and can provide graphic interest as well as functionality to your links and fields.
+**Buttons** are common interactive elements in web design, and provide graphic interest as well as functionality to your links and fields.
 
 <div class="row">
   <div class="col-lg-12">

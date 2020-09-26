@@ -16,4 +16,4 @@ In browsers that do not support this type, a simple text box will be used. In th
 </div>
 
 
-<span class="label label-info">NOTE:</span> Again, this element does not have full browser support. Try this in Chrome and Opera (not Firefox or Safari).
+<span class="label label-info">NOTE:</span> Again, the validation element may not work in all browsers. Try this example in Chrome and Opera (not Firefox or Safari).

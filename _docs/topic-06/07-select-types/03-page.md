@@ -11,7 +11,7 @@ permalink: /topic-06/select-checkbox/
 
 ### name (Required)
 
-When grouping checkboxes, as with radio buttons, the `name=""` should be the same for each element option.
+When grouping checkboxes, as with radio buttons, the `name=""` attribute should be the same for each element option.
 
 
 ### value (Required)
@@ -23,10 +23,10 @@ Likewise, the `value=""` should be unique to each element.
 
 As with radio buttons, you can use the `checked` attrubite to pre-select checkboxes.
 
-
 <div class="code-heading">
   <span class="html">HTML</span>
 </div>
+
 ```html
 <p>Services Utilized:</p>
   <input type="checkbox" name="service" value="lab" /> Computer Lab

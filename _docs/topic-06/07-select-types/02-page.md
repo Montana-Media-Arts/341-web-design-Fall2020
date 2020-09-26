@@ -13,8 +13,9 @@ Notice in the code example below, that this element, like the text box, will lik
 
 ### name (Required)
 
-Radio buttons need to be grouped together. This tells the browser that only "one of the choices" of this group can be selected. To group radio button elements together the developer provides the same `name=""` attribute value for each possible choice. As with all elements, this name attribute will be sent along with the returned data.
+Radio buttons must be grouped together. This tells the browser that only "one of the choices" of this group can be selected.  This is a user interface standard to which we should adhere. 
 
+To group radio button elements together the developer provides the same `name=""` attribute value for each possible choice. As with all elements, this name attribute is sent along with the rest of the form data.
 
 ### value (Required)
 
@@ -71,4 +72,4 @@ The `checked="checked"` attribute can be used with one of the radio button eleme
 </div>
 
 
-<span class="label label-info">NOTE:</span> A radio button set cannot be “deselected.”
+<span class="label label-info">NOTE:</span> Once a radio button is selected, it cannot be “deselected.”

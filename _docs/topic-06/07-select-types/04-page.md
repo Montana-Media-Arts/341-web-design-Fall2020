@@ -6,9 +6,9 @@ permalink: /topic-06/select-dropdown/
 
 <div class="divider-heading"></div>
 
-A **select box** allows a user to select one option from a dropdown list.
+The **select** element allows a user to select one option from a dropdown list.
 
-Unlike the other form elements we have been looking at, this element has its own name and uses opening and closing tags: `<select>...</select>`.
+Unlike the other form elements, the `select` element has its own name and uses opening and closing tags: `<select>...</select>`.
 
 Dropdown lists are very similar to radio buttons, however these are more appropriate when a large amount of selections is possible (i.e. "select a state").
 
@@ -16,7 +16,7 @@ Dropdown lists are very similar to radio buttons, however these are more appropr
 
 ### option (Required)
 
-The **option element** (`<option>...</option>`) is used within select elements to indicate each possible option. Any text between the option tags will be displayed in the dropdown box.
+The **option** element (`<option>...</option>`) is used within select elements to indicate each possible option. Any text between the option tags will be displayed in the dropdown box.
 
 
 ### value (Required)
@@ -32,6 +32,7 @@ The `selected` attribute can be used to pre-select an option. If this attribute 
 <div class="code-heading">
   <span class="html">HTML</span>
 </div>
+
 ```html
 <p>Home State (US Residents):</p>
   <select name="home_state">
@@ -139,6 +140,3 @@ The `selected` attribute can be used to pre-select an option. If this attribute 
     </div>
   </div>
 </div>
-
-
-<span class="label label-info">NOTE:</span> Displayed text should appear AFTER each checkbox element.

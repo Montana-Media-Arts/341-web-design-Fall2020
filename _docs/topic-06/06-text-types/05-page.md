@@ -6,12 +6,13 @@ permalink: /topic-06/text-maxlength/
 
 <div class="divider-heading"></div>
 
-The 'maxlength' attribute is used to limit the number of characters a user may enter into a text field. As an example, a text field that expects a year, may be limited to `maxlength="4"` characters.
+The 'maxlength' attribute is used to limit the number of characters a user may enter into a text field. For example, a text field that expects a year, may be limited to `maxlength="4"` characters.
 
 
 <div class="code-heading">
   <span class="html">HTML</span>
 </div>
+
 ```html
 <p>
   Birth Year:

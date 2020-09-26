@@ -6,12 +6,13 @@ permalink: /topic-06/text-value/
 
 <div class="divider-heading"></div>
 
-The `value` attribute can be used to "pre-fill" a text box. Unlike `placeholder`, when you click in the text box, the "pre-filled" text is not replaced. Instead, the user can edit it freely, remove it, or keep it.
+The `value` attribute "pre-fill's" a text box. Unlike `placeholder`, when the user clicks in the text box, the "pre-filled" text is not replaced. Instead, the user can freely edit, remove, or keep it.
 
 
 <div class="code-heading">
   <span class="html">HTML</span>
 </div>
+
 ```html
 <p>
   Birth Year:
@@ -53,4 +54,4 @@ The `value` attribute can be used to "pre-fill" a text box. Unlike `placeholder`
 </div>
 
 
-<span class="label label-info">NOTE:</span> This can be used to fill in "input" elements with data that would be used "most of the time".
+<span class="label label-info">NOTE:</span> This attribute can be used to fill "input" elements with data used "most of the time".

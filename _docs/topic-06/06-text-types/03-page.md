@@ -6,7 +6,7 @@ permalink: /topic-06/text-password/
 
 <div class="divider-heading"></div>
 
-The `type="password"` for input elements creates a "password input box".
+The `type="password"` input type creates a "password input box".
 
 This attribute creates a single line text entry field where the characters are hidden with `*`s.
 
@@ -14,6 +14,7 @@ This attribute creates a single line text entry field where the characters are h
 <div class="code-heading">
   <span class="html">HTML</span>
 </div>
+
 ```html
 <p>
   Password:

@@ -6,7 +6,7 @@ permalink: /topic-06/select-intro/
 
 <div class="divider-heading"></div>
 
-Text can get messy. There are many ways to ask questions that allow users to **select** one or more of a handful of predetermined choices.
+Asking for text from end-users can be unpredictable. There are certains controls that restrict the end-user's choices.  Radio buttons helps the end-user know what is expected. 
 
 <div class="row">
   <div class="col-lg-12">

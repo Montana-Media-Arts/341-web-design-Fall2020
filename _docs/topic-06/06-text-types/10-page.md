@@ -8,12 +8,13 @@ permalink: /topic-06/text-autofocus/
 
 The `autofocus` attribute is used to set the "focus" of a browser to the specified form element after the page loads.
 
-Refresh the page. See how the cursor is blinking inside the first example input box? This means it is "focused," and can take input right away.
+Refresh the page. See how the cursor is blinking inside the password input box? This means it is "focused," and can take input right away.
 
 
 <div class="code-heading">
   <span class="html">HTML</span>
 </div>
+
 ```html
 <p>
   Password:

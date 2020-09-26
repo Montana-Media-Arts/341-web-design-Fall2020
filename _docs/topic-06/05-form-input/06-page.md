@@ -21,4 +21,4 @@ An input element is a combination of type, name, and identification. The followi
 ```
 
 
-The `<form>` is improving with the addition of `<input>` elements. Specifing **input types** is where the real magic happens.
+Adding the `<input>` elements makes the `<form>` element more useful. Specifying **input types** is how we ensure that the correct data is entered.
