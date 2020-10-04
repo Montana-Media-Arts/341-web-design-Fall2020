@@ -24,11 +24,11 @@ categories: uncategorized
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="https://www.youtube.com/watch?v=RBTBEfd7z_Y" target="_blank" class="list-group-item">
+        <a href="https://www.youtube.com/watch?v=SEQBi9LtZjQ" target="_blank" class="list-group-item">
           <i class="icon-hw fas fa-code" aria-hidden="true"></i>
-          <h4 class="list-group-item-heading">How Much Time to Spend on Meta Tags?</h4>
+          <h4 class="list-group-item-heading">SEO (Search Optimization Checklist)</h4>
           <div class="divider-hw"></div>
-          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 2 minute activity</p>
+          <p class="list-group-item-text"><i class="far fa-clock" aria-hidden="true"></i> 20 minute video</p>
         </a>
       </div>
     </div>
