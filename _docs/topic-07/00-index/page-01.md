@@ -20,7 +20,7 @@ This week we will be wrapping up our unit on HTML by looking at three groups: ad
 
 By the end of this Topic, we hope you:
 <ul class="pros-and-cons">
-  <li class="icon-pro">Have experimented with using `<div>`s to structure the contents of your pages.</li>
+  <li class="icon-pro">Have experimented with using `&lt;div&gt;`s to structure the contents of your pages.</li>
   <li class="icon-pro">Understand how media is placed and accessed on the internet (hosted vs. streaming).</li>
   <li class="icon-pro">Source and reference outside materials directly within your site pages.</li>
 </ul>
