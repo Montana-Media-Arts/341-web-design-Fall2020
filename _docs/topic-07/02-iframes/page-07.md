@@ -6,19 +6,19 @@ permalink: /topic-07/iframe-element-maps/
 
 <div class="divider-heading"></div>
 
-In addition to displaying other webpages in the main webpage, the iframe element is often used to display specific types of instances, like including a [Google Map](https://www.google.com/maps).
+In addition to displaying other webpages in the main webpage, the iframe element is often used to display specific types of instances, like including a [Google Map](https://www.google.com/maps) of the University of Montana.
 
 
 <div class="code-heading">
   <span class="html">HTML</span>
 </div>
 ```html
-<iframe src="https://www.google.com/maps/place/Missoula,+MT/@46.8763001,-114.0882069,12z/data=!3m1!4b1!4m5!3m4!1s0x535dcc2a50f367cb:0xe9e31277ca94802e!8m2!3d46.8721284!4d-113.9940314" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/place/University+of+Montana/@46.8600672,-113.9873968,17z/data=!3m1!4b1!4m5!3m4!1s0x535dcc33f19815cb:0x9c296b8546ca9abf!8m2!3d46.8600672!4d-113.9852081" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 ```
 
 
 <div class="external-embed" style="width: 600px; margin: auto;">
-  <iframe src="https://www.google.com/maps/place/Missoula,+MT/@46.8763001,-114.0882069,12z/data=!3m1!4b1!4m5!3m4!1s0x535dcc2a50f367cb:0xe9e31277ca94802e!8m2!3d46.8721284!4d-113.9940314" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+  <iframe src="https://www.google.com/maps/place/University+of+Montana/@46.8600672,-113.9873968,17z/data=!3m1!4b1!4m5!3m4!1s0x535dcc33f19815cb:0x9c296b8546ca9abf!8m2!3d46.8600672!4d-113.9852081" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 
