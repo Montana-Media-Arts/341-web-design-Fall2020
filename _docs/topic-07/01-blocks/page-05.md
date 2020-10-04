@@ -46,3 +46,20 @@ The **span element** is the inline equivalent of the `<div>` element.
   </p>
 </div>
 ```
+
+The result:
+
+<div id="long-blue" class="long-block">
+  <p>
+    A block with a <span class="white-square">white square</span>,
+    <span class="gray-square">gray square</span>,
+    another <span class="white-square">white square</span>,
+    and <span class="circle">circle</span> on it.
+  </p>
+</div>
+
+<div id="short-red" class="long-block">
+  <p>
+    A block with a <span class="black-circle">black circle</span> and <span class="rectangle">rectangle</span> on it.
+  </p>
+</div>

@@ -30,12 +30,7 @@ There are a number of attributes that are valid for every element. The first tha
 ```
 
 
-You should get in the habit of adding id attributes to any important HTML elements or elements that you may want to style independently. The id attribute is one of the ways that we will select elements via CSS to dictate the style and look of our webpages.
-
-<p><span class="remember-text">Remember?</span><br/>
-Using ids is needed when you want to create a link that “jumps” to a <a href="../../topic-04/same-page" target="_blank">specific area of a page</a>.</p>
-
-
+You should get in the habit of adding id attributes to any important HTML elements or elements that you may want to style independently. The id attribute is one of the ways that we will select elements via CSS (and eventually JavaScript in MART 441) to dictate the style and look of our webpages.
 
 <div class="divider-pg"></div>
 
