@@ -14,7 +14,7 @@ When thinking about page structure and layout, a good plan is to start with **di
 4. Add `class=""` attributes to divs that need styling.
 5. Use the `<span></span>` element around structural elements that need inline styling, like specific words of a paragraph.
 6. Within the divs, add illustrative elements like [images](../img-element-review), [audio](../audio-element-review), or [video](../video-element-review).
-7. Rinse and repeat.
+7. Repeat.
 
 
 <div class="divider-pg"></div>
@@ -27,7 +27,7 @@ Below is a page with two descriptions of popular sports. Here are the steps take
 2. Added **ids** to those divs, to make them unique:
   - `id="header"`
   - `id="football-block"`
-  - `id="racing-block"`
+  - `id="esports-block"`
 3. Added structural **content** to both divs, including headings and paragraphs.
 4. Applied the **classes** listed in the `<head>`:
   - `class="page-block"` to _all_ the divs, as they should visually appear the same (color, font-size, etc).
@@ -39,5 +39,5 @@ Below is a page with two descriptions of popular sports. Here are the steps take
 
 
 <div class="external-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="MPqywp" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="HTML Block-Level and Inline Elements" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="BaKXvqd" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="HTML Block-Level and Inline Elements" class="codepen"></p>
 </div>
