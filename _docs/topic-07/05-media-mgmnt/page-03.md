@@ -6,7 +6,7 @@ permalink: /topic-07/media-src-video/
 
 <div class="divider-heading"></div>
 
-<span class="label label-danger">Important</span> All media you use on your sites should be your own or in "fair public use," usually under [Creative Commons](https://creativecommons.org/) (CC) public licence. **You should always credit the author when asked to do so.**
+<span class="label label-danger">Important</span> All media you use on your sites should be your own or in "fair public use," usually under <a href="https://creativecommons.org/" target="_new">Creative Commons</a> (CC) public licence. **You should always credit the author when asked to do so.**
 
 <span class="label label-danger">Important</span> Test your pages on multiple computers and browsers to make sure the embedded media works.
 
@@ -16,7 +16,7 @@ permalink: /topic-07/media-src-video/
 - <a href="https://archive.org/details/movies" target="_new">The Moving Image Archive</a>
 - <a href="https://www.videezy.com/" target="_new">Videezy</a>
 - <a href="https://videos.pexels.com/" target="_new">Pixabay</a>
-- <a href="https://www.video.pexels.com/" target="_new">Pexels</a>
+- <a href="https://www.pexels.com/videos/" target="_new">Pexels</a>
 
 
 ## How-To:

@@ -482,15 +482,15 @@ topic-07:
   - title: Images
     docs:
     - img-about
-    - img-element-intro
-    - img-tag
-    - img-src
-    - img-alt
-    - img-title
-    - img-size
-    - img-element-review
-    - img-support
-    - todo-img
+    #- img-element-intro
+    #- img-tag
+    #- img-src
+    #- img-alt
+    #- img-title
+    #- img-size
+    #- img-element-review
+    #- img-support
+    #- todo-img
 
   - title: Video
     docs:
