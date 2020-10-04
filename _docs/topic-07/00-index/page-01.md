@@ -14,13 +14,13 @@ tags:
 
 This topic, you'll begin exploring the basic building blocks of page design, and be continue with multi-part elements, including images, audio/video, and iframes.
 
-When thinking about the sites you often visit, images are probably the first memorable element that comes to mind, but there are also other media types used in web development. As designers, we need to consider how and when to add media, what filetypes to use, their file sizes, and what code element works best for each specific situation.
+Recall from last week, we talked quite a bit about images and their attributes.  However, as designers, we need to consider how and when to add media, what filetypes to use, their file sizes, and what code element works best for each specific situation.
 
 This week we will be wrapping up our unit on HTML by looking at three groups: additional structural elements, metadata, and media.
 
 By the end of this Topic, we hope you:
 <ul class="pros-and-cons">
-  <li class="icon-pro">Have experimented with using `&gt;div&lt;`s to structure the contents of your pages.</li>
+  <li class="icon-pro">Have experimented with using `<div>`s to structure the contents of your pages.</li>
   <li class="icon-pro">Understand how media is placed and accessed on the internet (hosted vs. streaming).</li>
   <li class="icon-pro">Source and reference outside materials directly within your site pages.</li>
 </ul>
