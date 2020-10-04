@@ -11,7 +11,7 @@ categories: uncategorized
         <div class="bs-component">
           <div class="list-group">
               <div class="list-group-item" style="background-color: #F5F5F5">
-               <a href="  https://www.w3schools.com/tags/tag_meta.asp" target="_blank" class="list-group-item">
+               <a href="https://www.w3schools.com/tags/tag_meta.asp" target="_blank" class="list-group-item">
                 <img src="../img/hw-icon-w3schools.png" style="max-height: 100px; margin: auto; margin-bottom: 10px;" />
                   <h4 class="list-group-item-heading">W3Schools Meta Tag</h4>
                   <hr>

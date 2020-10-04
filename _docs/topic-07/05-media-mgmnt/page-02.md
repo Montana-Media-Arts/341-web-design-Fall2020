@@ -13,10 +13,10 @@ permalink: /topic-07/media-src-img/
 
 ## Common Downloadable Image Sources
 
-- [Google Images](https://images.google.com/)
-- [Flickr](https://www.flickr.com/)
-- [Unsplash](https://unsplash.com/)
-- [Pexels](https://www.pexels.com/)
+- <a href="https://images.google.com/" target="_new">Google Images</a>
+- <a href="https://www.flickr.com/" target="_new">Flickr</a>
+- <a href="https://unsplash.com/" target="_new">Unsplash</a>
+- <a href="https://www.pexels.com/" target="_new">Pexels</a>
 
 
 ## How-To:

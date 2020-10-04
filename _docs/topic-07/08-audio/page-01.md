@@ -6,7 +6,7 @@ permalink: /topic-07/audio-hosting/
 
 <div class="divider-heading"></div>
 
-Like with video, there are two ways to approach adding audio to your site: self-hosted (within your own directory and repository), or via an audio-sharing service, like [SoundCloud](https://soundcloud.com/) or [BandCamp](https://bandcamp.com/).
+Like with video, there are two ways to approach adding audio to your site: self-hosted (within your own directory and repository), or via an audio-sharing service, like <a href="https://soundcloud.com/" target="_new">SoundCloud</a> or <a href="https://bandcamp.com/" target="_new">BandCamp</a>.
 
 
 ## Self-Hosted Audio
@@ -20,7 +20,7 @@ The **audio element** can be used to add a self-hosted audio file to your site, 
 
 To embed an audio sample from an audio-sharing service, use their provided embed code, which often utilizes the `<iframe>` element.
 
-The following is an example for [SoundCloud](https://soundcloud.com):
+The following is an example for <a href="https://soundcloud.com" target="_new">SoundCloud</a>:
 
 <img src="../img/embed-soundcloud.gif" alt="animation of finding the embed code of a SoundCloud song" title="How to get SoundCloud audio embed codes" width="500" />
 

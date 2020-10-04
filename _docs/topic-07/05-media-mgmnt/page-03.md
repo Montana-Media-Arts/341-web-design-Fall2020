@@ -13,15 +13,15 @@ permalink: /topic-07/media-src-video/
 
 ## Common Downloadable Video Sources
 
-- [The Moving Image Archive](https://archive.org/details/movies)
-- [Videezy](https://www.videezy.com/)
-- [Pixabay](https://videos.pexels.com/)
-- [Pexels](https://www.video.pexels.com/)
+- <a href="https://archive.org/details/movies" target="_new">The Moving Image Archive</a>
+- <a href="https://www.videezy.com/" target="_new">Videezy</a>
+- <a href="https://videos.pexels.com/" target="_new">Pixabay</a>
+- <a href="https://www.video.pexels.com/" target="_new">Pexels</a>
 
 
 ## How-To:
 
-A cellphone video is a good option, or the Moving Iamge Archive has Creative Commons video that you can download, which conveniently show metadata like size and filetype. Here's an example about [Pluto](https://archive.org/details/Pluto_Flyby) using Firefox:
+A cellphone video is a good option, or the Moving Iamge Archive has Creative Commons video that you can download, which conveniently show metadata like size and filetype. Here's an example about <a href="https://archive.org/details/Pluto_Flyby" target="_new">Pluto</a> using Firefox:
 
 
 <div style="width: 600px; margin: auto">
@@ -29,7 +29,7 @@ A cellphone video is a good option, or the Moving Iamge Archive has Creative Com
 </div>
 <br><br>
 
-<span class="label label-success">Neat-O</span> Hovering your cursor over the download link will show you the file's size. Most videos give you the two required options you need: H.264 (`.mp4`) and an open-source type (`.ogg`).
+Hovering your cursor over the download link will show you the file's size. Most videos give you the two required options you need: H.264 (`.mp4`) and an open-source type (`.ogg`).
 
 
 <img src="../img/download-video-archive.png" alt="Hovering mouse over download icons" title="Downloading with Archive.org" width="400" />

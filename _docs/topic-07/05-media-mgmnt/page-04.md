@@ -6,23 +6,23 @@ permalink: /topic-07/media-src-audio/
 
 <div class="divider-heading"></div>
 
-<span class="label label-danger">Important</span> All media you use on your sites should be your own or in "fair public use," usually under [Creative Commons](https://creativecommons.org/) (CC) public licence. **You should always credit the author when asked to do so.**
+<span class="label label-danger">Important</span> All media you use on your sites should be your own or in "fair public use," usually under <a href="https://creativecommons.org/" target="_new">Creative Commons</a> (CC) public licence. **You should always credit the author when asked to do so.**
 
 <span class="label label-danger">Important</span> Test your pages on multiple computers and browsers to make sure the embedded media works.
 
 
 ## Common Downloadable Audio Sources
 
-- [The Audio Archive](https://archive.org/details/audio)
-- [YouTube Audio Library](https://www.youtube.com/audiolibrary/music)
-- [Freesound](https://freesound.org/)
-- [Incompetech.com](https://incompetech.com/music/royalty-free/collections.php)
+- <a href="https://archive.org/details/audio" target="_new">The Audio Archive</a>
+- <a href="https://www.youtube.com/audiolibrary/music" target="_new">YouTube Audio Library</a>
+- <a href="https://freesound.org/" target="_new">Freesound</a>
+- <a href="https://incompetech.com/music/royalty-free/collections.php" target="_new">Incompetech.com</a>
 
 
 ## How-To:
 
 The Audio Archive, for example, is a great source of royalty-free and creative commons audio works, usually offered in MP3 format.
-Here's an example from the [Apollo 11 landing](https://archive.org/details/SVS-3044) using Chrome:
+Here's an example from the <a href="https://archive.org/details/SVS-3044" target="_new">Apollo 11 landing</a> using Chrome:
 
 
 <div style="width: 600px; margin:auto">

@@ -8,11 +8,11 @@ permalink: /topic-07/extra-markup/
 
 Up to this point, we've added HTML elements to pages singularly, in that they really had no defined groupings. But most pages are built on “blocks” of content placed in relation to each other.
 
-Consider the file “**gallery.html**,” found on your website:
+Consider an HTML file "**gallery.html**," that might be on your website:
 
 <img src="../img/gallery-page.png" alt="simple gallery page" style="width: 200px;" />
 
-This page has 4 defined areas that display different content based on their type:
+The gallery page has 4 defined areas that display different content based on their type:
 1. image
 2. video
 3. audio

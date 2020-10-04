@@ -25,7 +25,7 @@ A major con, however, is that web hosting companies often charge extra if you us
 
 
 ## Third-Party Hosting or Service
-**Third-party options and services** provide you affordable solutions to the potential problem of exhausted bandwidth. It is often preferable and encouraged for you to host your media - particularly audio and video - on sites such as [YouTube](https://youtube.com), [Vimeo](https://vimeo.com),  [SoundCloud](https://soundcloud.com/), or [Bandcamp](https://bandcamp.com/).
+**Third-party options and services** provide you affordable solutions to the potential problem of exhausted bandwidth. It is often preferable and encouraged for you to host your media - particularly audio and video - on sites such as ,<a href="https://youtube.com" target="_new">YouTube</a>, <a href="https://vimeo.com" target="_new">Vimeo</a>,  <a href="https://soundcloud.com/" target="_new">SoundCloud</a>, or <a href="https://bandcamp.com/" target="_new">Bandcamp</a>.
 
 <ul style="list-style-type: none">
   <li class="icon-pro">Ideal for <b>video</b> and <b>audio</b> files.</li>
@@ -52,7 +52,7 @@ As discussed on the previous pages, hosting your own media can take up bandwidth
 ### Converting Files
 Third-party hosting converts files for you, and increases the compatibility of the media across browsers. This is not to say that you can't provide your own alternative media and conversions, but it can take time. As stated, **always test your site across as many browsers and devices as possible to ensure the page is rendering as intended.**
 
-In terms of downloading files from other sources, you likely will not have access to the original file. For example, with audio, to export an .ogg file (whether it's a song you own or have recently sourced), you may need to use an online converter like [Convertio](https://convertio.co/mp3-ogg/) or [Zamzar](http://www.zamzar.com/convert/mp3-to-ogg/). Again, this is only a band-aide; ideally, you're providing your own created audio (music, recordings, sound effects, etc) which you can export as an .ogg legally.
+In terms of downloading files from other sources, you likely will not have access to the original file. For example, with audio, to export an .ogg file (whether it's a song you own or have recently sourced), you may need to use an online converter like <a href="https://convertio.co/mp3-ogg/" target="_new">Convertio</a> or <a href="http://www.zamzar.com/convert/mp3-to-ogg/" target="_new">Zamzar</a>. Again, this is only a band-aide; ideally, you're providing your own created audio (music, recordings, sound effects, etc) which you can export as an .ogg legally.
 
 A similar process is needed to create .webm video files. Certain plugins can be downloaded for video editors like Adobe Premiere so that you can export .webm files without a band-aide conversion.
 
@@ -60,7 +60,7 @@ A similar process is needed to create .webm video files. Certain plugins can be 
 ### Content Protection
 You saw how easy it is to download files from `<video>` and `<audio>` elements on the previous page.
 
-If content protection is important, you should use a third party service, such as [Bandcamp](https://bandcamp.com/). These services have a vested interest in protecting the content on their servers.
+If content protection is important, you should use a third party service, such as <a href="https://bandcamp.com/" target="_new">Bandcamp</a>. These services have a vested interest in protecting the content on their servers.
 
 The use of these services may also increase browser compatibility, as they want to ensure their content is available to everyone. This means you don't have to worry about browser compatibility issues as much!
 
