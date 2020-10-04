@@ -22,4 +22,4 @@ permalink: /topic-07/iframe-src/
 An iframe's **source attribute** specifies a URL of the external HTML to load. External sites are referenced with _absolute URLS._
 
 <p><span class="remember-text">Remember?</span><br/>
-When <a href="../../topic-04/links-to-others">linking to other sites</a>, URLs <b>must</b> include <code>http/https</code> as part of the address.</p>
+When <a href="../../topic-05/links-to-others">linking to other sites</a>, URLs <b>must</b> include <code>http/https</code> as part of the address.</p>
