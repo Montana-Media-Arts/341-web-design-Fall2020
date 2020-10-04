@@ -1,5 +1,5 @@
 ---
-title: Maps in the Iframe Element
+title: Maps in the iframe Element
 module: topic-07
 permalink: /topic-07/iframe-element-maps/
 ---

@@ -1,5 +1,5 @@
 ---
-title: The 3-Part Iframe Element
+title: The 3-Part iframe Element
 module: topic-07
 permalink: /topic-07/iframe-element-intro/
 ---
