@@ -13,12 +13,12 @@ In addition to displaying other webpages in the main webpage, the iframe element
   <span class="html">HTML</span>
 </div>
 ```html
-<iframe src="https://www.google.com/maps/place/University+of+Montana/@46.8600672,-113.9873968,17z/data=!3m1!4b1!4m5!3m4!1s0x535dcc33f19815cb:0x9c296b8546ca9abf!8m2!3d46.8600672!4d-113.9852081" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2728.1679496500064!2d-113.98739678456647!3d46.86006717914222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x535dcc33f19815cb%3A0x9c296b8546ca9abf!2sUniversity%20of%20Montana!5e0!3m2!1sen!2sus!4v1601845704518!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 ```
 
 
 <div class="external-embed" style="width: 600px; margin: auto;">
-  <iframe src="https://www.google.com/maps/place/University+of+Montana/@46.8600672,-113.9873968,17z/data=!3m1!4b1!4m5!3m4!1s0x535dcc33f19815cb:0x9c296b8546ca9abf!8m2!3d46.8600672!4d-113.9852081" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2728.1679496500064!2d-113.98739678456647!3d46.86006717914222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x535dcc33f19815cb%3A0x9c296b8546ca9abf!2sUniversity%20of%20Montana!5e0!3m2!1sen!2sus!4v1601845704518!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 </div>
 
 
