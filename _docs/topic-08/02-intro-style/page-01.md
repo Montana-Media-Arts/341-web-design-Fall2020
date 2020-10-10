@@ -13,16 +13,25 @@ All sites utilize styling, whether its provided by the browser, or created by th
 - Split window so page navigation is one-third (33%) of the width.
 - What color to make all of the text.
 
+Keep in mind that there are three ways to apply styles.
+
+1. **Inline styling** - apply a style directly to a element by adding the style attribute to that element.  This affects only that element.
+2. **Embedding styling** - apply a style in the `<style>` element in the head of the page.  This affects the entire page.
+3. **External stylesheet** - link to a page containing styles which can affect multiple pages as long as each page links to that the external style sheet.
+
+So far, embedded styles is the only technique we have used.  We will look at the others in greater detail as time goes on.
+
 <img src="../img/site-style-example.gif" alt="areas of the site highlighted by styling" title="Site Style" />
 
-For the most part, this is the same across all pages, but not always. I can control _page styling_ by selecting elements and applying styling properties (like color and placement) to them.
+For the most part, this is the same across all pages, but not always. We can control _page styling_ by selecting elements and applying styling properties (like color and placement) to them.
 
-By now, you are familiar with two ways to **select** an “item” to style:
+This week, we will focus on applying a style to all elements or to a specific eleement using the style attribute.
+
+For example:
+
 1. By the structural element itself:
     - `body {}` (“Do ___ to the entire body of the page.”)
     - `p {}` (“Do ___ to all paragraphs on the page.”)
-2. By creating classes:
-    - `.a-class {}` (“Do ___ to any element with `class="a-class"`.”)
-    - `.another-class {}` (“Do ___ to any element with `class="another-class"`.”)
-
-Let's explore this process by revisiting the **&lt;style&gt; element**, which allow you to add styling directly within the page you're working on.
+2. By using the style attribute:
+    - `<body style=''>` ("apply a style to just the body element")
+    

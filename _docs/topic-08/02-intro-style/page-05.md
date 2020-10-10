@@ -16,8 +16,9 @@ Backgrounds are not the only element that can hold a color value. Likewise, you 
   <span class="html">HTML</span>
 </div>
 ```html
-* {
-  color: ;
+  h1{
+    color: red;
+  } 
 }
 ```
 
@@ -29,8 +30,9 @@ Additionally, you can align text using **text-align property**. By default, brow
   <span class="html">HTML</span>
 </div>
 ```html
-* {
-  text-align: center;
+  h1{
+    text-align: center;
+    } 
 }
 ```
 
@@ -43,5 +45,5 @@ See how you can creatively style text using **color** and **text-align: center**
 
 
 <div class="external-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="PRzKed" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Basic HTML Text Styling" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="OJXVVrm" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="Basic HTML Text Styling" class="codepen"></p>
 </div>

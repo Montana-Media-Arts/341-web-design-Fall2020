@@ -27,7 +27,7 @@ img {
 ## Floating Images
 
 <p><span class="remember-text">Remember?</span><br/>
-That images are <a href="../../topic-05/extra-markup#inline" target="_blank">inline elements</a> that appear “within” or adjacent to neighboring elements.</p>
+That images are <a href="../../topic-07/extra-markup#inline" target="_blank">inline elements</a> that appear “within” or adjacent to neighboring elements.</p>
 
 
 To override where images appear, you can use the **float property** to effectively direct the flow of adjacent elements, either to the left or right.
@@ -52,5 +52,5 @@ See how you can manipulate an image's size and placement with **width** and **fl
 
 
 <div class="external-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="bveMWm" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="Basic HTML Image Styling" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="OJXVVdg" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="Basic HTML Image Styling" class="codepen"></p>
 </div>
