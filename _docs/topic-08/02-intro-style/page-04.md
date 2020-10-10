@@ -17,9 +17,9 @@ A color fill can be created using the **background-color property**. You can use
 <div class="code-heading">
   <span class="html">HTML</span>
 </div>
+
 ```html
 <div style="background-color: green;">
-}
 ```
 
 <div class="external-embed">
@@ -33,9 +33,9 @@ You can easily generate a pattern on your background by adding a small image (le
 <div class="code-heading">
   <span class="html">HTML</span>
 </div>
+
 ```html
   <body style="background-image: url("#");">
-}
 ```
 **Note** Keep in mind that the image can be something on your site or something external. Just a relative link if it's on your site use a absolute link if it's external (i.e. should start with http or https).
 

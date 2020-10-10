@@ -20,9 +20,9 @@ You can easily change the width of a div from 100% using the **width property**.
 <div class="code-heading">
   <span class="html">HTML</span>
 </div>
+
 ```html
   <div style="width: 50%;">
-}
 ```
 
 <div class="external-embed">
@@ -35,9 +35,9 @@ Have a div less than full-page and want it placed in the middle? Add the **margi
 <div class="code-heading">
   <span class="html">HTML</span>
 </div>
+
 ```html
 <div style="margin: auto;">
-}
 ```
 <div class="external-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="WNxvvxp" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="div margin auto" class="codepen"></p>
@@ -49,9 +49,9 @@ Text inside of a div will set along the edges. To override this and give the tex
 <div class="code-heading">
   <span class="html">HTML</span>
 </div>
+
 ```html
 <div style="padding: 10px;">
-}
 ```
 
 <div class="external-embed">

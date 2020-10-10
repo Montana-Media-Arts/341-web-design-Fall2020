@@ -203,7 +203,7 @@ categories: uncategorized
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="../../topic-07/img-element-review/" target="_blank" class="list-group-item">
+        <a href="../../topic-06/img-about/" target="_blank" class="list-group-item">
           <img class="icon-hw" src="../../topic-07/img/assignment-07.svg" />
           <h4 class="list-group-item-heading">Review: The Image Element</h4>
           <div class="divider-hw"></div>

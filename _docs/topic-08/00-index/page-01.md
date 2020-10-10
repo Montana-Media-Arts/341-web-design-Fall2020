@@ -30,5 +30,5 @@ Objectives of this topic are as follows.
   <li class="icon-pro">Create a self-made 3+ page site.</li>
   <li class="icon-pro">Showcase an understanding of HTML as markup language.</li>
   <li class="icon-pro">Present a cohesive, linear, and complete set of instructions, directions, or other how-to guide through basic structure and basic styling.</li>
-  <li class="icon-pro">Have a introductory knowledge of inline and embedded styles</li>
+  <li class="icon-pro">Gain introductory knowledge of inline and embedded styles</li>
 </ul>

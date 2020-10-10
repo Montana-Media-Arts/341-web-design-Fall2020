@@ -19,7 +19,7 @@ You may have images of all different sizes you want to include in your page, but
 </div>
 ```html
 img {
-  width: ;
+  width: 100px;
 }
 ```
 
@@ -39,7 +39,7 @@ For example, using `float: left;` will place the image to the left, and elements
 </div>
 ```html
 img {
-  float: ;
+  float: left;
 }
 ```
 

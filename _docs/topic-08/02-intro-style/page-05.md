@@ -19,7 +19,6 @@ Backgrounds are not the only element that can hold a color value. Likewise, you 
   h1{
     color: red;
   } 
-}
 ```
 
 
@@ -33,7 +32,6 @@ Additionally, you can align text using **text-align property**. By default, brow
   h1{
     text-align: center;
     } 
-}
 ```
 
 

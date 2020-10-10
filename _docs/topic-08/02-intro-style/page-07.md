@@ -17,10 +17,10 @@ If you want your lists to stand out from other page contents, you can use the **
 </div>
 ```html
 ul {
-  background-color: ;
+  background-color: lightgrey;
 }
 li {
-  background-color: ;
+  background-color: green;
 }
 ```
 
@@ -33,7 +33,7 @@ Just like with other text elements, you can add the **color property** to the li
 </div>
 ```html
 li {
-  color: ;
+  color: red;
 }
 ```
 
