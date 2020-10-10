@@ -8,10 +8,6 @@ permalink: /topic-08/basic-nav-section/
 
 When pages are long, or visitors are expected to interested in specific topics, you can section the page using `<div>`s with unique `id`s. A page can then include its own navigation with links to those unique sections.
 
-<p><span class="remember-text">Remember?</span><br/>
-Jumping to areas on <a href="../../topic-04/same-page">the same page</a> is a two-step process of <b>adding ids</b> to elements and <b>creating links</b> to those ids.</p>
-
-
 <div class="external-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="mdEJVJG" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="HTML Nav Element, Page Navigation" class="codepen"></p>
 </div>

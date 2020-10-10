@@ -15,7 +15,7 @@ A widespread type of hyperlinking is to create an **email link** within a page. 
   <span class="html">HTML</span>
 </div>
 ```html
-<a href="malto:user@example.com">User's E-mail</a>
+<a href="mailto:user@example.com">User's E-mail</a>
 ```
 
 
