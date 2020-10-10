@@ -48,7 +48,7 @@ To get a “horizontal” nav without much styling, you can simply add `<a href=
 - etc
 
 <div class="external-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="qoNKjY" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="The Nav Element, Flat Text " class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="dyXoYbM" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="The Nav Element, Flat Text " class="codepen"></p>
 </div>
 
 
@@ -56,5 +56,5 @@ To get a “horizontal” nav without much styling, you can simply add `<a href=
 However, lists are preferred by screen-reader technologies as it increases the accessibility of the navigation. The “[Styling Text](../basic-styling-text)” page in the previous subtopic showed you how to display these items horizontally, if preferred.
 
 <div class="external-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="oqLyeP" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="The Nav Element, List Links" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="NWrqGKY" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="The Nav Element, List Links" class="codepen"></p>
 </div>

@@ -13,7 +13,7 @@ Jumping to areas on <a href="../../topic-04/same-page">the same page</a> is a tw
 
 
 <div class="external-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="yKJEQX" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="HTML Nav Element, Page Navigation" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="mdEJVJG" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="HTML Nav Element, Page Navigation" class="codepen"></p>
 </div>
 
 
