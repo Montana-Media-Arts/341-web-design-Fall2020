@@ -567,8 +567,8 @@ topic-09:
   - title: Style Guide
     docs:
     - where-style
-    - style-element
     - style-attribute
+    - style-element
     - style-doc
     - todo-guide
 
