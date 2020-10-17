@@ -13,5 +13,5 @@ As with the global `class` and `id` attributes, every HTML element can be passed
 <span class="label label-info">NOTE:</span> Valid CSS will be discussed over the next few pages.
 
 <div class="codepen-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="XeyVwO" data-default-tab="html,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="Topic-07: Where to Style Pt. 1" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="gOMryeX" data-default-tab="html,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Topic-07: Where to Style Pt. 1" class="codepen"></p>
 </div>
