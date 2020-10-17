@@ -11,7 +11,7 @@ The first cascading rule can be referred to as "**order**," or "the last rule.""
 In the following example, the second rule overwrites the aspects duplicated in the first (i.e. the border specification applies from the first rule, but the color and background-color specs are overwritten).
 
 <div class="codepen-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="vePKWJ" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-07]  Cascading, Pt. 1" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="zYBqXwg" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="[Topic-07]  Cascading, Pt. 1" class="codepen"></p>
 </div>
 
 

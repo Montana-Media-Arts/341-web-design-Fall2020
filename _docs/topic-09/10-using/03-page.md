@@ -53,5 +53,5 @@ The following example creates 4 elements:
 
 
 <div class="codepen-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="BwbWEy" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-07] Opacity" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="RwRaOjV" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="[Topic-07] Opacity" class="codepen"></p>
 </div>

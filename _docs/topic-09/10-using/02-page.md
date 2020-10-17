@@ -12,5 +12,5 @@ The color property is an "inherited" property. This means a developer can define
 
 
 <div class="codepen-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="RLdpge" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-07] Text Color" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="XWKdQev" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="[Topic-07] Text Color" class="codepen"></p>
 </div>
