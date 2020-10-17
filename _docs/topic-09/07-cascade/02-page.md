@@ -19,7 +19,7 @@ In the following example, the second rule overwrites the aspects duplicated in t
 
 This may seem like a funny idea right now that may lead to poorly written code. However, it is common for a developer to use pre-made CSS "frameworks" that they load in as separate documents. They may then want to customize their site by overwriting specific rules. Rather than try to change the declarations, they will create a new CSS document, that keeps track of their specific changes and rules. To ensure these rules take precedence, the developer then simply needs to load in their sheet last.
 
-<span class="label label-danger">IMPORTANT:</span> In the following example, three documents are brought in, but notice that the developer's _(mine)_ is brought in **last**.
+<span class="label label-danger">IMPORTANT:</span> In the following example, three documents are brought in, but notice that the developer's is brought in **last**.
 
 <div class="code-heading">
   <span class="html">HTML</span>
