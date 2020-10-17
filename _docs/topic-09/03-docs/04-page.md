@@ -13,7 +13,7 @@ permalink: /topic-09/link-type/
     </div>
   </div>
   <div class="panel-body">
-    <p style="font-size: large; margin: 0;"><span style="color: #999"><link rel="stylesheet"</span> <span style="color: #79AF33; font-weight: bold;">type="text/css"</span> <span style="color: #999">href="#" / ></span></p>
+    <p style="font-size: large; margin: 0;"><span style="color: #999"><link rel="stylesheet"></span> <span style="color: #79AF33; font-weight: bold;">type="text/css"</span> <span style="color: #999">href="#" / ></span></p>
   </div>
 </div>
 

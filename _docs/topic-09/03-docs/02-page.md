@@ -19,4 +19,4 @@ permalink: /topic-09/link-tag/
 
 It is necessary to tell the browser to use the style defined within the document. To do this, you will add the "link element" (`<link />`) inside the document's head element. Just like the style element, the link element is typically placed near or at the end of the head element. The link element is an empty element, so it only requires a single tag.
 
-<span class="label label-info">NOTE:</span> You may link more than one CSS document by simply including multiple link elements. This is common for larger sites.
+<span class="label label-info">NOTE:</span> Linking more than one CSS document requires including multiple link elements. This is common for larger sites.

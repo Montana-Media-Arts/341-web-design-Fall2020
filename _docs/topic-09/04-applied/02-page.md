@@ -15,7 +15,7 @@ Within each declaration block, there are multiple style rules, each effecting a 
 Notice that in the displayed HTML sample below how the code creates borders make it easier to visually identify the individual elements.
 
 <div class="codepen-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="boZEEy" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="Topic-07: CSS Applied" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="qBNZwZE" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Topic-07: CSS Applied" class="codepen"></p>
 </div>
 
-Visit the next page to try stying this content yourself!
+Visit the next page to try styling this content yourself!

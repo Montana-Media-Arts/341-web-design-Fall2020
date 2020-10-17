@@ -598,14 +598,14 @@ topic-09:
     - selectors-id
     - todo-selectors
 
-  - title: Chaining Selectors
-    docs:
-    - chain-direct
-    - chain-child
-    - chain-descendent
-    - chain-sib-adj
-    - chain-sib-gen
-    - todo-chaining
+ # - title: Chaining Selectors
+  #  docs:
+  #  - chain-direct
+  #  - chain-child
+  #  - chain-descendent
+  #  - chain-sib-adj
+  #  - chain-sib-gen
+  #  - todo-chaining
 
   - title: Cascading
     docs:
@@ -615,11 +615,11 @@ topic-09:
     - cascade-important
     - todo-cascade
 
-  - title: Inheritance
-    docs:
-    - inherit-who
-    - inherit-what
-    - todo-inherit
+  #- title: Inheritance
+  #  docs:
+  #  - inherit-who
+  #  - inherit-what
+  #  - todo-inherit
 
   - title: Exploring Color
     docs:
@@ -630,7 +630,7 @@ topic-09:
     - saturated-color
     - grayscale-color
     - combining-color
-    - color-atom
+   # - color-atom
     - todo-exploring
 
   - title: Using Color

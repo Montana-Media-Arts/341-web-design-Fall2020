@@ -16,6 +16,7 @@ In CSS, comments are placed inside of a 'forward-slash', 'star' set (`/*...*/`).
 <div class="code-heading">
   <span class="css">CSS</span>
 </div>
+
 ```css
 /* Everything between the forward-slash-star pair is a comment. */
 
@@ -36,6 +37,7 @@ This is the type syntax for comments in CSS regardless of whether your CSS is be
 <div class="code-heading">
   <span class="html">HTML</span>
 </div>
+
 ```html
 <!DOCTYPE html>
 <html>

@@ -13,7 +13,7 @@ permalink: /topic-09/link-href/
     </div>
   </div>
   <div class="panel-body">
-    <p style="font-size: large; margin: 0;"><span style="color: #999"><link rel="stylesheet" type="text/css"</span> <span style="color: #79AF33; font-weight: bold;">href="#"</span> <span style="color: #999">/ ></span></p>
+    <p style="font-size: large; margin: 0;"><span style="color: #999"><link rel="stylesheet" type="text/css"></span> <span style="color: #79AF33; font-weight: bold;">href="#"</span> <span style="color: #999">/ ></span></p>
   </div>
 </div>
 

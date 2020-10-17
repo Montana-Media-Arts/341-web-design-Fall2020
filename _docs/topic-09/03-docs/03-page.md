@@ -19,4 +19,4 @@ permalink: /topic-09/link-rel/
 
 The relationship (`rel=""`) attribute describes the relationship of the linked document to the HTML document. When linking to a CSS document, the value for this attribute should be "stylesheet" (i.e. `rel="stylesheet"`).
 
-You should always include this attribute.
+Always include this attribute.
