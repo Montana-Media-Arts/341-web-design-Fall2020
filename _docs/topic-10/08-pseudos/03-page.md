@@ -37,5 +37,5 @@ The web was built with links, for links, on links. They are fundamental to the i
 In the example below, the link should turn to gray after you visit it (it will open in a new tab/window).
 
 <div class="codepen-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="KywzgB" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-08] Pseudo-Classes, Pt. 2" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="NWrdoYY" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Pseudo-Classes, Pt. 2" class="codepen"></p>
 </div>

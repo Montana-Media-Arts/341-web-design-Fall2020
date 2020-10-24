@@ -25,5 +25,5 @@ The second property that allows for the control of capitalization is **text-tran
 - `capitalize` (capitalize the first letter of each word, also known as "title case")
 
 <div class="codepen-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="VxeVQG" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-09]  Text Transform (Toggle)" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="GRqrPqa" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Text Transform (Toggle)" class="codepen"></p>
 </div>

@@ -17,6 +17,7 @@ Respectively, these allow for the selection of the first letter or first line in
 <div class="code-heading">
   <span class="css">CSS</span>
 </div>
+
 ```css
 selector::first-letter {}
 selector::first-line {}
@@ -33,5 +34,5 @@ p::first-letter {
 In the example below, try changing the font size. Becase we used pseudo-selectors instead of more direct selectors, content like the first line remains styled as set. The first line remains the first line, despite how many words there are in it.
 
 <div class="codepen-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="OZMdWz" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="OZMdWz" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="abZpXYo" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="OZMdWz" class="codepen"></p>
 </div>

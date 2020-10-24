@@ -18,5 +18,5 @@ Both are relatively similar in how they work. A value of `100%` or `1em` will bo
 <span class="label label-info">NOTE:</span> An `em` is described as being the width of the letter 'm'. So 1em is the width of an 'm' in the specified font.
 
 <div class="codepen-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="vWYNRv" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-08] Adding Emphasis, Pt. 7" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="xxOgQoP" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Font Size, Pt. 2" class="codepen"></p>
 </div>

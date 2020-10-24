@@ -19,5 +19,5 @@ _Italic_ is the style you are familiar with: setting this in CSS should cause th
 - `oblique`
 
 <div class="codepen-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="qYdLZW" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-08] Adding Emphasis, Pt. 5" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="bGegOGG" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Adding Emphasis, Pt. 2" class="codepen"></p>
 </div>

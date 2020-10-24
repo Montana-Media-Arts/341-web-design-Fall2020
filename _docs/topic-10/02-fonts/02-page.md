@@ -13,7 +13,7 @@ For example, the following will cause the browser to first try and load "Comic S
 The browser will do this by asking the client for the font. If the client doesn't have the font, then the browser will try the next listed font in the chain.
 
 <div class="codepen-embed">
-  <p data-height="200" data-theme-id="30567" data-slug-hash="WZqKxo" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-08] Including Fonts, Pt. 2" class="codepen"></p>
+  <p data-height="200" data-theme-id="30567" data-slug-hash="GRqrweP" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Including Fonts, Pt. 2" class="codepen"></p>
 </div>
 
 <span class="label label-danger">IMPORTANT:</span> You should not choose fallback fonts carelessly. There are instances where primary fonts load slowly, and the next font in the stack takes its place while processing occurs. Having two unrelated fonts flash in can be jarring, and affect page layout.

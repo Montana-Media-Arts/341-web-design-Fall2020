@@ -23,8 +23,8 @@ There are three weights of this font:
 When selecting the font for use, the CSS specifies the `font-weight:` and `font-style:` which then allows the browser to call the correct font package.
 
 <div class="codepen-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="RjNygz" data-default-tab="css" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-08] External Fonts, Pt. 2 (FONTS.css)" class="codepen"></p>
-  <p data-height="600" data-theme-id="30567" data-slug-hash="QOwrQd" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-08] External Fonts, Pt. 2 (STYLE.css)" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="WNxRPKy" data-default-tab="css" data-user="retrog4m3r" data-embed-version="2" data-pen-title="External Fonts, Pt. 2 (FONTS.css)" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="bGegzmM" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="External Fonts, Pt. 2 (STYLE.css)" class="codepen"></p>
 </div>
 
 <!--Please continue to the next pages to see how this Pen was created and set-up in the directory.-->

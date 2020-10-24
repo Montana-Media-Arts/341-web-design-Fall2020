@@ -26,7 +26,7 @@ There are two properties that allow developers to set the capitalization of text
 In a small-caps font, all lowercase letters are converted to uppercase letters. However, the converted uppercase letters appears in a smaller font size than the original uppercase letters in the text.
 
 <div class="codepen-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="MGKzzp" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-09] Font-Varient (Toggle)" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="MWeJZYb" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Font-Variant (Toggle)" class="codepen"></p>
 </div>
 
 <!--<div class="codepen-embed">

@@ -9,7 +9,7 @@ permalink: /topic-10/using-size/
 When deciding how to set the fonts of your page, remember that font size is an _inherited_ property. So, setting the font size for a parent element will cause it to be inherited by all child elements. When setting relative sizes, the parents must also utilize relative sizes, or they will override all other declarations.
 
 <div class="codepen-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="yPLNZL" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-08] Adding Emphasis, Pt. 6" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="wvWgQLV" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Font Size, Pt. 3" class="codepen"></p>
 </div>
 
 ## An argument for relative sizes:
@@ -24,7 +24,7 @@ On the other hand, the `h3` element has been set to an absolute value of 40px. T
 Finally, the relative size of `parent-1` and `parent-2` have been set uniquely so as to demonstrate the ability of relative sizes to maintain their relationships.
 
 <div class="codepen-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="ZaEbNX" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-08] Font Size, Pt. 4" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="XWKpyvg" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Font Size, Pt. 4" class="codepen"></p>
 </div>
 
 <span class="label label-info">NOTE:</span> If you intend to use ems or %, you must set the base size for the elements you are using also in ems or %. The parents elements must also use these relative sizes, all the way up to the `html` selector.

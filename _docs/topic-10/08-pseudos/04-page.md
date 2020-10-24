@@ -17,6 +17,7 @@ The most common pseudo-class states:
 <div class="code-heading">
   <span class="css">CSS</span>
 </div>
+
 ```css
 selector:hover {}
 selector:active {}
@@ -39,5 +40,5 @@ Buttons are built with states. Active states make a button feel more real by sli
 If the example below, the button utitlizes `:hover` to change the appearance of the text, and `:active` to give the experience of a button press.
 
 <div class="codepen-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="OOPNgx" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-08] Pseudo-Classes, Pt. 3" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="qBNRgYd" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Pseudo-Classes, Pt. 3" class="codepen"></p>
 </div>

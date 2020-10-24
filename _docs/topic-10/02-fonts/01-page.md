@@ -13,7 +13,7 @@ To specify a font, use the `font-family: ` property. At a minimum, every browser
 - `monospace`
 
 <div class="codepen-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="RLzBbm" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-08] Including Fonts, Pt. 1" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="abZpQMy" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Including Fonts, Pt. 1" class="codepen"></p>
 </div>
 
 Instead of using generic font class names, developers may also use specific font family names. When a specific font family is listed, the browser will try to load the font from the client computer's font library.

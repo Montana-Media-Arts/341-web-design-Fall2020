@@ -56,5 +56,5 @@ An appropriate line height, at its simplest, is one that encourages readability 
 However, in general, ideal leading ratios tend to be mentioned in the range of **1.2 - 1.45 times the text size**. This is typically larger than the size of a horizontal space between words, which encourages the eyes movement along the line, but not so large as to make text look separate from each other.
 
 <div class="codepen-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="NMGJgq" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-09] Line Height (Toggle)" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="VwjPqXN" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Line Height" class="codepen"></p>
 </div>
