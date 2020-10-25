@@ -13,3 +13,5 @@ Continuing with the example files from the previous page, we can utilize Google 
 ## Option C: Embedding Fonts Using CSS and `@import`
 
 <iframe src="https://umontanamediaarts.com/MART341/wp-admin/admin-ajax.php?action=h5p_embed&id=31" width="877" height="430" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://umontanamediaarts.com/MART341/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<a href="https://umontanamediaarts.com/MART341/wp-admin/admin-ajax.php?action=h5p_embed&id=31" target="_new">View Larger</a>
