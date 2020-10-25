@@ -26,4 +26,4 @@ See how poorly "Impact" references what will eventually be "Merriweather?"
 
 <img src="../img/font-flop-georgia.gif" style="width: 100%; max-width: 600px; margin: auto" alt="two fonts meshing with each other" title="Merriweather vs. Georgia"/>
 
-Visit [Font Style Matcher](https://meowni.ca/font-style-matcher/) to experiment with finding appropriate fallbacks!
+Visit <a href="https://meowni.ca/font-style-matcher/" target="_new">Font Style Matcher</a> to experiment with finding appropriate fallbacks!

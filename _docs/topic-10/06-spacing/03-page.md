@@ -22,7 +22,7 @@ To adjust how glyphs are spaced, use the `font-kerning: ` property.
 ```
 
 `font-kerning:` accepts these term values:
-- `auto` (default, the browser determins)
+- `auto` (default, the browser determines)
 - `normal` (use information stored in the font)
 - `none` (disable font's kerning)
 

@@ -26,4 +26,4 @@ p:hover {}
 ```
 <span class="label label-info">NOTE:</span> Pseudo-elements are preceded by double colons, as opposed to a single colon like with pseudo-classes.
 
-You encounter pseudo-selections daily, particularly with links. If a link changes color [when you interact with it](../../../), its states (like `:hover`) have been set in the site's styling.
+You encounter pseudo-selections daily, particularly with links. If a link changes color [when you interact with it](../../), its states (like `:hover`) have been set in the site's styling.
