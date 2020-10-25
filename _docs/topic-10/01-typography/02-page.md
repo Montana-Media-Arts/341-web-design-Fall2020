@@ -176,11 +176,14 @@ There are three general types of fonts that can be used in basic classification:
       <p>Since using a monospaced font essentially creates a grid system, many hackers (and any 90's teenager worth their salt) have utilized monospace fonts to create "ASCII Text Art."</p>
 
       <pre>
-         __               _    _
-         \ \  _   _  ___ | |_ (_) _ __    ___
-          \ \| | | |/ __|| __|| || '_ \  / _ \
-       /\_/ /| |_| |\__ \| |_ | || | | ||  __/
-       \___/  \__,_||___/ \__||_||_| |_| \___|
+(       )(  ____ \(  __  \ \__   __/(  ___  )  (  ___  )(  ____ )\__   __/(  ____ \
+| () () || (    \/| (  \  )   ) (   | (   ) |  | (   ) || (    )|   ) (   | (    \/
+| || || || (__    | |   ) |   | |   | (___) |  | (___) || (____)|   | |   | (_____ 
+| |(_)| ||  __)   | |   | |   | |   |  ___  |  |  ___  ||     __)   | |   (_____  )
+| |   | || (      | |   ) |   | |   | (   ) |  | (   ) || (\ (      | |         ) |
+| )   ( || (____/\| (__/  )___) (___| )   ( |  | )   ( || ) \ \__   | |   /\____) |
+|/     \|(_______/(______/ \_______/|/     \|  |/     \||/   \__/   )_(   \_______)
+                                                                                   
       </pre>
 
     </div>
