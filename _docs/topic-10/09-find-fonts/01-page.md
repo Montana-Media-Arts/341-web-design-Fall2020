@@ -12,4 +12,5 @@ As a developer you will want to include specific fonts for certain sites. These 
 
 Developers can include external fonts a number of ways. However, when including external fonts, you should keep in mind that this is an additional resource the client computer will have to download. This may impact speed and performance. Therefore you should only include external fonts with _purpose_, and ensure that you only include fonts you are actually using.
 
-One way to include an external font is to place its resource files in a sub-directory on your server, similar to how images, stylesheets, and other external resources are handled (or [self-hosted videos](../../topic-06/video-element/) from Topic-06.)
+One way to include an external font is to place its resource files in a sub-directory on your server, similar to how images, stylesheets, and other external resources are handled (or [self-hosted videos](../../topic-07/video-hosting))
+
