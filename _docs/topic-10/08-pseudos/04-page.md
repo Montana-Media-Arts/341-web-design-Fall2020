@@ -6,7 +6,7 @@ permalink: /topic-10/pseudo-states/
 
 <div class="divider-heading"></div>
 
-You'll notice on the previous page's example that the style of the link reacted when you moused-over it. This provides a visual idicator to a visitor that the link is still active, should they look for it again after it was visited (set to gray out in the `:visited` state).
+You'll notice on the previous page's example that the style of the link reacted when you moused-over it. This provides a visual indicator to a visitor that the link is still active, should they look for it again after it was visited (set to gray out in the `:visited` state).
 
 Many pseudo-classes react to events like these, which we generally refer to as **states.**
 

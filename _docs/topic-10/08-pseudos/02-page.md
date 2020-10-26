@@ -31,7 +31,7 @@ p::first-letter {
 
 ### “Why would I use a pseudo-element?”
 
-In the example below, try changing the font size. Becase we used pseudo-selectors instead of more direct selectors, content like the first line remains styled as set. The first line remains the first line, despite how many words there are in it.
+In the example below, try changing the font size. Because we used pseudo-selectors instead of more direct selectors, content like the first line remains styled as set. The first line remains the first line, despite how many words there are in it.
 
 <div class="codepen-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="abZpXYo" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="OZMdWz" class="codepen"></p>

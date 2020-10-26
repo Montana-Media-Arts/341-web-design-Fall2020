@@ -6,7 +6,7 @@ permalink: /topic-10/pseudo-classes/
 
 <div class="divider-heading"></div>
 
-A **pseudo-class** can be added to an element to style it _only_ during certin conditions. Additional CSS rules can be applied to the page so that when an an event is triggered (like clicking on something), the element visually changes for users.
+A **pseudo-class** can be added to an element to style it _only_ during certain conditions. Additional CSS rules can be applied to the page so that when an an event is triggered (like clicking on something), the element visually changes for users.
 
 This is the same technology that allows browsers to alter the appearance of links when you hover over them, click them, or after you have visited them.
 
