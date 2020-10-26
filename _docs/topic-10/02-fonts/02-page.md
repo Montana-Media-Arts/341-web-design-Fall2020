@@ -6,7 +6,7 @@ permalink: /topic-10/font-fallbacks/
 
 <div class="divider-heading"></div>
 
-The font-family property should contain the primary font choice, which is then followed with a comma-delineated, list-of-fonts for the browser to _try_ and load should the primary choice fail for some reason. We consider these **fallback fonts**, in a **font stack**.
+The font-family property should contain the primary font choice, which is then followed with a comma-delimited, list-of-fonts for the browser to _try_ and load should the primary choice fail for some reason. We consider these **fallback fonts**, in a **font stack**.
 
 For example, the following will cause the browser to first try and load "Comic Sans MS". If the client computer (yours, in this case) does not have a font matching that name, it will then try "Comic Sans", then "Garamond", then "Times", then finally the your default 'serif' font.
 
