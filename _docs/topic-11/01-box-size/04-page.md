@@ -15,7 +15,7 @@ Setting the `min-width: ` and/or `min-height: ` properties ensures a content box
 Likewise, setting the `max-width: ` and/or `max-height: ` properties ensures that a box that is intended to display a small amount of information never gets too big.
 
 <div class="codepen-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="xPRBqp" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-09] Box Models, Pt. 4" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="BazrXmo" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Box Models, Pt. 4" class="codepen"></p>
 </div>
 
 

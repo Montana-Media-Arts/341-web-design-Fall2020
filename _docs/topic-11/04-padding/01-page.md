@@ -18,6 +18,7 @@ As with borders, you can use shorthand to set the padding of an element. A singl
 <div class="code-heading">
   <span class="css">CSS</span>
 </div>
+
 ```css
 /* ALL sides with have a padding of 1em: */
 .my-box {
@@ -44,6 +45,7 @@ You can also control the padding of individual sides by setting them individuall
 <div class="code-heading">
   <span class="css">CSS</span>
 </div>
+
 ```css
 .my-box {
   padding-top: ;

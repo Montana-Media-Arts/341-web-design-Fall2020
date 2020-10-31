@@ -13,5 +13,5 @@ Setting an elements position to 'absolute' also has the effect of taking it "out
 In the following example, the second paragraph is placed 20 pixels from the top and 100 pixels from the left, regardless of what the other elements are doing or where they are positioned. As a result, this paragraph (`.absolute-element`) is positioned "on top" of the other elements.
 
 <div class="codepen-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="bYgZqy" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-09] Position, Pt. 2" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="LYZmPGw" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Position, Pt. 2" class="codepen"></p>
 </div>

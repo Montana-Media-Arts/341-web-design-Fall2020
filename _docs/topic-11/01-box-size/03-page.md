@@ -32,7 +32,7 @@ This may also get slightly askew when your user increases or decreases the font 
 That being said, there are times when using pixels is appropriate.
 
 <div class="codepen-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="OObdbv" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-09]  Box Models, Pt. 1" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="GRqxVEV" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Box Models, Pt. 1" class="codepen"></p>
 </div>
 
 <h3>Relative Sizes</h3>
@@ -56,7 +56,7 @@ In the following example, the parent-container or outer-box is set to be 66% the
 The 'inner-box' is set to be 75% of the width, and 50% of the height of the 'parent-container.'
 
 <div class="codepen-embed">
-  <p data-height="400" data-theme-id="30567" data-slug-hash="qVqgxR" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-09] Box Models, Pt. 2" class="codepen"></p>
+  <p data-height="400" data-theme-id="30567" data-slug-hash="oNLqKeQ" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Box Models, Pt. 2" class="codepen"></p>
 </div>
 
 
@@ -77,5 +77,5 @@ Now that our boxes can resize in relation to the screen using _relative_ values,
 The following is the same example as the previous <u>except</u> the height of the 'parent-container' is set to 300px. There is also more text. Notice that when you make your browser window narrow, the text spills out of the element. _This is plain example of bad web design._
 
 <div class="codepen-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="VrmRZX" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-09] Box Models, Pt. 3" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="MWeVNEv" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Box Models, Pt. 3" class="codepen"></p>
 </div>

@@ -13,6 +13,7 @@ To hide an element, set the `display` properties value to `none`. To get it to a
 <div class="code-heading">
   <span class="css">CSS</span>
 </div>
+
 ```css
 .child-class-to-unhide {
     display: none;

@@ -11,5 +11,5 @@ Using the fixed position also allows you to develop headers or menu bars that ar
 Notice, that when you scroll the below example, the header stays in place. Also notice, that in order to accomplish this look, we have to move the `.main-content` container down, so that it does not appear behind the header.
 
 <div class="codepen-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="NwdmbR" data-default-tab="result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-09] Dropdown Menu, Sticky" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="qBNYWae" data-default-tab="result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Dropdown Menu, Sticky" class="codepen"></p>
 </div>

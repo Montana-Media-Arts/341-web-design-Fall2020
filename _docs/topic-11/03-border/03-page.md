@@ -16,5 +16,5 @@ This property can be set with:
 This property can also have each corner set all at once by supplying either four values, or four values representing the horizontal corner curve amounts. A forward slash followed by four more values represents the vertical corner curve amounts.
 
 <div class="codepen-embed">
-  <p data-height="600" data-theme-id="30567" data-slug-hash="OOWPag" data-default-tab="css,result" data-user="Media-Ed-Online" data-embed-version="2" data-pen-title="[Topic-09] Borders, Pt. 2" class="codepen"></p>
+  <p data-height="600" data-theme-id="30567" data-slug-hash="qBNoepJ" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Borders, Pt. 2" class="codepen"></p>
 </div>
