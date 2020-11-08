@@ -6,7 +6,7 @@ permalink: /topic-12/nav-menu-bar/
 
 <div class="divider-heading"></div>
 
-In the HTML module you looked at <a href="../../topic-08/basic-nav-about/">navigating to site pages</a> using the **nav element**. There, we created a list of links, perhaps broken up by vertical lines or spacing:
+In the HTML module you looked at <a href="../../topic-08/basic-nav-about/" target="_new">navigating to site pages</a> using the **nav element**. There, we created a list of links, perhaps broken up by vertical lines or spacing:
 
 <div class="external-embed">
   <p data-height="400" data-theme-id="30567" data-slug-hash="WNxgBMr" data-default-tab="html,result" data-user="retrog4m3r" data-pen-title="HTML Nav Element, Page Navigation" class="codepen"></p>
