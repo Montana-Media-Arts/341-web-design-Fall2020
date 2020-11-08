@@ -62,5 +62,8 @@ For 4:3 Aspect Ratio
 
 ```
 
+<div class="codepen-embed">
+  <p data-height="600" data-theme-id="30567" data-slug-hash="RwRYmBm" data-default-tab="result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Responsive iframes" class="codepen"></p>
+</div>
 
-<a href="https://www.w3schools.com/css/css_rwd_images.asp" target="_new"><em>Reference</em></a>
+<a href="https://www.w3schools.com/howto/howto_css_responsive_iframes.asp" target="_new"><em>Reference</em></a>
