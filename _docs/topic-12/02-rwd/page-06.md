@@ -29,7 +29,6 @@ If the browser window is 600px or smaller, the background color will be lightblu
 Another example
 
 ```css
-
 /* For desktop: */
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
@@ -50,7 +49,6 @@ Another example
     width: 100%;
   }
 }
-
 ```
 
 When the screen (browser window) gets smaller than 768px, each column should have a width of 100%.
@@ -64,7 +62,6 @@ This means that we must make some changes in our CSS.
 Instead of changing styles when the width gets smaller than 768px, we should change the design when the width gets larger than 768px. This will make our design Mobile First.
 
 ```css
-
 /* For mobile phones: */
 [class*="col-"] {
   width: 100%;
@@ -85,13 +82,11 @@ Instead of changing styles when the width gets smaller than 768px, we should cha
   .col-11 {width: 91.66%;}
   .col-12 {width: 100%;}
 }
-
 ```
 
 One can design for as many screen sizes as they want.
 
 ```css
-
 /* For mobile phones: */
 [class*="col-"] {
   width: 100%;
@@ -128,12 +123,10 @@ One can design for as many screen sizes as they want.
   .col-11 {width: 91.66%;}
   .col-12 {width: 100%;}
 }
-
 ```
 
 <div class="codepen-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="abZaMJX" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Media Queries" class="codepen"></p>
 </div>
-
 
 <a href="https://www.w3schools.com/css/css_rwd_mediaqueries.asp" target="_new"><em>Reference</em></a>

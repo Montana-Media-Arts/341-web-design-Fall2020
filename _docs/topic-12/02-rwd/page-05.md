@@ -17,17 +17,14 @@ First ensure that all HTML elements have the box-sizing property set to border-b
 Add the following code in your CSS:
 
 ```css
-
 * {
-  box-sizing: border-box;
-}
+    box-sizing: border-box;
+  }
 ```
 
 The following example shows a simple responsive web page, with two columns:
 
 ```css
-
-
 .menu {
   width: 25%;
   float: left;
@@ -50,11 +47,9 @@ The following example shows a simple responsive web page, with two columns:
 p{
   text-align: justify;
 }
-
 ```
 
 ```html
-
 <div class="menu">
    <div class="menu-item display-inline-block">
       Home
@@ -74,7 +69,6 @@ p{
   <h1>Main Information</h1>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 </div>
-
 ```
 
 <div class="codepen-embed">
@@ -89,7 +83,6 @@ Then make one class for each of the 12 columns, class="col-" and a number defini
 
 
 ```css
-
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
 .col-3 {width: 25%;}
@@ -102,28 +95,23 @@ Then make one class for each of the 12 columns, class="col-" and a number defini
 .col-10 {width: 83.33%;}
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
-
 ```
 
 We should also apply the following to all the classes
 
 ```css
-
 [class*="col-"] {
   float: left;
   padding: 15px;
 }
-
 ```
 
 ```css
-
 .row::after {
   content: "";
   clear: both;
   display: table;
 }
-
 ```
 
 ```html
@@ -148,7 +136,6 @@ We should also apply the following to all the classes
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
   </div>
 </div>
-
 ```
 
 In this example, let's look at shrinking the size of the menu and then letting the rest of the content fill the page.  If the screen is too small, then it will wrap to the next line instead of crowding the menu.

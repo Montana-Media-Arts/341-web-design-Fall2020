@@ -21,17 +21,14 @@ The aspect ratio of an element describes the proportional relationship between i
 1. Use a container element, like <div>, and add the iframe inside of it:
 
 ```html
-
 <div class="container">
   <iframe class="responsive-iframe" src="https://www.youtube.com/embed/V1bFr2SWP1I"></iframe>
 </div>
-
 ```
 
 2. Add a percentage value for padding-top to maintain the aspect ratio of the container `div`. The following example will create an aspect ratio of 16:9, which is the default aspect ratio of YouTube videos.
 
 ```css
-
 .container {
   position: relative;
   overflow: hidden;
@@ -49,17 +46,14 @@ The aspect ratio of an element describes the proportional relationship between i
   width: 100%;
   height: 100%;
 }
-
 ```
 
 For 4:3 Aspect Ratio
 
 ```css
-
 .container {
   padding-top: 75%; /* 4:3 Aspect Ratio */
 }
-
 ```
 
 <div class="codepen-embed">
