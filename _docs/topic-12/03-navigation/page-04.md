@@ -6,7 +6,7 @@ permalink: /topic-12/nav-menu-sticky/
 
 <div class="divider-heading"></div>
 
-By now you should be familiar with [relative positioning](../../topic-11/position-relative/) and [absolute postitioning](/topic-11/position-absolute/), both of which allow you to place items where you want in relative to other elements.
+By now you should be familiar with <a href="../../topic-11/position-relative/" target="_new">relative positioning</a> and <a href="../../topic-11/position-absolute/" target="_new">absolute postitioning</a>, both of which allow you to place items where you want in relative to other elements.
 
 
 <div class="divider-pg"></div>
