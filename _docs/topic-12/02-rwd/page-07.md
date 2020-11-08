@@ -45,6 +45,93 @@ Experiment with `width` and `max-width`
 </div>
 
 
+### Background Images
+
+Background images can also respond to resizing and scaling.
+
+There are three different methods:
+
+1. If the background-size property is set to "contain", the background image will scale, and try to fit the content area. However, the image will keep its aspect ratio (the proportional relationship between the image's width and height):
+
+```css
+
+div {
+  width: 100%;
+  height: 400px;
+  background-image: url('scissors.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+
+}
+
+```
+
+2. If the background-size property is set to "100% 100%", the background image will stretch to cover the entire content area.
+
+```css
+
+div {
+  width: 100%;
+  height: 400px;
+  background-image: url('scissors.png');
+  background-size: 100% 100%;
+ 
+}
+
+```
+
+3. If the background-size property is set to "cover", the background image will scale to cover the entire content area. Notice that the "cover" value keeps the aspect ratio, and some part of the background image may be clipped.
+
+```css
+
+div {
+  width: 100%;
+  height: 400px;
+  background-image: url('scissors.png');
+  background-size: cover;
+
+}
+
+```
+### Different Images for Different Devices
+
+A large image can be perfect on a big computer screen, but useless on a small device. Why load a large image when you have to scale it down anyway? To reduce the load, or for any other reasons, you can use media queries to display different images on different devices.
+
+Here is one large image and one smaller image that will be displayed on different devices.
+
+```css
+
+/* For width smaller than 400px: */
+body {
+  background-image: url('scissors_small.png');
+}
+
+/* For width 400px and larger: */
+@media only screen and (min-width: 600px) {
+  body {
+    background-image: url('scissors.png');
+  }
+}
+
+```
+
+<div class="codepen-embed">
+  <p data-height="600" data-theme-id="30567" data-slug-hash="gOMdEzg" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Background Images" class="codepen"></p>
+</div>
+
+
+Another option is the choose the device width rather than the width.
+
+```css
+
+/* For devices 400px and larger: */
+@media only screen and (min-device-width: 600px) {
+  body {
+    background-image: url('scissors.png');
+  }
+}
+
+```
 
 
 

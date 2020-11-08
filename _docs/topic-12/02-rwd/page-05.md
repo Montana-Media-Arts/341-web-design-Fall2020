@@ -151,7 +151,7 @@ We should also apply the following to all the classes
 
 ```
 
-In this example, let's look at shrinking the size of the menu and then letting the rest of the content fill the page.
+In this example, let's look at shrinking the size of the menu and then letting the rest of the content fill the page.  If the screen is too small, then it will wrap to the next line instead of crowding the menu.
 
 <div class="codepen-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="ExyeMKO" data-default-tab="css,result" data-user="retrog4m3r" data-embed-version="2" data-pen-title="Grid-View 12 Column" class="codepen"></p>
