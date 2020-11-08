@@ -825,9 +825,12 @@ topic-12:
   - title: Responsive Web Design
     docs:
     - rwd-intro
+    - rwd-mobile-first
     - rwd-viewport
     - rwd-targets
-    - rwd-mobile-first
+    - rwd-gridview
+    - rwd-mediaquery
+    - rwd-images
     - todo-rwd
 
   - title: Interactive Navigation

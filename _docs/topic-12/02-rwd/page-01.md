@@ -22,7 +22,7 @@ It encompasses a few critical ideas. First and foremost, a web page should look 
 There are many ways of developing a responsive site. There is not necessarily a “correct” solution.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/m3IA3DVnv6Y?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zF6VSky4SIc" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Responsive Contact Us form
