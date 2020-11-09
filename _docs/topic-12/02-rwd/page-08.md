@@ -18,7 +18,7 @@ The goal is to create an iframe that will keep the aspect ratio (4:3, 16:9, etc.
 The aspect ratio of an element describes the proportional relationship between its width and its height. Two common video aspect ratios are 4:3 (the universal video format of the 20th century), and 16:9 (universal for HD television and European digital television, and for YouTube videos).
 
 
-1. Use a container element, like <div>, and add the iframe inside of it:
+Use a container element, like <div>, and add the iframe inside of it:
 
 ```html
 <div class="container">
@@ -26,7 +26,7 @@ The aspect ratio of an element describes the proportional relationship between i
 </div>
 ```
 
-2. Add a percentage value for padding-top to maintain the aspect ratio of the container `div`. The following example will create an aspect ratio of 16:9, which is the default aspect ratio of YouTube videos.
+Add a percentage value for padding-top to maintain the aspect ratio of the container `div`. The following example will create an aspect ratio of 16:9, which is the default aspect ratio of YouTube videos.
 
 ```css
 .container {
